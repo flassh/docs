@@ -65,7 +65,7 @@ Example values to use as a starting point:
 
 ### Camera date and time
 
-Make sure your camera's date and time are correct and that the time matches the current time in your organization's timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo's EXIF metadata.
+Make sure your camera's date and time are correct and that the time matches the current time in your organization's timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo's EXIF metadata. [Learn more about changing your account's timezone]({{< relref "web/index.md#change-timezone" >}})
 
 If you're using multiple booths (multiple cameras) in a single event, make sure the cameras are synced as close to the second as possible. If they're not the same (or very close), photos will not appear in their expected sequence in the app and online galleries.
 
