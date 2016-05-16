@@ -85,7 +85,7 @@
 
 &lt;h3 id=&#34;camera-date-and-time&#34;&gt;Camera date and time&lt;/h3&gt;
 
-&lt;p&gt;Make sure your camera&amp;rsquo;s date and time are correct and that the time matches the current time in your organization&amp;rsquo;s timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo&amp;rsquo;s EXIF metadata.&lt;/p&gt;
+&lt;p&gt;Make sure your camera&amp;rsquo;s date and time are correct and that the time matches the current time in your organization&amp;rsquo;s timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo&amp;rsquo;s EXIF metadata. &lt;a href=&#34;http://docs.flassh.co/web/#change-timezone&#34;&gt;Learn more about changing your account&amp;rsquo;s timezone&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re using multiple booths (multiple cameras) in a single event, make sure the cameras are synced as close to the second as possible. If they&amp;rsquo;re not the same (or very close), photos will not appear in their expected sequence in the app and online galleries.&lt;/p&gt;
 
