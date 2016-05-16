@@ -17,9 +17,35 @@
       <guid>http://docs.flassh.co/web/</guid>
       <description>
 
+&lt;h2 id=&#34;change-organization-name&#34;&gt;Change organization name&lt;/h2&gt;
+
+&lt;p&gt;Your organization name is the name that is shown as the owner of your events and is visible to anyone browsing your galleries on the web or on their own devices. When someone shares one or more photos via email, the &amp;ldquo;From&amp;rdquo; name of that email will be the name you set here.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re a solo photographer, it may make sense for this to be your full name so people can find your events. If you are a company, you&amp;rsquo;ll want to use your company&amp;rsquo;s name here.&lt;/p&gt;
+
+&lt;p&gt;To change your account&amp;rsquo;s timezone, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Organization Settings&amp;rdquo; section and tap the &amp;ldquo;Edit Organization&amp;rdquo; button. Enter your organization&amp;rsquo;s name and tap the &amp;ldquo;Save Organization Info&amp;rdquo; button.&lt;/p&gt;
+
+&lt;h2 id=&#34;change-name-or-email-address&#34;&gt;Change name or email address&lt;/h2&gt;
+
+&lt;p&gt;The name and email you use is private within your organization. We use them to communicate you for support tickets and billing, but no one else sees these, and they will never be shown in any event information. This lays the groundwork for allowing multiple users and logins within a single organization (which is not yet available).&lt;/p&gt;
+
+&lt;p&gt;To change your name or email, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;My Info&amp;rdquo; section and tap the &amp;ldquo;Edit My Info&amp;rdquo; button. Modify your name and/or email and hit the &amp;ldquo;Save My Info&amp;rdquo; button. It&amp;rsquo;s important that your email is valid, as this is how we contact you.&lt;/p&gt;
+
 &lt;h2 id=&#34;change-timezone&#34;&gt;Change timezone&lt;/h2&gt;
 
-&lt;p&gt;It&amp;rsquo;s important that your timezone lines up with the time you have set on your camera.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s important that your timezone lines up with the time you have set on your camera. If you travel, we recommend maintaining a consistent timezone in your account and always using that timezone&amp;rsquo;s time when configuring the date/time on your camera.&lt;/p&gt;
+
+&lt;p&gt;To change your account&amp;rsquo;s timezone, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Organization Settings&amp;rdquo; section and tap the &amp;ldquo;Edit Organization&amp;rdquo; button. Select your timezone and tap the &amp;ldquo;Save Organization Info&amp;rdquo; button.&lt;/p&gt;
+
+&lt;h2 id=&#34;configure-a-gallery-subdomain&#34;&gt;Configure a gallery subdomain&lt;/h2&gt;
+
+&lt;p&gt;Each account is configured with a web gallery that contains all events owned by that organization. By default each account is assigned a random subdomain, one that is likely not memorable and is not representative of your organization&amp;rsquo;s name or brand. To change it, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Public Gallery&amp;rdquo; section and tap the &amp;ldquo;Edit Gallery URL&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;re prompted to specify a subdomain. Choose a subdomain that is 6 characters or more, starts with a letter, and only contains numbers and letters. For example, specifying &amp;ldquo;photos&amp;rdquo; will give you a public gallery URL of &lt;a href=&#34;https://photos.flassh.co&#34;&gt;https://photos.flassh.co&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note, when you change this subdomain, any existing links to your web galleries will break, and the new URLs will take effect immediately.&lt;/p&gt;
+
+&lt;p&gt;Fully custom domains (photobooth.yourdomain.com) are not currently supported.&lt;/p&gt;
 </description>
     </item>
     
