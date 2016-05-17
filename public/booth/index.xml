@@ -83,17 +83,39 @@
 &lt;li&gt;ISO: 400&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: when Flassh fetches photos from the camera, photos are resized to 2560px wide prior to upload to our servers. This ensures fast, consistent upload and photo processing speeds with a high enough resolution for most uses. If you need higher resolution images, they are always available on the SD card in the camera.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;camera-date-and-time&#34;&gt;Camera date and time&lt;/h3&gt;
 
-&lt;p&gt;Make sure your camera&amp;rsquo;s date and time are correct and that the time matches the current time in your organization&amp;rsquo;s timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo&amp;rsquo;s EXIF metadata.&lt;/p&gt;
+&lt;p&gt;Make sure your camera&amp;rsquo;s date and time are correct and that the time matches the current time in your organization&amp;rsquo;s timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo&amp;rsquo;s EXIF metadata. &lt;a href=&#34;http://docs.flassh.co/web/#change-timezone&#34;&gt;Learn more about changing your account&amp;rsquo;s timezone&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re using multiple booths (multiple cameras) in a single event, make sure the cameras are synced as close to the second as possible. If they&amp;rsquo;re not the same (or very close), photos will not appear in their expected sequence in the app and online galleries.&lt;/p&gt;
 
+&lt;h2 id=&#34;connect-your-camera&#34;&gt;Connect your camera&lt;/h2&gt;
+
+&lt;p&gt;With Flassh Connect open in the background, Flassh Booth open in the foreground, and your &lt;a href=&#34;#supported-cameras&#34;&gt;supported Canon DSLR&lt;/a&gt; powered on and connected, you&amp;rsquo;ll see camera info at the top of your screen (vendor, model, as well as aperture, shutter speed, and ISO). If you&amp;rsquo;ve gotten to this point, you&amp;rsquo;re ready to run an event!&lt;/p&gt;
+
 &lt;h2 id=&#34;create-new-event&#34;&gt;Create New Event&lt;/h2&gt;
+
+&lt;p&gt;Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.&lt;/p&gt;
+
+&lt;p&gt;To create a new event, tap the &amp;ldquo;+ Create new event&amp;rdquo; button at the top of the screen. An event name and date are required, all other fields are optional. [Learn more about event settings]()&lt;/p&gt;
 
 &lt;h2 id=&#34;run-an-event&#34;&gt;Run an event&lt;/h2&gt;
 
-&lt;h2 id=&#34;edit-an-event&#34;&gt;Edit an event&lt;/h2&gt;
+&lt;p&gt;To start your event, ensure the event you want to run is selected in the left pane and tap the &amp;ldquo;RUN&amp;rdquo; button in the upper right. Unless your event is currently live, you&amp;rsquo;re prompted to do one of two things &amp;ldquo;Convert To Live&amp;rdquo; or &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Every event you create is a &amp;ldquo;Test&amp;rdquo; event by default. See our &lt;a href=&#34;http://docs.flassh.co/#understanding-pricing&#34;&gt;pricing info&lt;/a&gt; for more information about the difference between Test and Live events.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re ready to begin your live event and have a paid credit deducted from your account, choose &amp;ldquo;Convert To Live&amp;rdquo;. Otherwise, tap &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Regardless of your selection above, you&amp;rsquo;ll be taken to the &amp;ldquo;Touch Screen To Party&amp;rdquo; screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]().&lt;/p&gt;
+
+&lt;h2 id=&#34;exit-a-running-event&#34;&gt;Exit a running event&lt;/h2&gt;
+
+&lt;p&gt;Once you&amp;rsquo;re running an event, the tablet goes into full-screen mode and there is no obvious way to exit.&lt;/p&gt;
 </description>
     </item>
     

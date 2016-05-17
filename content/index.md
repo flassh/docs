@@ -22,7 +22,7 @@ Signing up for a new account is free and only takes a minute. [Create an account
 
 ## Understanding pricing
 
-Our pricing is simple: **$39 per live event**.
+Our pricing is simple: **$29 per live event**.
 
 You can buy as many credits as you need from your [billing page](https://flassh.co/account/billing). Event credits never expire.
 
@@ -43,4 +43,4 @@ Once an event is live, it is publicly searchable and viewable from any device. W
 
 ### Renewing an expired event
 
-Planning an event that spans multiple days (more than 24 hours)? When an event is expired, Flassh Booth will give you the option to renew the event, which will deduct an additional event credit.
+Planning an event that spans multiple days (more than 24 hours)? When an event is expired, Flassh Booth will give you the option to renew the event, which will deduct an additional event credit from your account.

@@ -63,14 +63,36 @@ Example values to use as a starting point:
 * Shutter Speed: 1/160
 * ISO: 400
 
+For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.
+
+**Note: when Flassh fetches photos from the camera, photos are resized to 2560px wide prior to upload to our servers. This ensures fast, consistent upload and photo processing speeds with a high enough resolution for most uses. If you need higher resolution images, they are always available on the SD card in the camera.**
+
 ### Camera date and time
 
-Make sure your camera's date and time are correct and that the time matches the current time in your organization's timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo's EXIF metadata.
+Make sure your camera's date and time are correct and that the time matches the current time in your organization's timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo's EXIF metadata. [Learn more about changing your account's timezone]({{< relref "web/index.md#change-timezone" >}})
 
 If you're using multiple booths (multiple cameras) in a single event, make sure the cameras are synced as close to the second as possible. If they're not the same (or very close), photos will not appear in their expected sequence in the app and online galleries.
 
+## Connect your camera
+
+With Flassh Connect open in the background, Flassh Booth open in the foreground, and your [supported Canon DSLR](#supported-cameras) powered on and connected, you'll see camera info at the top of your screen (vendor, model, as well as aperture, shutter speed, and ISO). If you've gotten to this point, you're ready to run an event!
+
 ## Create New Event
+
+Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.
+
+To create a new event, tap the "+ Create new event" button at the top of the screen. An event name and date are required, all other fields are optional. [Learn more about event settings]()
 
 ## Run an event
 
-## Edit an event
+To start your event, ensure the event you want to run is selected in the left pane and tap the "RUN" button in the upper right. Unless your event is currently live, you're prompted to do one of two things "Convert To Live" or "Continue Testing".
+
+Every event you create is a "Test" event by default. See our [pricing info](/#understanding-pricing) for more information about the difference between Test and Live events.
+
+If you're ready to begin your live event and have a paid credit deducted from your account, choose "Convert To Live". Otherwise, tap "Continue Testing".
+
+Regardless of your selection above, you'll be taken to the "Touch Screen To Party" screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]().
+
+## Exit a running event
+
+Once you're running an event, the tablet goes into full-screen mode and there is no obvious way to exit.
