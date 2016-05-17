@@ -17,6 +17,16 @@ The name and email you use is private within your organization. We use them to c
 
 To change your name or email, go to the [Profile tab](https://flassh.co/account/profile) in your account. Find the "My Info" section and tap the "Edit My Info" button. Modify your name and/or email and hit the "Save My Info" button. It's important that your email is valid, as this is how we contact you.
 
+## Change password
+
+Make sure you choose a strong password! Your email and password combination allow complete, read/write access to all events, photos, and settings in your account. You can change your password at any time.
+
+If you have access to your account and need to change your password, go to the [Profile tab](https://flassh.co/account/profile) in your account. Find the "Password Settings" section and tap the "Change Password" button. Enter your old password and a new password (with a confirmation) and tap the "Update Password" button.
+
+If you forgot your password, you can reset your password via email on our [password reset page](https://flassh.co/passwords/new). We'll email you a message containing a link that will allow you to reset your password.
+
+**Note:** changing your password does not revoke access on your other signed in devices.
+
 ## Change timezone
 
 It's important that your timezone lines up with the time you have set on your camera. If you travel, we recommend maintaining a consistent timezone in your account and always using that timezone's time when configuring the date/time on your camera.
