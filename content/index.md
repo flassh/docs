@@ -22,7 +22,7 @@ Signing up for a new account is free and only takes a minute. [Create an account
 
 ## Understanding pricing
 
-Our pricing is simple: **$39 per live event**.
+Our pricing is simple: **$29 per live event**.
 
 You can buy as many credits as you need from your [billing page](https://flassh.co/account/billing). Event credits never expire.
 

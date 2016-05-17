@@ -69,8 +69,26 @@ Make sure your camera's date and time are correct and that the time matches the 
 
 If you're using multiple booths (multiple cameras) in a single event, make sure the cameras are synced as close to the second as possible. If they're not the same (or very close), photos will not appear in their expected sequence in the app and online galleries.
 
+## Connect your camera
+
+With Flassh Connect open in the background, Flassh Booth open in the foreground, and your [supported Canon DSLR](#supported-cameras) powered on and connected, you'll see camera info at the top of your screen (vendor, model, as well as aperture, shutter speed, and ISO). If you've gotten to this point, you're ready to run an event!
+
 ## Create New Event
+
+Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.
+
+To create a new event, tap the "+ Create new event" button at the top of the screen. An event name and date are required, all other fields are optional. [Learn more about event settings]()
 
 ## Run an event
 
-## Edit an event
+To start your event, ensure the event you want to run is selected in the left pane and tap the "RUN" button in the upper right. Unless your event is currently live, you're prompted to do one of two things "Convert To Live" or "Continue Testing".
+
+Every event you create is a "Test" event by default. See our [pricing info](/#understanding-pricing) for more information about the difference between Test and Live events.
+
+If you're ready to begin your live event and have a paid credit deducted from your account, choose "Convert To Live". Otherwise, tap "Continue Testing".
+
+Regardless of your selection above, you'll be taken to the "Touch Screen To Party" screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]().
+
+## Exit a running event
+
+Once you're running an event, the tablet goes into full-screen mode and there is no obvious way to exit.
