@@ -83,6 +83,10 @@
 &lt;li&gt;ISO: 400&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: when Flassh fetches photos from the camera, photos are resized to 2560px wide prior to upload to our servers. This ensures fast, consistent upload and photo processing speeds with a high enough resolution for most uses. If you need higher resolution images, they are always available on the SD card in the camera.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;camera-date-and-time&#34;&gt;Camera date and time&lt;/h3&gt;
 
 &lt;p&gt;Make sure your camera&amp;rsquo;s date and time are correct and that the time matches the current time in your organization&amp;rsquo;s timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo&amp;rsquo;s EXIF metadata. &lt;a href=&#34;http://docs.flassh.co/web/#change-timezone&#34;&gt;Learn more about changing your account&amp;rsquo;s timezone&lt;/a&gt;&lt;/p&gt;
@@ -136,6 +140,16 @@
 &lt;p&gt;The name and email you use is private within your organization. We use them to communicate you for support tickets and billing, but no one else sees these, and they will never be shown in any event information. This lays the groundwork for allowing multiple users and logins within a single organization (which is not yet available).&lt;/p&gt;
 
 &lt;p&gt;To change your name or email, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;My Info&amp;rdquo; section and tap the &amp;ldquo;Edit My Info&amp;rdquo; button. Modify your name and/or email and hit the &amp;ldquo;Save My Info&amp;rdquo; button. It&amp;rsquo;s important that your email is valid, as this is how we contact you.&lt;/p&gt;
+
+&lt;h2 id=&#34;change-password&#34;&gt;Change password&lt;/h2&gt;
+
+&lt;p&gt;Make sure you choose a strong password! Your email and password combination allow complete, read/write access to all events, photos, and settings in your account. You can change your password at any time.&lt;/p&gt;
+
+&lt;p&gt;If you have access to your account and need to change your password, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Password Settings&amp;rdquo; section and tap the &amp;ldquo;Change Password&amp;rdquo; button. Enter your old password and a new password (with a confirmation) and tap the &amp;ldquo;Update Password&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;If you forgot your password, you can reset your password via email on our &lt;a href=&#34;https://flassh.co/passwords/new&#34;&gt;password reset page&lt;/a&gt;. We&amp;rsquo;ll email you a message containing a link that will allow you to reset your password.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; changing your password does not revoke access on your other signed in devices.&lt;/p&gt;
 
 &lt;h2 id=&#34;change-timezone&#34;&gt;Change timezone&lt;/h2&gt;
 
