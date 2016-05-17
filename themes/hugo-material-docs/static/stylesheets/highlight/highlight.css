@@ -1,14 +1,14 @@
-/* 
- * overwrite the current primary color of the 
- * theme that is used as fallback in codeblocks 
+/*
+ * overwrite the current primary color of the
+ * theme that is used as fallback in codeblocks
  */
 .article pre code {
 	color: rgba(0, 0, 0, 0.8) !important;
 }
 
 
-/*	
-	HIGHLIGHT.JS THEME 
+/*
+	HIGHLIGHT.JS THEME
 
 	tweaked version of the Github theme
 */
@@ -102,4 +102,27 @@ font-style:italic;
 
 .hljs-strong {
 font-weight:700;
+}
+
+
+/* Custom Styles */
+.header,
+.footer {
+  background: #222 !important;
+}
+
+.article {
+	font-size: 17px !important;
+}
+
+.article h1 {
+	font-size: 26px !important;
+}
+
+.article h2 {
+	font-size: 20px !important;
+}
+
+.drawer .toc li a {
+	font-size: 1.15em !important;
 }
