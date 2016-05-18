@@ -41,7 +41,55 @@
 
 &lt;p&gt;Do a single-finger long-press on the top navigation bar again to exit kiosk mode, where you&amp;rsquo;ll be prompted to enter your password.&lt;/p&gt;
 
-&lt;h2 id=&#34;single-photo-actions&#34;&gt;Single-photo actions&lt;/h2&gt;
+&lt;h3 id=&#34;prevent-exiting-the-app-with-guided-access&#34;&gt;Prevent exiting the app with Guided Access&lt;/h3&gt;
+
+&lt;p&gt;iOS ships with a feature called Guided Access that can temporarily restrict your iOS device to a single application. Tapping the home button or the power button will keep the application open, preventing kiosk guests from exiting to the home screen or opening other applications. &lt;a href=&#34;https://support.apple.com/en-us/HT202612&#34;&gt;Learn more about Guided Access&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;single-photo-actions&#34;&gt;Single photo actions&lt;/h2&gt;
+
+&lt;p&gt;As an account owner, you have full access to and control over your photos. If you tap to open an event that you own and have photos a collection of photos listed, you can perform a single-finger long-press on any photo to reveal a menu of options:&lt;/p&gt;
+
+&lt;h3 id=&#34;set-the-cover-photo&#34;&gt;Set the cover photo&lt;/h3&gt;
+
+&lt;p&gt;By default the cover photo is the first photo in your event. Instead, you can feature your favorite photo so it shows as the cover photo in the event listing and in the header of the event when looking at the collection of photos.&lt;/p&gt;
+
+&lt;h3 id=&#34;download-photo&#34;&gt;Download photo&lt;/h3&gt;
+
+&lt;p&gt;Save any size of the selected photo to your camera roll.&lt;/p&gt;
+
+&lt;h3 id=&#34;copy-photo-url&#34;&gt;Copy photo URL&lt;/h3&gt;
+
+&lt;p&gt;Copy a web URL of any size of the selected photo.&lt;/p&gt;
+
+&lt;h3 id=&#34;delete-photo&#34;&gt;Delete photo&lt;/h3&gt;
+
+&lt;p&gt;Permanently delete the selected photo from the event. Deleted photos are not recoverable.&lt;/p&gt;
+
+&lt;h2 id=&#34;multiple-photo-actions&#34;&gt;Multiple photo actions&lt;/h2&gt;
+
+&lt;p&gt;Tap the &amp;ldquo;Select&amp;rdquo; button at the top right of the screen and select any number of photos to reveal a drawer at the bottom of the screen providing the following options:&lt;/p&gt;
+
+&lt;h3 id=&#34;save-photos&#34;&gt;Save photos&lt;/h3&gt;
+
+&lt;h4 id=&#34;save-to-camera-roll&#34;&gt;Save to camera roll&lt;/h4&gt;
+
+&lt;p&gt;Download all selected photos to the camera roll on your iOS device.&lt;/p&gt;
+
+&lt;h4 id=&#34;send-via-email&#34;&gt;Send via email&lt;/h4&gt;
+
+&lt;p&gt;Send all selected photos via email (from our servers) to the specified email address.&lt;/p&gt;
+
+&lt;h3 id=&#34;generate-animated-gif&#34;&gt;Generate animated GIF&lt;/h3&gt;
+
+&lt;p&gt;Compile the selected images into an auto-looping GIF file and save it to the camera roll.&lt;/p&gt;
+
+&lt;h3 id=&#34;generate-video-mp4&#34;&gt;Generate video (MP4)&lt;/h3&gt;
+
+&lt;p&gt;Compile the selected images into a video file (MP4 format) and save it to the camera roll. The video is roughly 15 seconds in length.&lt;/p&gt;
+
+&lt;h3 id=&#34;delete-photos&#34;&gt;Delete photos&lt;/h3&gt;
+
+&lt;p&gt;If you are signed in and are viewing an event that you own, tapping the &amp;ldquo;Select&amp;rdquo; button at the top right and selecting any number of photos will reveal a trash can icon in the top left of the screen. Tapping the trash can icon and the confirming the following dialog will permanently delete the selected photos. Deleted photos are not recoverable.&lt;/p&gt;
 </description>
     </item>
     
