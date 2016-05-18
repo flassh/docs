@@ -78,3 +78,39 @@ At this time, watermarks can only be applied or removed from an event from the [
 ### Delete a watermark
 
 At this time, it is not possible to delete watermarks. We're working on this and should have an interface for this in the coming weeks.
+
+## Credit card & billing
+
+Once you're ready to run live events, you'll need to enter your credit card information and purchase event credits. There's no pressure to do so and no expiration on your test events, so if you want to keep your free account and continue using test events, you're more than welcome to do so.
+
+### Add credit card
+
+To add a new credit card, go to the [Billing tab](https://flassh.co/account/billing) in your account and tap the "Add Your Card" button. If you already have a card on file, the "Add Your Card" button will not be available. Instead, you'll see a "Edit Card" button.
+
+We accept Visa, MasterCard, American Express, JCB, Discover, and Diners Club cards.
+
+A valid card number, expiration and the CVC (3-4 digits on the back of the card) are required. After you've entered your card info, tap the "Save Credit Card" button.
+
+### Update credit card
+
+To update your credit card or switch to a different one, go to the [Billing tab](https://flassh.co/account/billing) and tap the "Edit Card" button.
+
+After you've entered your updated card info, tap the "Save Credit Card" button. All future charges will be made to this newly specified credit card.
+
+### Credit card security
+
+Any time you enter payment information (such as a credit card or debit card), it's sent over an encrypted connection from your web browser directly to [Stripe](https://stripe.com/) - one of the largest, most advanced payment processors in the world. They handle payment processing for services like Kickstarter, Lyft, Shopify, Pinterest, Twitter, Heroku, SurveyMonkey, and many other companies. Once Stripe receives valid payment information, they then issue us an encrypted "token." We use these tokens to create charges against those credit cards and bank accounts - even though we can't access the full details of those payment methods. We can only fetch the basic information such as the last 4 digits, they type of payment method, its expiration date, and the customer's name. The full account number or CVC number isn't released to us.
+
+## Managing event credits
+
+On the [Billing tab](https://flassh.co/account/billing) in your account, you can always see your current event credit balance. If you have one or more credits, you'll be able to convert events to live. If you have zero credits, you'll only be able to create test events.
+
+**Note: credits must be pre-paid. You cannot convert an event to live without any credits in your account.** We highly recommend configuring billing and adding one or more credits to your account before you head out to your event.
+
+### Buy event credits
+
+You can purchase as many credits as you need from the [Billing tab](https://flassh.co/account/billing) in your account. [Learn more about pricing](/#understanding-pricing)
+
+Before you can add credits, you must [add a credit card]({{< relref "web/index.md#credit-card-billing" >}}) to your account. Once you have a credit card on file, tap the "Add Credits" button.
+
+You are prompted to enter the number of credits you would like to buy. Enter a number and tap the "Buy Now" button to continue, you'll be prompted once more to confirm your purchase. If your card is charged successfully, event credits are added to your account immediately.

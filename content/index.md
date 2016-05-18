@@ -24,7 +24,7 @@ Signing up for a new account is free and only takes a minute. [Create an account
 
 Our pricing is simple: **$29 per live event**.
 
-You can buy as many credits as you need from your [billing page](https://flassh.co/account/billing). Event credits never expire.
+You can buy as many credits as you need from your [billing page](https://flassh.co/account/billing). Event credits ad non-refundable and never expire.
 
 When you create a new event, it starts out as a test event. **You can create as many events as you want** and you won't ever be charged for them. Test events are completely free and never expire.
 
