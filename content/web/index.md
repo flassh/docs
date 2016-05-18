@@ -42,3 +42,39 @@ You're prompted to specify a subdomain. Choose a subdomain that is 6 characters 
 Note, when you change this subdomain, any existing links to your web galleries will break, and the new URLs will take effect immediately.
 
 Fully custom domains (photobooth.yourdomain.com) are not currently supported.
+
+## Watermarking
+
+Many events are associated with a one or more companies/brands you may want to promote in your photos. From the [Watermark tab](https://flassh.co/account/watermarks) you can upload an unlimited number of watermarks to your account for use in your events.
+
+### Preparing watermarks
+
+A watermark file is typically a mostly-transparent PNG except for the area of the image that you want to add the watermark. To prepare a watermark for Flassh, create a new file that is 5148px (wide) x 3456 (tall) with a transparent background.
+
+We recommend dropping a photo (should also be 5148x3456px) in as a layer behind your watermark when preparing the watermark. Don't forget to hide the photo layer though before you export the PNG!
+
+There are no limitations on how you can design your watermarks. Be careful though, you don't want to cover people's faces! It's best to stick to the bottom left and right edges. If the mark is small enough, you can get by putting them in the top left/right as well, but the top of people's heads may get covered.
+
+#### Why the arbitrary file size?
+
+This ensures we have a large enough version of your watermark to scale to any possible needed size. We're almost always scaling it down for shared photo versions, but want to make sure we're able to use the same watermark files now and well into the future (as image resolutions continue to increase).
+
+### Uploading watermarks
+
+Head to the [Watermark tab](https://flassh.co/account/watermarks) and either drag and drop your watermark file created above or tap the "+ Add New" button and browse to the properly-sized PNG file on your computer.
+
+If you see a preview of your watermark, you're all set. If you receive an error message, check your file format (PNG) and image dimensions (5148x3456px).
+
+### Previewing watermarks
+
+On the [Watermark tab](https://flassh.co/account/watermarks) there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.
+
+Tap the "Dark" button (default) to see what the mark will look like on an event with a dark background, "Light" to see it on a bright, nearly-white background, and "Color" to see it on a vibrant, busy, colored background.
+
+### Apply a watermark to an event
+
+At this time, watermarks can only be applied or removed from an event from the [new/edit event screen on iOS](). We're working to bring this functionality to Flassh Booth and to the web admin area.
+
+### Delete a watermark
+
+At this time, it is not possible to delete watermarks. We're working on this and should have an interface for this in the coming weeks.

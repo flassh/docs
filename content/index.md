@@ -26,18 +26,19 @@ Our pricing is simple: **$29 per live event**.
 
 You can buy as many credits as you need from your [billing page](https://flassh.co/account/billing). Event credits never expire.
 
-When you create a new event, it starts out as a test event. You can create as many events as you want and you won't ever be charged for them. Test events are completely free and never expire.
+When you create a new event, it starts out as a test event. **You can create as many events as you want** and you won't ever be charged for them. Test events are completely free and never expire.
 
 ### Test event limitations
 
 - You can capture and upload up to 25 photos
 - Only devices signed into your account can see a test event and its photos, it is not publicly searchable in the apps or client gallery
+- If you're not finished testing but hit the test limit, [delete some photos]() from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don't want, you can always [delete those events]().
 
 ### Converting to a live event
 
-When you're ready to run your live event, we'll deduct a pre-paid event credit from your account.
+When you're ready to run your live event, convert it and we'll deduct a pre-paid event credit from your account.
 
-When you tap the "Run" button from Flassh Booth, you're prompted to "Convert To Live" or "Continue Testing". Choosing "Convert To Live" will instantly make the event live, removing all test event limitations. At that point, you can capture and upload unlimited photos to that event for 24 hours.
+When you tap the "Run" button from Flassh Booth, you're prompted to "Convert To Live" or "Continue Testing". Choosing "Convert To Live" will instantly make the event live, removing all test event limitations. At that point, you can capture and upload unlimited photos to that event for 24 hours. After the 24-hour "live" period, you will not be able to take and upload any additional photos in that event. However, the online gallery for live events remains available online for viewing and sharing indefinitely.
 
 Once an event is live, it is publicly searchable and viewable from any device. Want to run a private live event? [Learn more about event settings]({{< relref "booth/index.md#" >}})
 

@@ -95,4 +95,4 @@ Regardless of your selection above, you'll be taken to the "Touch Screen To Part
 
 ## Exit a running event
 
-Once you're running an event, the tablet goes into full-screen mode and there is no obvious way to exit.
+Once you're running an event, the tablet goes into full-screen mode and there is no obvious way to exit. Each of the four corners of the screen accept a single-finger long-press gesture that will allow you to exit the event and return to your event management screen.
