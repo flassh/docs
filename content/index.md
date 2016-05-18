@@ -32,7 +32,7 @@ When you create a new event, it starts out as a test event. **You can create as 
 
 - You can capture and upload up to 25 photos
 - Only devices signed into your account can see a test event and its photos, it is not publicly searchable in the apps or client gallery
-- If you're not finished testing but hit the test limit, [delete some photos]() from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don't want, you can always [delete those events]().
+- If you're not finished testing but hit the test limit, [delete some photos]({{< relref "ios/index.md#multiple-photo-actions" >}}) from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don't want, you can always [delete those events]().
 
 ### Converting to a live event
 
