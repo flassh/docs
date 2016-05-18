@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Flassh Docs</title>
+    <link>http://docs.flassh.co/events/</link>
+    <description>Recent content in Events on Flassh Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2016 21:13:53 +0000</lastBuildDate>
+    <atom:link href="http://docs.flassh.co/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Events</title>
+      <link>http://docs.flassh.co/events/</link>
+      <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
+      
+      <guid>http://docs.flassh.co/events/</guid>
+      <description>
+
+&lt;p&gt;Events are core to the Flassh platform. Each collection of photos is stored in an event and each event has a number of settings that make it unique and customizable.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-event&#34;&gt;Create a new event&lt;/h2&gt;
+
+&lt;p&gt;Events can be created from the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;events tab&lt;/a&gt; in your account on the web, from the &lt;a href=&#34;http://docs.flassh.co/ios&#34;&gt;iOS app&lt;/a&gt;, and from &lt;a href=&#34;http://docs.flassh.co/booth&#34;&gt;Flassh Booth&lt;/a&gt;. Although you&amp;rsquo;re able to create an event from all platforms, not all settings are available on all platforms. Generally speaking, the iOS app has the most capabilities when it comes to event settings. We&amp;rsquo;re continually working to reach feature parity across all our apps.&lt;/p&gt;
+
+&lt;h2 id=&#34;event-settings&#34;&gt;Event settings&lt;/h2&gt;
+
+&lt;h3 id=&#34;name-required&#34;&gt;Name &lt;em&gt;(required)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Give your event a short, friendly name that is recognizable and searchable by your guests.&lt;/p&gt;
+
+&lt;h3 id=&#34;date-required&#34;&gt;Date &lt;em&gt;(required)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Specify the date that your event is running. Our applications will default to the current date.&lt;/p&gt;
+
+&lt;h3 id=&#34;hashtag-optional&#34;&gt;Hashtag &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Optionally specify a hashtag that will automatically be added to the default status message when sharing photos with Facebook or Twitter.&lt;/p&gt;
+
+&lt;h3 id=&#34;password-optional&#34;&gt;Password &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;If you want to add a layer of security to your photos, specify a password that guests need to know in order to access event photos. This password requirement is enforced for guests browsing from the iOS app or web gallery.&lt;/p&gt;
+
+&lt;h3 id=&#34;hide-gallery-optional&#34;&gt;Hide gallery &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;If you want to run an event that is not searchable nor viewable publicly, enable the hidden gallery option. Only devices signed into your account can see the event. You can still &lt;a href=&#34;http://docs.flassh.co/ios/#kiosk-mode&#34;&gt;setup a kiosk&lt;/a&gt; and people using the kiosk can still share photos (via email) to themselves, but cannot pull up the event on their own device or browser.&lt;/p&gt;
+
+&lt;h3 id=&#34;editing-preset-optional&#34;&gt;Editing preset &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;By default, we do not apply any editing to the captured photos. They look exactly as they do straight out of the camera.&lt;/p&gt;
+
+&lt;p&gt;We provide editing presets you can choose to match the style of your event. &lt;strong&gt;All editing presets are completely non-destructive to your images. We retain the original image and generate additional file versions with the preset applied. Want to change or remove the preset later? No problem!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;none&#34;&gt;None&lt;/h4&gt;
+
+&lt;p&gt;This is the default. No enhancements are made to photos.&lt;/p&gt;
+
+&lt;h4 id=&#34;enhanced&#34;&gt;Enhanced&lt;/h4&gt;
+
+&lt;p&gt;Slightly increased contrast.&lt;/p&gt;
+
+&lt;h4 id=&#34;enhanced-black-white&#34;&gt;Enhanced (Black &amp;amp; White)&lt;/h4&gt;
+
+&lt;p&gt;Same as Enhanced, but bring saturation to zero.&lt;/p&gt;
+
+&lt;h4 id=&#34;film&#34;&gt;Film&lt;/h4&gt;
+
+&lt;p&gt;Trim blacks and whites on the tone curve, add some monochromatic noise, increase brightness, decrease saturation and hue.&lt;/p&gt;
+
+&lt;h4 id=&#34;film-black-white&#34;&gt;Film (Black &amp;amp; White)&lt;/h4&gt;
+
+&lt;p&gt;Same as Film, but bring saturation to zero.&lt;/p&gt;
+
+&lt;h3 id=&#34;watermark-optional&#34;&gt;Watermark &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;Before you can apply a watermark to an event, you need to &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;upload one to your account&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;From the event add/edit screen in the Style section, tap the Watermark field to load a list of available watermarks. Tap the watermark you want to apply (it will show marked as checked), tap the back button to return to the event add/edit screen and tap the &amp;ldquo;Save&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: applying/removing a watermark to/from is currently only available from the iOS app&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;photos-per-set-default-3&#34;&gt;Photos per set &lt;em&gt;(default: 3)&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;By default, the booth will countdown and capture 3 times per session. You can change this setting to any number between 1 and 10.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: specifying photos per set is currently only available from the iOS app&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
