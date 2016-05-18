@@ -115,6 +115,14 @@ font-weight:700;
 	font-size: 17px !important;
 }
 
+.article a {
+	color: #929930 !important;
+}
+
+.article a:hover {
+	color: #c3cd40 !important;
+}
+
 .article h1 {
 	font-size: 26px !important;
 }
