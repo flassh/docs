@@ -95,6 +95,10 @@ If you're ready to begin your live event and have a paid credit deducted from yo
 
 Regardless of your selection above, you'll be taken to the "Touch Screen To Party" screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]().
 
+As photos are taken, they're automatically uploaded to our servers and made immediately available for viewing and sharing. Enjoy your event!
+
 ## Exit a running event
 
-Once you're running an event, the tablet goes into full-screen mode and there is no obvious way to exit. Each of the four corners of the screen accept a single-finger long-press gesture that will allow you to exit the event and return to your event management screen.
+Once you're running an event, the tablet goes into full-screen mode and there is no obvious way to exit (this is by design). Guests shouldn't be able to exit, but you'll need to.
+
+Each of the four corners of the screen accept a single-finger long-press gesture that will allow you to exit the event and return to your event management screen.
