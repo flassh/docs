@@ -122,6 +122,16 @@
 &lt;p&gt;Once you&amp;rsquo;re running an event, the tablet goes into full-screen mode and there is no obvious way to exit (this is by design). Guests shouldn&amp;rsquo;t be able to exit, but you&amp;rsquo;ll need to.&lt;/p&gt;
 
 &lt;p&gt;Each of the four corners of the screen accept a single-finger long-press gesture that will allow you to exit the event and return to your event management screen.&lt;/p&gt;
+
+&lt;h2 id=&#34;internet-requirement&#34;&gt;Internet requirement&lt;/h2&gt;
+
+&lt;p&gt;Flassh is a live, online, instant-sharing platform. &lt;strong&gt;To run events effectively, an Internet connection is required&lt;/strong&gt;. Some features may work without an Internet connection, but most of our applications operate under the assumption that a stable connection is available.&lt;/p&gt;
+
+&lt;p&gt;If a WiFi or wired Internet connection is not available at your event&amp;rsquo;s location, we recommend using a cellular hotspot (mifi) or the tethered data feature of your phone or tablet.&lt;/p&gt;
+
+&lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
+
+&lt;p&gt;We currently do not have a printing solution available. We&amp;rsquo;re actively working on this as our top priority and hope to release something soon that will address this. There have been oodles of requests for this feature!&lt;/p&gt;
 </description>
     </item>
     
