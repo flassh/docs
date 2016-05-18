@@ -92,6 +92,42 @@
 &lt;h3 id=&#34;delete-a-watermark&#34;&gt;Delete a watermark&lt;/h3&gt;
 
 &lt;p&gt;At this time, it is not possible to delete watermarks. We&amp;rsquo;re working on this and should have an interface for this in the coming weeks.&lt;/p&gt;
+
+&lt;h2 id=&#34;credit-card-billing&#34;&gt;Credit card &amp;amp; billing&lt;/h2&gt;
+
+&lt;p&gt;Once you&amp;rsquo;re ready to run live events, you&amp;rsquo;ll need to enter your credit card information and purchase event credits. There&amp;rsquo;s no pressure to do so and no expiration on your test events, so if you want to keep your free account and continue using test events, you&amp;rsquo;re more than welcome to do so.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-credit-card&#34;&gt;Add credit card&lt;/h3&gt;
+
+&lt;p&gt;To add a new credit card, go to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account and tap the &amp;ldquo;Add Your Card&amp;rdquo; button. If you already have a card on file, the &amp;ldquo;Add Your Card&amp;rdquo; button will not be available. Instead, you&amp;rsquo;ll see a &amp;ldquo;Edit Card&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;We accept Visa, MasterCard, American Express, JCB, Discover, and Diners Club cards.&lt;/p&gt;
+
+&lt;p&gt;A valid card number, expiration and the CVC (3-4 digits on the back of the card) are required. After you&amp;rsquo;ve entered your card info, tap the &amp;ldquo;Save Credit Card&amp;rdquo; button.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-credit-card&#34;&gt;Update credit card&lt;/h3&gt;
+
+&lt;p&gt;To update your credit card or switch to a different one, go to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; and tap the &amp;ldquo;Edit Card&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;After you&amp;rsquo;ve entered your updated card info, tap the &amp;ldquo;Save Credit Card&amp;rdquo; button. All future charges will be made to this newly specified credit card.&lt;/p&gt;
+
+&lt;h3 id=&#34;credit-card-security&#34;&gt;Credit card security&lt;/h3&gt;
+
+&lt;p&gt;Any time you enter payment information (such as a credit card or debit card), it&amp;rsquo;s sent over an encrypted connection from your web browser directly to &lt;a href=&#34;https://stripe.com/&#34;&gt;Stripe&lt;/a&gt; - one of the largest, most advanced payment processors in the world. They handle payment processing for services like Kickstarter, Lyft, Shopify, Pinterest, Twitter, Heroku, SurveyMonkey, and many other companies. Once Stripe receives valid payment information, they then issue us an encrypted &amp;ldquo;token.&amp;rdquo; We use these tokens to create charges against those credit cards and bank accounts - even though we can&amp;rsquo;t access the full details of those payment methods. We can only fetch the basic information such as the last 4 digits, they type of payment method, its expiration date, and the customer&amp;rsquo;s name. The full account number or CVC number isn&amp;rsquo;t released to us.&lt;/p&gt;
+
+&lt;h2 id=&#34;managing-event-credits&#34;&gt;Managing event credits&lt;/h2&gt;
+
+&lt;p&gt;On the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account, you can always see your current event credit balance. If you have one or more credits, you&amp;rsquo;ll be able to convert events to live. If you have zero credits, you&amp;rsquo;ll only be able to create test events.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: credits must be pre-paid. You cannot convert an event to live without any credits in your account.&lt;/strong&gt; We highly recommend configuring billing and adding one or more credits to your account before you head out to your event.&lt;/p&gt;
+
+&lt;h3 id=&#34;buy-event-credits&#34;&gt;Buy event credits&lt;/h3&gt;
+
+&lt;p&gt;You can purchase as many credits as you need from the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account. &lt;a href=&#34;http://docs.flassh.co/#understanding-pricing&#34;&gt;Learn more about pricing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Before you can add credits, you must &lt;a href=&#34;http://docs.flassh.co/web/#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Add Credits&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;You are prompted to enter the number of credits you would like to buy. Enter a number and tap the &amp;ldquo;Buy Now&amp;rdquo; button to continue, you&amp;rsquo;ll be prompted once more to confirm your purchase. If your card is charged successfully, event credits are added to your account immediately.&lt;/p&gt;
 </description>
     </item>
     
