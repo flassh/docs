@@ -25,4 +25,52 @@ Open the app and make sure you're signed in, then open the event so you're looki
 
 Do a single-finger long-press on the top navigation bar again to exit kiosk mode, where you'll be prompted to enter your password.
 
-## Single-photo actions
+### Prevent exiting the app with Guided Access
+
+iOS ships with a feature called Guided Access that can temporarily restrict your iOS device to a single application. Tapping the home button or the power button will keep the application open, preventing kiosk guests from exiting to the home screen or opening other applications. [Learn more about Guided Access](https://support.apple.com/en-us/HT202612).
+
+## Single photo actions
+
+As an account owner, you have full access to and control over your photos. If you tap to open an event that you own and have photos a collection of photos listed, you can perform a single-finger long-press on any photo to reveal a menu of options:
+
+### Set the cover photo
+
+By default the cover photo is the first photo in your event. Instead, you can feature your favorite photo so it shows as the cover photo in the event listing and in the header of the event when looking at the collection of photos.
+
+### Download photo
+
+Save any size of the selected photo to your camera roll.
+
+### Copy photo URL
+
+Copy a web URL of any size of the selected photo.
+
+### Delete photo
+
+Permanently delete the selected photo from the event. Deleted photos are not recoverable.
+
+## Multiple photo actions
+
+Tap the "Select" button at the top right of the screen and select any number of photos to reveal a drawer at the bottom of the screen providing the following options:
+
+### Save photos
+
+#### Save to camera roll
+
+Download all selected photos to the camera roll on your iOS device.
+
+#### Send via email
+
+Send all selected photos via email (from our servers) to the specified email address.
+
+### Generate animated GIF
+
+Compile the selected images into an auto-looping GIF file and save it to the camera roll.
+
+### Generate video (MP4)
+
+Compile the selected images into a video file (MP4 format) and save it to the camera roll. The video is roughly 15 seconds in length.
+
+### Delete photos
+
+If you are signed in and are viewing an event that you own, tapping the "Select" button at the top right and selecting any number of photos will reveal a trash can icon in the top left of the screen. Tapping the trash can icon and the confirming the following dialog will permanently delete the selected photos. Deleted photos are not recoverable.

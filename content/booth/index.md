@@ -24,6 +24,8 @@ We know it's not ideal to need both, and we're looking into the possibility of c
 
 ## Sign in
 
+In order to use Flassh Booth, you must sign into your account. If you don't already have an account [create one here](https://flassh.co/signup). When you open Flassh Booth for the first time, a login form will pop up. Enter your email address and password to login. Forgot your password? [Reset it here](https://flassh.co/passwords/new).
+
 ## Supported Cameras
 
 At this time, we **only** support Canon DSLRs. Nikon, Sony, and other camera models are **not supported**.
