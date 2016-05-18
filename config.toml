@@ -48,6 +48,11 @@ googleAnalytics = ""
 	weight = 0
 
 [[menu.main]]
+	name   = "Events"
+	url    = "events/"
+	weight = 5
+
+[[menu.main]]
 	name   = "Flassh Booth (Windows)"
 	url    = "booth/"
 	weight = 10
