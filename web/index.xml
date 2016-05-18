@@ -56,6 +56,42 @@
 &lt;p&gt;Note, when you change this subdomain, any existing links to your web galleries will break, and the new URLs will take effect immediately.&lt;/p&gt;
 
 &lt;p&gt;Fully custom domains (photobooth.yourdomain.com) are not currently supported.&lt;/p&gt;
+
+&lt;h2 id=&#34;watermarking&#34;&gt;Watermarking&lt;/h2&gt;
+
+&lt;p&gt;Many events are associated with a one or more companies/brands you may want to promote in your photos. From the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; you can upload an unlimited number of watermarks to your account for use in your events.&lt;/p&gt;
+
+&lt;h3 id=&#34;preparing-watermarks&#34;&gt;Preparing watermarks&lt;/h3&gt;
+
+&lt;p&gt;A watermark file is typically a mostly-transparent PNG except for the area of the image that you want to add the watermark. To prepare a watermark for Flassh, create a new file that is 5148px (wide) x 3456 (tall) with a transparent background.&lt;/p&gt;
+
+&lt;p&gt;We recommend dropping a photo (should also be 5148x3456px) in as a layer behind your watermark when preparing the watermark. Don&amp;rsquo;t forget to hide the photo layer though before you export the PNG!&lt;/p&gt;
+
+&lt;p&gt;There are no limitations on how you can design your watermarks. Be careful though, you don&amp;rsquo;t want to cover people&amp;rsquo;s faces! It&amp;rsquo;s best to stick to the bottom left and right edges. If the mark is small enough, you can get by putting them in the top left/right as well, but the top of people&amp;rsquo;s heads may get covered.&lt;/p&gt;
+
+&lt;h4 id=&#34;why-the-arbitrary-file-size&#34;&gt;Why the arbitrary file size?&lt;/h4&gt;
+
+&lt;p&gt;This ensures we have a large enough version of your watermark to scale to any possible needed size. We&amp;rsquo;re almost always scaling it down for shared photo versions, but want to make sure we&amp;rsquo;re able to use the same watermark files now and well into the future (as image resolutions continue to increase).&lt;/p&gt;
+
+&lt;h3 id=&#34;uploading-watermarks&#34;&gt;Uploading watermarks&lt;/h3&gt;
+
+&lt;p&gt;Head to the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; and either drag and drop your watermark file created above or tap the &amp;ldquo;+ Add New&amp;rdquo; button and browse to the properly-sized PNG file on your computer.&lt;/p&gt;
+
+&lt;p&gt;If you see a preview of your watermark, you&amp;rsquo;re all set. If you receive an error message, check your file format (PNG) and image dimensions (5148x3456px).&lt;/p&gt;
+
+&lt;h3 id=&#34;previewing-watermarks&#34;&gt;Previewing watermarks&lt;/h3&gt;
+
+&lt;p&gt;On the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.&lt;/p&gt;
+
+&lt;p&gt;Tap the &amp;ldquo;Dark&amp;rdquo; button (default) to see what the mark will look like on an event with a dark background, &amp;ldquo;Light&amp;rdquo; to see it on a bright, nearly-white background, and &amp;ldquo;Color&amp;rdquo; to see it on a vibrant, busy, colored background.&lt;/p&gt;
+
+&lt;h3 id=&#34;apply-a-watermark-to-an-event&#34;&gt;Apply a watermark to an event&lt;/h3&gt;
+
+&lt;p&gt;At this time, watermarks can only be applied or removed from an event from the [new/edit event screen on iOS](). We&amp;rsquo;re working to bring this functionality to Flassh Booth and to the web admin area.&lt;/p&gt;
+
+&lt;h3 id=&#34;delete-a-watermark&#34;&gt;Delete a watermark&lt;/h3&gt;
+
+&lt;p&gt;At this time, it is not possible to delete watermarks. We&amp;rsquo;re working on this and should have an interface for this in the coming weeks.&lt;/p&gt;
 </description>
     </item>
     

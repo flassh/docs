@@ -115,7 +115,7 @@
 
 &lt;h2 id=&#34;exit-a-running-event&#34;&gt;Exit a running event&lt;/h2&gt;
 
-&lt;p&gt;Once you&amp;rsquo;re running an event, the tablet goes into full-screen mode and there is no obvious way to exit.&lt;/p&gt;
+&lt;p&gt;Once you&amp;rsquo;re running an event, the tablet goes into full-screen mode and there is no obvious way to exit. Each of the four corners of the screen accept a single-finger long-press gesture that will allow you to exit the event and return to your event management screen.&lt;/p&gt;
 </description>
     </item>
     
@@ -166,6 +166,42 @@
 &lt;p&gt;Note, when you change this subdomain, any existing links to your web galleries will break, and the new URLs will take effect immediately.&lt;/p&gt;
 
 &lt;p&gt;Fully custom domains (photobooth.yourdomain.com) are not currently supported.&lt;/p&gt;
+
+&lt;h2 id=&#34;watermarking&#34;&gt;Watermarking&lt;/h2&gt;
+
+&lt;p&gt;Many events are associated with a one or more companies/brands you may want to promote in your photos. From the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; you can upload an unlimited number of watermarks to your account for use in your events.&lt;/p&gt;
+
+&lt;h3 id=&#34;preparing-watermarks&#34;&gt;Preparing watermarks&lt;/h3&gt;
+
+&lt;p&gt;A watermark file is typically a mostly-transparent PNG except for the area of the image that you want to add the watermark. To prepare a watermark for Flassh, create a new file that is 5148px (wide) x 3456 (tall) with a transparent background.&lt;/p&gt;
+
+&lt;p&gt;We recommend dropping a photo (should also be 5148x3456px) in as a layer behind your watermark when preparing the watermark. Don&amp;rsquo;t forget to hide the photo layer though before you export the PNG!&lt;/p&gt;
+
+&lt;p&gt;There are no limitations on how you can design your watermarks. Be careful though, you don&amp;rsquo;t want to cover people&amp;rsquo;s faces! It&amp;rsquo;s best to stick to the bottom left and right edges. If the mark is small enough, you can get by putting them in the top left/right as well, but the top of people&amp;rsquo;s heads may get covered.&lt;/p&gt;
+
+&lt;h4 id=&#34;why-the-arbitrary-file-size&#34;&gt;Why the arbitrary file size?&lt;/h4&gt;
+
+&lt;p&gt;This ensures we have a large enough version of your watermark to scale to any possible needed size. We&amp;rsquo;re almost always scaling it down for shared photo versions, but want to make sure we&amp;rsquo;re able to use the same watermark files now and well into the future (as image resolutions continue to increase).&lt;/p&gt;
+
+&lt;h3 id=&#34;uploading-watermarks&#34;&gt;Uploading watermarks&lt;/h3&gt;
+
+&lt;p&gt;Head to the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; and either drag and drop your watermark file created above or tap the &amp;ldquo;+ Add New&amp;rdquo; button and browse to the properly-sized PNG file on your computer.&lt;/p&gt;
+
+&lt;p&gt;If you see a preview of your watermark, you&amp;rsquo;re all set. If you receive an error message, check your file format (PNG) and image dimensions (5148x3456px).&lt;/p&gt;
+
+&lt;h3 id=&#34;previewing-watermarks&#34;&gt;Previewing watermarks&lt;/h3&gt;
+
+&lt;p&gt;On the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.&lt;/p&gt;
+
+&lt;p&gt;Tap the &amp;ldquo;Dark&amp;rdquo; button (default) to see what the mark will look like on an event with a dark background, &amp;ldquo;Light&amp;rdquo; to see it on a bright, nearly-white background, and &amp;ldquo;Color&amp;rdquo; to see it on a vibrant, busy, colored background.&lt;/p&gt;
+
+&lt;h3 id=&#34;apply-a-watermark-to-an-event&#34;&gt;Apply a watermark to an event&lt;/h3&gt;
+
+&lt;p&gt;At this time, watermarks can only be applied or removed from an event from the [new/edit event screen on iOS](). We&amp;rsquo;re working to bring this functionality to Flassh Booth and to the web admin area.&lt;/p&gt;
+
+&lt;h3 id=&#34;delete-a-watermark&#34;&gt;Delete a watermark&lt;/h3&gt;
+
+&lt;p&gt;At this time, it is not possible to delete watermarks. We&amp;rsquo;re working on this and should have an interface for this in the coming weeks.&lt;/p&gt;
 </description>
     </item>
     
@@ -237,20 +273,21 @@
 
 &lt;p&gt;You can buy as many credits as you need from your &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;billing page&lt;/a&gt;. Event credits never expire.&lt;/p&gt;
 
-&lt;p&gt;When you create a new event, it starts out as a test event. You can create as many events as you want and you won&amp;rsquo;t ever be charged for them. Test events are completely free and never expire.&lt;/p&gt;
+&lt;p&gt;When you create a new event, it starts out as a test event. &lt;strong&gt;You can create as many events as you want&lt;/strong&gt; and you won&amp;rsquo;t ever be charged for them. Test events are completely free and never expire.&lt;/p&gt;
 
 &lt;h3 id=&#34;test-event-limitations&#34;&gt;Test event limitations&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;You can capture and upload up to 25 photos&lt;/li&gt;
 &lt;li&gt;Only devices signed into your account can see a test event and its photos, it is not publicly searchable in the apps or client gallery&lt;/li&gt;
+&lt;li&gt;If you&amp;rsquo;re not finished testing but hit the test limit, [delete some photos]() from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don&amp;rsquo;t want, you can always [delete those events]().&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;converting-to-a-live-event&#34;&gt;Converting to a live event&lt;/h3&gt;
 
-&lt;p&gt;When you&amp;rsquo;re ready to run your live event, we&amp;rsquo;ll deduct a pre-paid event credit from your account.&lt;/p&gt;
+&lt;p&gt;When you&amp;rsquo;re ready to run your live event, convert it and we&amp;rsquo;ll deduct a pre-paid event credit from your account.&lt;/p&gt;
 
-&lt;p&gt;When you tap the &amp;ldquo;Run&amp;rdquo; button from Flassh Booth, you&amp;rsquo;re prompted to &amp;ldquo;Convert To Live&amp;rdquo; or &amp;ldquo;Continue Testing&amp;rdquo;. Choosing &amp;ldquo;Convert To Live&amp;rdquo; will instantly make the event live, removing all test event limitations. At that point, you can capture and upload unlimited photos to that event for 24 hours.&lt;/p&gt;
+&lt;p&gt;When you tap the &amp;ldquo;Run&amp;rdquo; button from Flassh Booth, you&amp;rsquo;re prompted to &amp;ldquo;Convert To Live&amp;rdquo; or &amp;ldquo;Continue Testing&amp;rdquo;. Choosing &amp;ldquo;Convert To Live&amp;rdquo; will instantly make the event live, removing all test event limitations. At that point, you can capture and upload unlimited photos to that event for 24 hours. After the 24-hour &amp;ldquo;live&amp;rdquo; period, you will not be able to take and upload any additional photos in that event. However, the online gallery for live events remains available online for viewing and sharing indefinitely.&lt;/p&gt;
 
 &lt;p&gt;Once an event is live, it is publicly searchable and viewable from any device. Want to run a private live event? &lt;a href=&#34;http://docs.flassh.co/booth/&#34;&gt;Learn more about event settings&lt;/a&gt;&lt;/p&gt;
 
