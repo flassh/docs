@@ -75,15 +75,25 @@
 
 &lt;h2 id=&#34;camera-configuration&#34;&gt;Camera configuration&lt;/h2&gt;
 
-&lt;p&gt;We recommend a small aperture and a fast shutter speed camera configuration with a high-powered flash. This keeps as much as possible in focus and ensures that changes in light (sunlight / event lighting) over time do not cause drastic changes in photo consistency.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve found that to best way to run a photo booth is to use a flash. With a flash, you can achieve a more consistent image during the day or night. We recommend a small aperture (higher F stop), which will create a larger depth of field, making as much of the photo in focus as possible. Choose a shutter speed close to the sync speed of your flash (usually &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;160&lt;/sub&gt; of a second) to keep the image sharp when people are moving and will also minimize the amount of ambient light in the photos. For the flash settings, we recommend using a high-power setting to achieve a proper exposure since your image with out the flash will most likely be completely black. This method will also give you more consistent color and look whether inside or outside, day or night.&lt;/p&gt;
 
-&lt;p&gt;Example values to use as a starting point:&lt;/p&gt;
+&lt;p&gt;Example values to use as a starting point with the use of a flash:
+* Aperture: F16
+* Shutter Speed: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;160&lt;/sub&gt;
+* ISO: 400
+* Flash set on the higher end (more powerful)&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Aperture: F10&lt;/li&gt;
-&lt;li&gt;Shutter Speed: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;160&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;ISO: 400&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;For some situations, a flash might not be available, no problem! In this case you will need to change the camera settings to allow more available light in. You should set a larger aperture (lower F stop), and you may want to turn up your ISO (800-1600) for indoor events. Keep in mind that the higher the F stop, the larger the area that will be in focus in the image. the lower the F stop, the more blurring you&amp;rsquo;ll see when objects move out of your in-focus point.&lt;/p&gt;
+
+&lt;p&gt;Ambient Light (indoor) Example Settings:
+* Aperture: F4
+* Shutter: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;
+* ISO: 800-1600&lt;/p&gt;
+
+&lt;p&gt;Ambient Light (outdoor) Example Settings:
+* Aperture: F10
+* Shutter: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;200&lt;/sub&gt;
+* ISO: 200&lt;/p&gt;
 
 &lt;p&gt;For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.&lt;/p&gt;
 
