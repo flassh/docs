@@ -57,13 +57,25 @@ At this time, we **only** support Canon DSLRs. Nikon, Sony, and other camera mod
 
 ## Camera configuration
 
-We recommend a small aperture and a fast shutter speed camera configuration with a high-powered flash. This keeps as much as possible in focus and ensures that changes in light (sunlight / event lighting) over time do not cause drastic changes in photo consistency.
+We've found that to best way to run a photo booth is to use a flash. With a flash, you can achieve a more consistent image during the day or night. We recommend a small aperture (higher F stop), which will create a larger depth of field, making as much of the photo in focus as possible. Choose a shutter speed close to the sync speed of your flash (usually 1/160 of a second) to keep the image sharp when people are moving and will also minimize the amount of ambient light in the photos. For the flash settings, we recommend using a high-power setting to achieve a proper exposure since your image with out the flash will most likely be completely black. This method will also give you more consistent color and look whether inside or outside, day or night.
 
-Example values to use as a starting point:
-
-* Aperture: F10
+Example values to use as a starting point with the use of a flash:
+* Aperture: F16
 * Shutter Speed: 1/160
 * ISO: 400
+* Flash set on the higher end (more powerful)
+
+For some situations, a flash might not be available, no problem! In this case you will need to change the camera settings to allow more available light in. You should set a larger aperture (lower F stop), and you may want to turn up your ISO (800-1600) for indoor events. Keep in mind that the higher the F stop, the larger the area that will be in focus in the image. the lower the F stop, the more blurring you'll see when objects move out of your in-focus point.
+
+Ambient Light (indoor) Example Settings:
+* Aperture: F4
+* Shutter: 1/100
+* ISO: 800-1600
+
+Ambient Light (outdoor) Example Settings:
+* Aperture: F10
+* Shutter: 1/200
+* ISO: 200
 
 For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.
 
