@@ -54,6 +54,7 @@ At this time, we **only** support Canon DSLRs. Nikon, Sony, and other camera mod
 * EOS 70D
 * EOS Kiss X70 / EOS 1200D / EOS REBEL T5 / EOS Hi
 * EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss
+* EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80
 
 ## Camera configuration
 
