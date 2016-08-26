@@ -49,35 +49,37 @@ Many events are associated with a one or more companies/brands you may want to p
 
 ### Preparing watermarks
 
-A watermark file is typically a mostly-transparent PNG except for the area of the image that you want to add the watermark. To prepare a watermark for Flassh, create a new file that is 5148px (wide) x 3456 (tall) with a transparent background.
-
-We recommend dropping a photo (should also be 5148x3456px) in as a layer behind your watermark when preparing the watermark. Don't forget to hide the photo layer though before you export the PNG!
+A watermark file is typically a semi-transparent PNG containing your mark. If you're making a watermark that will occupy a single corner of the screen, we recommend an image size that is at least 1200px wide by 800px tall. It's better to make a mark that's too big, because once you upload it you can always scale it down. You cannot, however, scale it up above its 100% size.
 
 There are no limitations on how you can design your watermarks. Be careful though, you don't want to cover people's faces! It's best to stick to the bottom left and right edges. If the mark is small enough, you can get by putting them in the top left/right as well, but the top of people's heads may get covered.
 
-#### Why the arbitrary file size?
-
-This ensures we have a large enough version of your watermark to scale to any possible needed size. We're almost always scaling it down for shared photo versions, but want to make sure we're able to use the same watermark files now and well into the future (as image resolutions continue to increase).
-
 ### Uploading watermarks
 
-Head to the [Watermark tab](https://flassh.co/account/watermarks) and either drag and drop your watermark file created above or tap the "+ Add New" button and browse to the properly-sized PNG file on your computer.
+Head to the [Watermarks tab](https://flassh.co/account/watermarks) and either drag and drop your watermark file created above or tap the "+ Add New" button and browse to the properly-sized PNG file on your computer.
 
-If you see a preview of your watermark, you're all set. If you receive an error message, check your file format (PNG) and image dimensions (5148x3456px).
+If you see a preview of your watermark, you're all set. If you receive an error message, check your file format (PNG) and ensure your image is less than 2MB.
 
 ### Previewing watermarks
 
-On the [Watermark tab](https://flassh.co/account/watermarks) there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.
+On the [Watermarks tab](https://flassh.co/account/watermarks) there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.
 
 Tap the "Dark" button (default) to see what the mark will look like on an event with a dark background, "Light" to see it on a bright, nearly-white background, and "Color" to see it on a vibrant, busy, colored background.
 
+### Editing watermarks
+
+On the [Watermarks tab](https://flassh.co/account/watermarks), choose the watermark you'd like to edit. We offer the ability to adjust the size (image scale from 1-100%), the alignment (corner or edge to stick the watermark to), the offset (horizontal and vertical distance from the aligned corner or edge), and opacity (allows you to make the mark semi-transparent).
+
+Adjust the values to your liking. Changes will preview immediately as you adjust the values, but won't be saved until you click the Save button.
+
 ### Apply a watermark to an event
 
-At this time, watermarks can only be applied or removed from an event from the [new/edit event screen on iOS](). We're working to bring this functionality to Flassh Booth and to the web admin area.
+From the [Events tab](https://flassh.co/account/events), choose the event that you'd like watermarked (or [create a new event](https://flassh.co/account/events/new)). Down near the bottom of the form, there's a "Choose A Watermark" button that will present all the available watermarks. Select the one you'd like and save the event.
 
 ### Delete a watermark
 
-At this time, it is not possible to delete watermarks. We're working on this and should have an interface for this in the coming weeks.
+From the [Watermarks tab](https://flassh.co/account/watermarks), click the watermark you would like to delete. At the bottom left of the watermark edit screen, there's a delete button.
+
+Note that any events already using that watermark will no longer have that watermark applied if you delete it.
 
 ## Credit card & billing
 
