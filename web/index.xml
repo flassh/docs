@@ -57,6 +57,26 @@
 
 &lt;p&gt;Fully custom domains (photobooth.yourdomain.com) are not currently supported.&lt;/p&gt;
 
+&lt;h2 id=&#34;manage-events&#34;&gt;Manage events&lt;/h2&gt;
+
+&lt;p&gt;You can manage events in each of our apps &amp;ndash; from the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; on the web, from Flassh Booth, and from iOS. This section of the docs applies to event management from the web.&lt;/p&gt;
+
+&lt;h3 id=&#34;create-a-new-event&#34;&gt;Create a new event&lt;/h3&gt;
+
+&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the &amp;ldquo;Create Event&amp;rdquo; button at the top right.&lt;/p&gt;
+
+&lt;p&gt;Enter your event details, then click the &amp;ldquo;Create Test Event&amp;rdquo; at the bottom of the form. &lt;a href=&#34;http://docs.flassh.co/booth/#supported-cameras&#34;&gt;Learn more about test events vs. live events&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;make-changes-to-an-existing-event&#34;&gt;Make changes to an existing event&lt;/h3&gt;
+
+&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the event you&amp;rsquo;d like to edit. Specify any details you&amp;rsquo;d like to change and click the &amp;ldquo;Save Event&amp;rdquo; button at the bottom of the form.&lt;/p&gt;
+
+&lt;h3 id=&#34;delete-an-event&#34;&gt;Delete an event&lt;/h3&gt;
+
+&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the event you&amp;rsquo;d like to delete. At the bottom of the form, click the &amp;ldquo;Delete&amp;rdquo; button and continue through the confirmation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: it is not possible to restore deleted events. All event info and all photos will be permanently deleted.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;watermarking&#34;&gt;Watermarking&lt;/h2&gt;
 
 &lt;p&gt;Many events are associated with a one or more companies/brands you may want to promote in your photos. From the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; you can upload an unlimited number of watermarks to your account for use in your events.&lt;/p&gt;
@@ -127,9 +147,35 @@
 
 &lt;p&gt;You can purchase as many credits as you need from the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account. &lt;a href=&#34;http://docs.flassh.co/#understanding-pricing&#34;&gt;Learn more about pricing&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Before you can add credits, you must &lt;a href=&#34;http://docs.flassh.co/web/#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Add Credits&amp;rdquo; button.&lt;/p&gt;
+&lt;p&gt;Before you can add credits, you must &lt;a href=&#34;#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Add Credits&amp;rdquo; button.&lt;/p&gt;
 
 &lt;p&gt;You are prompted to enter the number of credits you would like to buy. Enter a number and tap the &amp;ldquo;Buy Now&amp;rdquo; button to continue, you&amp;rsquo;ll be prompted once more to confirm your purchase. If your card is charged successfully, event credits are added to your account immediately.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: event credit purchases are non-refundable&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;manage-monthly-subscription&#34;&gt;Manage monthly subscription&lt;/h2&gt;
+
+&lt;p&gt;An alternative billing option we offer is unlimited live events and photos for $99 per month.&lt;/p&gt;
+
+&lt;p&gt;You either have an on-demand account or a subscription account. You cannot buy event credits while on an active subscription, and if you subscribe to the monthly plan while you still have credits in your account, we&amp;rsquo;ll convert those credits to a balance and apply them to your subscription payment, reducing the cost of your initial month.&lt;/p&gt;
+
+&lt;h3 id=&#34;subscribe-to-the-monthly-unlimited-plan&#34;&gt;Subscribe to the monthly unlimited plan&lt;/h3&gt;
+
+&lt;p&gt;Open to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your browser.&lt;/p&gt;
+
+&lt;p&gt;Before you can subscribe, you must &lt;a href=&#34;#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Manage Subscription&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: subscription purchases are non-refundable.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cancel-the-monthly-unlimited-plan&#34;&gt;Cancel the monthly unlimited plan&lt;/h3&gt;
+
+&lt;p&gt;Open to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your browser.&lt;/p&gt;
+
+&lt;p&gt;Click the &amp;ldquo;Manage Subscription&amp;rdquo; button. If you&amp;rsquo;re sure you&amp;rsquo;d like to cancel, click the &amp;ldquo;Cancel Subscription&amp;rdquo; button and continue through the confirmation.&lt;/p&gt;
+
+&lt;p&gt;Canceling your subscription will keep it active until the end of your current billing cycle, after that time it will not renew.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: we do not offer refunds for partial month cancelations. You must cancel your subscription prior to the end of the current billing cycle to avoid being charged again.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
