@@ -203,7 +203,7 @@
 
 &lt;p&gt;Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.&lt;/p&gt;
 
-&lt;p&gt;To create a new event, tap the &amp;ldquo;+ Create new event&amp;rdquo; button at the top of the screen. An event name and date are required, all other fields are optional. [Learn more about event settings]()&lt;/p&gt;
+&lt;p&gt;To create a new event, tap the &amp;ldquo;+ Create new event&amp;rdquo; button at the top of the screen. An event name and date are required, all other fields are optional. &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;Learn more about event settings&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;run-an-event&#34;&gt;Run an event&lt;/h2&gt;
 
@@ -213,7 +213,7 @@
 
 &lt;p&gt;If you&amp;rsquo;re ready to begin your live event and have a paid credit deducted from your account, choose &amp;ldquo;Convert To Live&amp;rdquo;. Otherwise, tap &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;Regardless of your selection above, you&amp;rsquo;ll be taken to the &amp;ldquo;Touch Screen To Party&amp;rdquo; screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]().&lt;/p&gt;
+&lt;p&gt;Regardless of your selection above, you&amp;rsquo;ll be taken to the &amp;ldquo;Touch Screen To Begin&amp;rdquo; screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;configurable in event settings&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As photos are taken, they&amp;rsquo;re automatically uploaded to our servers and made immediately available for viewing and sharing. Enjoy your event!&lt;/p&gt;
 
@@ -231,7 +231,7 @@
 
 &lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
 
-&lt;p&gt;We currently do not have a printing solution available. We&amp;rsquo;re actively working on this as our top priority and hope to release something soon that will address this. There have been oodles of requests for this feature!&lt;/p&gt;
+&lt;p&gt;We have built-in support for thousands of AirPrint-enabled printers, allowing you to &lt;a href=&#34;http://docs.flassh.co/ios/#printing&#34;&gt;print from our iOS application&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -282,6 +282,26 @@
 &lt;p&gt;Note, when you change this subdomain, any existing links to your web galleries will break, and the new URLs will take effect immediately.&lt;/p&gt;
 
 &lt;p&gt;Fully custom domains (photobooth.yourdomain.com) are not currently supported.&lt;/p&gt;
+
+&lt;h2 id=&#34;manage-events&#34;&gt;Manage events&lt;/h2&gt;
+
+&lt;p&gt;You can manage events in each of our apps &amp;ndash; from the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; on the web, from Flassh Booth, and from iOS. This section of the docs applies to event management from the web.&lt;/p&gt;
+
+&lt;h3 id=&#34;create-a-new-event&#34;&gt;Create a new event&lt;/h3&gt;
+
+&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the &amp;ldquo;Create Event&amp;rdquo; button at the top right.&lt;/p&gt;
+
+&lt;p&gt;Enter your event details, then click the &amp;ldquo;Create Test Event&amp;rdquo; at the bottom of the form. &lt;a href=&#34;http://docs.flassh.co/booth/#supported-cameras&#34;&gt;Learn more about test events vs. live events&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;make-changes-to-an-existing-event&#34;&gt;Make changes to an existing event&lt;/h3&gt;
+
+&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the event you&amp;rsquo;d like to edit. Specify any details you&amp;rsquo;d like to change and click the &amp;ldquo;Save Event&amp;rdquo; button at the bottom of the form.&lt;/p&gt;
+
+&lt;h3 id=&#34;delete-an-event&#34;&gt;Delete an event&lt;/h3&gt;
+
+&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the event you&amp;rsquo;d like to delete. At the bottom of the form, click the &amp;ldquo;Delete&amp;rdquo; button and continue through the confirmation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: it is not possible to restore deleted events. All event info and all photos will be permanently deleted.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;watermarking&#34;&gt;Watermarking&lt;/h2&gt;
 
@@ -353,9 +373,35 @@
 
 &lt;p&gt;You can purchase as many credits as you need from the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account. &lt;a href=&#34;http://docs.flassh.co/#understanding-pricing&#34;&gt;Learn more about pricing&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Before you can add credits, you must &lt;a href=&#34;http://docs.flassh.co/web/#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Add Credits&amp;rdquo; button.&lt;/p&gt;
+&lt;p&gt;Before you can add credits, you must &lt;a href=&#34;#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Add Credits&amp;rdquo; button.&lt;/p&gt;
 
 &lt;p&gt;You are prompted to enter the number of credits you would like to buy. Enter a number and tap the &amp;ldquo;Buy Now&amp;rdquo; button to continue, you&amp;rsquo;ll be prompted once more to confirm your purchase. If your card is charged successfully, event credits are added to your account immediately.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: event credit purchases are non-refundable&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;manage-monthly-subscription&#34;&gt;Manage monthly subscription&lt;/h2&gt;
+
+&lt;p&gt;An alternative billing option we offer is unlimited live events and photos for $99 per month.&lt;/p&gt;
+
+&lt;p&gt;You either have an on-demand account or a subscription account. You cannot buy event credits while on an active subscription, and if you subscribe to the monthly plan while you still have credits in your account, we&amp;rsquo;ll convert those credits to a balance and apply them to your subscription payment, reducing the cost of your initial month.&lt;/p&gt;
+
+&lt;h3 id=&#34;subscribe-to-the-monthly-unlimited-plan&#34;&gt;Subscribe to the monthly unlimited plan&lt;/h3&gt;
+
+&lt;p&gt;Open to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your browser.&lt;/p&gt;
+
+&lt;p&gt;Before you can subscribe, you must &lt;a href=&#34;#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Manage Subscription&amp;rdquo; button.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: subscription purchases are non-refundable.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cancel-the-monthly-unlimited-plan&#34;&gt;Cancel the monthly unlimited plan&lt;/h3&gt;
+
+&lt;p&gt;Open to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your browser.&lt;/p&gt;
+
+&lt;p&gt;Click the &amp;ldquo;Manage Subscription&amp;rdquo; button. If you&amp;rsquo;re sure you&amp;rsquo;d like to cancel, click the &amp;ldquo;Cancel Subscription&amp;rdquo; button and continue through the confirmation.&lt;/p&gt;
+
+&lt;p&gt;Canceling your subscription will keep it active until the end of your current billing cycle, after that time it will not renew.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: we do not offer refunds for partial month cancelations. You must cancel your subscription prior to the end of the current billing cycle to avoid being charged again.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -390,6 +436,18 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Do a single-finger long-press on the top navigation bar again to exit kiosk mode, where you&amp;rsquo;ll be prompted to enter your password.&lt;/p&gt;
+
+&lt;h3 id=&#34;configure-printing-in-kiosk-mode&#34;&gt;Configure printing in kiosk mode&lt;/h3&gt;
+
+&lt;p&gt;When running in kiosk mode, you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.&lt;/p&gt;
+
+&lt;p&gt;By default, printing is disabled in kiosk mode. To configure printing for the kiosk, ensure you are signed into your account and viewing the relevant event with kiosk mode disabled. Tap the triple-dot edit button on the right side of the screen and choose the &amp;ldquo;Edit kiosk settings&amp;rdquo; option in the menu.&lt;/p&gt;
+
+&lt;p&gt;To enable kiosk printing and expose the other available options, flip the &amp;ldquo;Kiosk printing&amp;rdquo; switch to on. Choose a nearby AirPrint-enabled printer. We&amp;rsquo;ll scan your network for available printers and present them in a list, tap the printer that should be used for kiosk prints.&lt;/p&gt;
+
+&lt;p&gt;If your event has a watermark, you have the option to include it on all kiosk prints. Flip the switch to on if you&amp;rsquo;d like the watermark visible on prints. If your event does not contain a watermark, this option has no effect.&lt;/p&gt;
+
+&lt;p&gt;Press the back button at the top left to return to your event. Then &lt;a href=&#34;#kiosk-mode&#34;&gt;enable kiosk mode&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;prevent-exiting-the-app-with-guided-access&#34;&gt;Prevent exiting the app with Guided Access&lt;/h3&gt;
 
@@ -440,6 +498,8 @@
 &lt;h3 id=&#34;delete-photos&#34;&gt;Delete photos&lt;/h3&gt;
 
 &lt;p&gt;If you are signed in and are viewing an event that you own, tapping the &amp;ldquo;Select&amp;rdquo; button at the top right and selecting any number of photos will reveal a trash can icon in the top left of the screen. Tapping the trash can icon and the confirming the following dialog will permanently delete the selected photos. Deleted photos are not recoverable.&lt;/p&gt;
+
+&lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
 </description>
     </item>
     
@@ -471,18 +531,30 @@
 
 &lt;h2 id=&#34;understanding-pricing&#34;&gt;Understanding pricing&lt;/h2&gt;
 
-&lt;p&gt;Our pricing is simple: &lt;strong&gt;$29 per live event&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We offer 2 pricing options depending on your needs: &lt;strong&gt;on-demand&lt;/strong&gt; and &lt;strong&gt;unlimited subscription&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;You can buy as many credits as you need from your &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;billing page&lt;/a&gt;. Event credits are non-refundable and never expire.&lt;/p&gt;
+&lt;p&gt;You can choose either method and can switch between the options as needed.&lt;/p&gt;
 
-&lt;p&gt;When you create a new event, it starts out as a test event. &lt;strong&gt;You can create as many events as you want&lt;/strong&gt; and you won&amp;rsquo;t ever be charged for them. Test events are completely free and never expire.&lt;/p&gt;
+&lt;p&gt;Regardless of your pricing selection, when you create a new event, it starts out as a test event. &lt;strong&gt;You can create as many events as you want&lt;/strong&gt; and you won&amp;rsquo;t ever be charged for them. Test events are completely free and never expire.&lt;/p&gt;
+
+&lt;h3 id=&#34;on-demand-pricing&#34;&gt;On-demand pricing&lt;/h3&gt;
+
+&lt;p&gt;How much does it cost? &lt;strong&gt;$29 per live event&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can buy as many credits as you need from your &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;billing page&lt;/a&gt;. Event credits never expire and are non-refundable.&lt;/p&gt;
+
+&lt;h3 id=&#34;unlimited-subscription-pricing&#34;&gt;Unlimited subscription pricing&lt;/h3&gt;
+
+&lt;p&gt;Our unlimited subscription allows you to run an unlimited number of live events each month with an unlimited number of photos for $99 per month.&lt;/p&gt;
+
+&lt;p&gt;Manage your subscription from your &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;billing page&lt;/a&gt;. You can also &lt;a href=&#34;http://docs.flassh.co/web/#manage-monthly-subscription&#34;&gt;learn more about subscriptions and get help setting it up&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;test-event-limitations&#34;&gt;Test event limitations&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;You can capture and upload up to 25 photos&lt;/li&gt;
 &lt;li&gt;Only devices signed into your account can see a test event and its photos, it is not publicly searchable in the apps or client gallery&lt;/li&gt;
-&lt;li&gt;If you&amp;rsquo;re not finished testing but hit the test limit, &lt;a href=&#34;http://docs.flassh.co/ios/#multiple-photo-actions&#34;&gt;delete some photos&lt;/a&gt; from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don&amp;rsquo;t want, you can always [delete those events]().&lt;/li&gt;
+&lt;li&gt;If you&amp;rsquo;re not finished testing but hit the test limit, &lt;a href=&#34;http://docs.flassh.co/ios/#multiple-photo-actions&#34;&gt;delete some photos&lt;/a&gt; from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don&amp;rsquo;t want, you can always &lt;a href=&#34;http://docs.flassh.co/web/#delete-an-event&#34;&gt;delete those events&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;converting-to-a-live-event&#34;&gt;Converting to a live event&lt;/h3&gt;

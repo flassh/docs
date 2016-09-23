@@ -41,6 +41,18 @@
 
 &lt;p&gt;Do a single-finger long-press on the top navigation bar again to exit kiosk mode, where you&amp;rsquo;ll be prompted to enter your password.&lt;/p&gt;
 
+&lt;h3 id=&#34;configure-printing-in-kiosk-mode&#34;&gt;Configure printing in kiosk mode&lt;/h3&gt;
+
+&lt;p&gt;When running in kiosk mode, you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.&lt;/p&gt;
+
+&lt;p&gt;By default, printing is disabled in kiosk mode. To configure printing for the kiosk, ensure you are signed into your account and viewing the relevant event with kiosk mode disabled. Tap the triple-dot edit button on the right side of the screen and choose the &amp;ldquo;Edit kiosk settings&amp;rdquo; option in the menu.&lt;/p&gt;
+
+&lt;p&gt;To enable kiosk printing and expose the other available options, flip the &amp;ldquo;Kiosk printing&amp;rdquo; switch to on. Choose a nearby AirPrint-enabled printer. We&amp;rsquo;ll scan your network for available printers and present them in a list, tap the printer that should be used for kiosk prints.&lt;/p&gt;
+
+&lt;p&gt;If your event has a watermark, you have the option to include it on all kiosk prints. Flip the switch to on if you&amp;rsquo;d like the watermark visible on prints. If your event does not contain a watermark, this option has no effect.&lt;/p&gt;
+
+&lt;p&gt;Press the back button at the top left to return to your event. Then &lt;a href=&#34;#kiosk-mode&#34;&gt;enable kiosk mode&lt;/a&gt;.&lt;/p&gt;
+
 &lt;h3 id=&#34;prevent-exiting-the-app-with-guided-access&#34;&gt;Prevent exiting the app with Guided Access&lt;/h3&gt;
 
 &lt;p&gt;iOS ships with a feature called Guided Access that can temporarily restrict your iOS device to a single application. Tapping the home button or the power button will keep the application open, preventing kiosk guests from exiting to the home screen or opening other applications. &lt;a href=&#34;https://support.apple.com/en-us/HT202612&#34;&gt;Learn more about Guided Access&lt;/a&gt;.&lt;/p&gt;
@@ -90,6 +102,8 @@
 &lt;h3 id=&#34;delete-photos&#34;&gt;Delete photos&lt;/h3&gt;
 
 &lt;p&gt;If you are signed in and are viewing an event that you own, tapping the &amp;ldquo;Select&amp;rdquo; button at the top right and selecting any number of photos will reveal a trash can icon in the top left of the screen. Tapping the trash can icon and the confirming the following dialog will permanently delete the selected photos. Deleted photos are not recoverable.&lt;/p&gt;
+
+&lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
 </description>
     </item>
     

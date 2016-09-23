@@ -125,7 +125,7 @@
 
 &lt;p&gt;Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.&lt;/p&gt;
 
-&lt;p&gt;To create a new event, tap the &amp;ldquo;+ Create new event&amp;rdquo; button at the top of the screen. An event name and date are required, all other fields are optional. [Learn more about event settings]()&lt;/p&gt;
+&lt;p&gt;To create a new event, tap the &amp;ldquo;+ Create new event&amp;rdquo; button at the top of the screen. An event name and date are required, all other fields are optional. &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;Learn more about event settings&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;run-an-event&#34;&gt;Run an event&lt;/h2&gt;
 
@@ -135,7 +135,7 @@
 
 &lt;p&gt;If you&amp;rsquo;re ready to begin your live event and have a paid credit deducted from your account, choose &amp;ldquo;Convert To Live&amp;rdquo;. Otherwise, tap &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;Regardless of your selection above, you&amp;rsquo;ll be taken to the &amp;ldquo;Touch Screen To Party&amp;rdquo; screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]().&lt;/p&gt;
+&lt;p&gt;Regardless of your selection above, you&amp;rsquo;ll be taken to the &amp;ldquo;Touch Screen To Begin&amp;rdquo; screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;configurable in event settings&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As photos are taken, they&amp;rsquo;re automatically uploaded to our servers and made immediately available for viewing and sharing. Enjoy your event!&lt;/p&gt;
 
@@ -153,7 +153,7 @@
 
 &lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
 
-&lt;p&gt;We currently do not have a printing solution available. We&amp;rsquo;re actively working on this as our top priority and hope to release something soon that will address this. There have been oodles of requests for this feature!&lt;/p&gt;
+&lt;p&gt;We have built-in support for thousands of AirPrint-enabled printers, allowing you to &lt;a href=&#34;http://docs.flassh.co/ios/#printing&#34;&gt;print from our iOS application&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
