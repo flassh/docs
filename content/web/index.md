@@ -43,6 +43,26 @@ Note, when you change this subdomain, any existing links to your web galleries w
 
 Fully custom domains (photobooth.yourdomain.com) are not currently supported.
 
+## Manage events
+
+You can manage events in each of our apps -- from the [Events tab](https://flassh.co/account/events) on the web, from Flassh Booth, and from iOS. This section of the docs applies to event management from the web.
+
+### Create a new event
+
+Open the [Events tab](https://flassh.co/account/events) in any browser and click the "Create Event" button at the top right.
+
+Enter your event details, then click the "Create Test Event" at the bottom of the form. [Learn more about test events vs. live events]({{< relref "booth/index.md#supported-cameras" >}})
+
+### Make changes to an existing event
+
+Open the [Events tab](https://flassh.co/account/events) in any browser and click the event you'd like to edit. Specify any details you'd like to change and click the "Save Event" button at the bottom of the form.
+
+### Delete an event
+
+Open the [Events tab](https://flassh.co/account/events) in any browser and click the event you'd like to delete. At the bottom of the form, click the "Delete" button and continue through the confirmation.
+
+**Note: it is not possible to restore deleted events. All event info and all photos will be permanently deleted.**
+
 ## Watermarking
 
 Many events are associated with a one or more companies/brands you may want to promote in your photos. From the [Watermark tab](https://flassh.co/account/watermarks) you can upload an unlimited number of watermarks to your account for use in your events.
@@ -113,6 +133,32 @@ On the [Billing tab](https://flassh.co/account/billing) in your account, you can
 
 You can purchase as many credits as you need from the [Billing tab](https://flassh.co/account/billing) in your account. [Learn more about pricing](/#understanding-pricing)
 
-Before you can add credits, you must [add a credit card]({{< relref "web/index.md#credit-card-billing" >}}) to your account. Once you have a credit card on file, tap the "Add Credits" button.
+Before you can add credits, you must [add a credit card](#credit-card-billing) to your account. Once you have a credit card on file, tap the "Add Credits" button.
 
 You are prompted to enter the number of credits you would like to buy. Enter a number and tap the "Buy Now" button to continue, you'll be prompted once more to confirm your purchase. If your card is charged successfully, event credits are added to your account immediately.
+
+**Note: event credit purchases are non-refundable**
+
+## Manage monthly subscription
+
+An alternative billing option we offer is unlimited live events and photos for $99 per month.
+
+You either have an on-demand account or a subscription account. You cannot buy event credits while on an active subscription, and if you subscribe to the monthly plan while you still have credits in your account, we'll convert those credits to a balance and apply them to your subscription payment, reducing the cost of your initial month.
+
+### Subscribe to the monthly unlimited plan
+
+Open to the [Billing tab](https://flassh.co/account/billing) in your browser.
+
+Before you can subscribe, you must [add a credit card](#credit-card-billing) to your account. Once you have a credit card on file, tap the "Manage Subscription" button.
+
+**Note: subscription purchases are non-refundable.**
+
+### Cancel the monthly unlimited plan
+
+Open to the [Billing tab](https://flassh.co/account/billing) in your browser.
+
+Click the "Manage Subscription" button. If you're sure you'd like to cancel, click the "Cancel Subscription" button and continue through the confirmation.
+
+Canceling your subscription will keep it active until the end of your current billing cycle, after that time it will not renew.
+
+**Note: we do not offer refunds for partial month cancelations. You must cancel your subscription prior to the end of the current billing cycle to avoid being charged again.**

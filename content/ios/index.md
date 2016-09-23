@@ -25,6 +25,18 @@ Open the app and make sure you're signed in, then open the event so you're looki
 
 Do a single-finger long-press on the top navigation bar again to exit kiosk mode, where you'll be prompted to enter your password.
 
+### Configure printing in kiosk mode
+
+When running in kiosk mode, you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.
+
+By default, printing is disabled in kiosk mode. To configure printing for the kiosk, ensure you are signed into your account and viewing the relevant event with kiosk mode disabled. Tap the triple-dot edit button on the right side of the screen and choose the "Edit kiosk settings" option in the menu.
+
+To enable kiosk printing and expose the other available options, flip the "Kiosk printing" switch to on. Choose a nearby AirPrint-enabled printer. We'll scan your network for available printers and present them in a list, tap the printer that should be used for kiosk prints.
+
+If your event has a watermark, you have the option to include it on all kiosk prints. Flip the switch to on if you'd like the watermark visible on prints. If your event does not contain a watermark, this option has no effect.
+
+Press the back button at the top left to return to your event. Then [enable kiosk mode](#kiosk-mode).
+
 ### Prevent exiting the app with Guided Access
 
 iOS ships with a feature called Guided Access that can temporarily restrict your iOS device to a single application. Tapping the home button or the power button will keep the application open, preventing kiosk guests from exiting to the home screen or opening other applications. [Learn more about Guided Access](https://support.apple.com/en-us/HT202612).
@@ -74,3 +86,5 @@ Compile the selected images into a video file (MP4 format) and save it to the ca
 ### Delete photos
 
 If you are signed in and are viewing an event that you own, tapping the "Select" button at the top right and selecting any number of photos will reveal a trash can icon in the top left of the screen. Tapping the trash can icon and the confirming the following dialog will permanently delete the selected photos. Deleted photos are not recoverable.
+
+## Printing

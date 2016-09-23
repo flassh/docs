@@ -22,17 +22,29 @@ Signing up for a new account is free and only takes a minute. [Create an account
 
 ## Understanding pricing
 
-Our pricing is simple: **$29 per live event**.
+We offer 2 pricing options depending on your needs: **on-demand** and **unlimited subscription**
 
-You can buy as many credits as you need from your [billing page](https://flassh.co/account/billing). Event credits are non-refundable and never expire.
+You can choose either method and can switch between the options as needed.
 
-When you create a new event, it starts out as a test event. **You can create as many events as you want** and you won't ever be charged for them. Test events are completely free and never expire.
+Regardless of your pricing selection, when you create a new event, it starts out as a test event. **You can create as many events as you want** and you won't ever be charged for them. Test events are completely free and never expire.
+
+### On-demand pricing
+
+How much does it cost? **$29 per live event**.
+
+You can buy as many credits as you need from your [billing page](https://flassh.co/account/billing). Event credits never expire and are non-refundable.
+
+### Unlimited subscription pricing
+
+Our unlimited subscription allows you to run an unlimited number of live events each month with an unlimited number of photos for $99 per month.
+
+Manage your subscription from your [billing page](https://flassh.co/account/billing). You can also [learn more about subscriptions and get help setting it up]({{< relref "web/index.md#manage-monthly-subscription" >}}).
 
 ### Test event limitations
 
 - You can capture and upload up to 25 photos
 - Only devices signed into your account can see a test event and its photos, it is not publicly searchable in the apps or client gallery
-- If you're not finished testing but hit the test limit, [delete some photos]({{< relref "ios/index.md#multiple-photo-actions" >}}) from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don't want, you can always [delete those events]().
+- If you're not finished testing but hit the test limit, [delete some photos]({{< relref "ios/index.md#multiple-photo-actions" >}}) from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don't want, you can always [delete those events]({{< relref "web/index.md#delete-an-event" >}}).
 
 ### Converting to a live event
 

@@ -101,7 +101,7 @@ With Flassh Connect open in the background, Flassh Booth open in the foreground,
 
 Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.
 
-To create a new event, tap the "+ Create new event" button at the top of the screen. An event name and date are required, all other fields are optional. [Learn more about event settings]()
+To create a new event, tap the "+ Create new event" button at the top of the screen. An event name and date are required, all other fields are optional. [Learn more about event settings]({{< relref "events/index.md#event-settings" >}})
 
 ## Run an event
 
@@ -111,7 +111,7 @@ Every event you create is a "Test" event by default. See our [pricing info](/#un
 
 If you're ready to begin your live event and have a paid credit deducted from your account, choose "Convert To Live". Otherwise, tap "Continue Testing".
 
-Regardless of your selection above, you'll be taken to the "Touch Screen To Party" screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]().
+Regardless of your selection above, you'll be taken to the "Touch Screen To Begin" screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is [configurable in event settings]({{< relref "events/index.md#event-settings" >}}).
 
 As photos are taken, they're automatically uploaded to our servers and made immediately available for viewing and sharing. Enjoy your event!
 
@@ -129,4 +129,4 @@ If a WiFi or wired Internet connection is not available at your event's location
 
 ## Printing
 
-We currently do not have a printing solution available. We're actively working on this as our top priority and hope to release something soon that will address this. There have been oodles of requests for this feature!
+We have built-in support for thousands of AirPrint-enabled printers, allowing you to [print from our iOS application]({{< relref "ios/index.md#printing" >}}).
