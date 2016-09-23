@@ -27,7 +27,7 @@ Do a single-finger long-press on the top navigation bar again to exit kiosk mode
 
 ### Configure printing in kiosk mode
 
-When running in kiosk mode, you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.
+When running in [kiosk mode](#kiosk-mode), you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.
 
 By default, printing is disabled in kiosk mode. To configure printing for the kiosk, ensure you are signed into your account and viewing the relevant event with kiosk mode disabled. Tap the triple-dot edit button on the right side of the screen and choose the "Edit kiosk settings" option in the menu.
 
