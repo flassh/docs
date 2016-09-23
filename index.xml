@@ -439,7 +439,7 @@
 
 &lt;h3 id=&#34;configure-printing-in-kiosk-mode&#34;&gt;Configure printing in kiosk mode&lt;/h3&gt;
 
-&lt;p&gt;When running in kiosk mode, you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.&lt;/p&gt;
+&lt;p&gt;When running in &lt;a href=&#34;#kiosk-mode&#34;&gt;kiosk mode&lt;/a&gt;, you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.&lt;/p&gt;
 
 &lt;p&gt;By default, printing is disabled in kiosk mode. To configure printing for the kiosk, ensure you are signed into your account and viewing the relevant event with kiosk mode disabled. Tap the triple-dot edit button on the right side of the screen and choose the &amp;ldquo;Edit kiosk settings&amp;rdquo; option in the menu.&lt;/p&gt;
 
