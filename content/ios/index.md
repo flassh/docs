@@ -22,6 +22,7 @@ Open the app and make sure you're signed in, then open the event so you're looki
 - It hides the event edit button as well as the trash can icon so guests cannot edit event details or delete photos.
 - It disables [the menu available from a long-press gesture](#single-photo-actions) available on individual photos
 - It ensures the iPad/iPhone does not go to sleep (screen will stay bright and it won't lock). Combine this with Guided Access mode provided by iOS and you can completely prevent people from exiting the kiosk.
+- It disables printing by default. Take a look at [configuring printing in kiosk mode](#configure-printing-in-kiosk-mode) to enable it.
 
 Do a single-finger long-press on the top navigation bar again to exit kiosk mode, where you'll be prompted to enter your password.
 
@@ -88,3 +89,9 @@ Compile the selected images into a video file (MP4 format) and save it to the ca
 If you are signed in and are viewing an event that you own, tapping the "Select" button at the top right and selecting any number of photos will reveal a trash can icon in the top left of the screen. Tapping the trash can icon and the confirming the following dialog will permanently delete the selected photos. Deleted photos are not recoverable.
 
 ## Printing
+
+Printing on iOS is supported via [AirPrint](https://support.apple.com/en-us/HT201311), allowing iPad, iPhone, and iPod touch users to print wirelessly to any AirPrint-enabled printer that is connected to the same local wireless network.
+
+Anyone who can view the photos in an event can print photos individually. To print a photo, open the relevant event and tap on the desired photo to bring it up in zoomed mode. Then tap the "Print Photo" button in the bottom bar and follow the steps to select your AirPrint printer and submit the print job.
+
+In [kiosk mode](#kiosk-mode), printing is disabled by default. You can configure kiosk settings to pre-select a printer to use for the kiosk mode and enable printing if you'd like. If your event has a watermark applied, you can also enable or disable including the watermark in kiosk prints. [Learn more](#configure-printing-in-kiosk-mode) about printing in kiosk mode.
