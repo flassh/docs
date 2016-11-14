@@ -5,7 +5,7 @@ title: Flassh Booth
 
 ## System requirements
 
-* Windows touch-screen tablet running Windows 8 or later (Windows 10 recommended)
+* Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported.
 * 2GB RAM
 
 ## Download and install
