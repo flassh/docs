@@ -28,7 +28,7 @@ In order to use Flassh Booth, you must sign into your account. If you don't alre
 
 ## Supported Cameras
 
-At this time, we **only** support Canon DSLRs. Nikon, Sony, and other camera models are **not supported**.
+At this time, we **only** support the following Canon and Nikon DSLRs. Sony and other camera brands/models are **not supported**.
 
 ### Supported Canon camera models
 
@@ -55,6 +55,54 @@ At this time, we **only** support Canon DSLRs. Nikon, Sony, and other camera mod
 * EOS Kiss X70 / EOS 1200D / EOS REBEL T5 / EOS Hi
 * EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss
 * EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80
+
+### Supported Nikon camera models
+
+* D3
+* D3S
+* D3X
+* D4
+* D4S
+* D5
+* D90
+* D300
+* D300S
+* D500
+* D600
+* D610
+* D700
+* D750
+* D800
+* D810
+* D810A
+* D5100
+* D5200
+* D5300
+* D5500
+* D5600
+* D7000
+* D7100
+* D7200
+
+## Connection troubleshooting
+
+### Ensure you're using a supported camera
+
+We support [a variety of Canon and Nikon DSLRs](#supported-cameras) connected over USB.
+
+### If you're using a USB adapter, make sure it's an OTG adapter
+
+If your tablet doesn't have a full-size USB port, you're probably using an adapter to convert the full-size USB connector to a mini, micro, or USB-C connector. Ensure you're using an On-The-Go (OTG) cable/adapter, as this type of adapter ensures the signal is properly converted. Adapters that are not explicitly labeled as OTG may not work. [Here's an example adapter cable](https://www.amazon.com/dp/B00LN3LQKQ/) that is known to work well.
+
+### Disable auto-play
+
+Windows has a built-in feature that is often configured to auto-open its Photos (or another) application. This hijacks Flassh's ability to control the camera when it is connected.
+
+The easiest approach is to disable auto-play entirely, which you can see how to do [here](http://www.thewindowsclub.com/set-autoplay-defaults-windows-10).
+
+### Disable WiFi on WiFi-enabled cameras
+
+The WiFi setting on cameras that have WiFi capability (such as the Canon 80D) _must_ be disabled. Canon disables USB functionality entirely when WiFi is enabled on the camera. Wifi can be disabled from the camera's on-screen menu. Once WiFi is disabled, connect the camera to the tablet via USB and it should be detected.
 
 ## Camera configuration
 
