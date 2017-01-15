@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios on Flassh Docs</title>
-    <link>http://docs.flassh.co/ios/</link>
+    <link>http://docs.flassh.co/ios/index.xml</link>
     <description>Recent content in Ios on Flassh Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Flassh</copyright>
     <lastBuildDate>Wed, 04 May 2016 21:13:53 +0000</lastBuildDate>
     <atom:link href="http://docs.flassh.co/ios/index.xml" rel="self" type="application/rss+xml" />
     

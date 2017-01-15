@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flassh Docs</title>
-    <link>http://docs.flassh.co/</link>
+    <link>http://docs.flassh.co/index.xml</link>
     <description>Recent content on Flassh Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Flassh</copyright>
     <lastBuildDate>Wed, 04 May 2016 21:13:53 +0000</lastBuildDate>
     <atom:link href="http://docs.flassh.co/index.xml" rel="self" type="application/rss+xml" />
     
@@ -122,7 +123,7 @@
 
 &lt;h2 id=&#34;supported-cameras&#34;&gt;Supported Cameras&lt;/h2&gt;
 
-&lt;p&gt;At this time, we &lt;strong&gt;only&lt;/strong&gt; support Canon DSLRs. Nikon, Sony, and other camera models are &lt;strong&gt;not supported&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;At this time, we &lt;strong&gt;only&lt;/strong&gt; support the following Canon and Nikon DSLRs. Sony and other camera brands/models are &lt;strong&gt;not supported&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;supported-canon-camera-models&#34;&gt;Supported Canon camera models&lt;/h3&gt;
 
@@ -151,6 +152,56 @@
 &lt;li&gt;EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss&lt;/li&gt;
 &lt;li&gt;EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;supported-nikon-camera-models&#34;&gt;Supported Nikon camera models&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;D3&lt;/li&gt;
+&lt;li&gt;D3S&lt;/li&gt;
+&lt;li&gt;D3X&lt;/li&gt;
+&lt;li&gt;D4&lt;/li&gt;
+&lt;li&gt;D4S&lt;/li&gt;
+&lt;li&gt;D5&lt;/li&gt;
+&lt;li&gt;D90&lt;/li&gt;
+&lt;li&gt;D300&lt;/li&gt;
+&lt;li&gt;D300S&lt;/li&gt;
+&lt;li&gt;D500&lt;/li&gt;
+&lt;li&gt;D600&lt;/li&gt;
+&lt;li&gt;D610&lt;/li&gt;
+&lt;li&gt;D700&lt;/li&gt;
+&lt;li&gt;D750&lt;/li&gt;
+&lt;li&gt;D800&lt;/li&gt;
+&lt;li&gt;D810&lt;/li&gt;
+&lt;li&gt;D810A&lt;/li&gt;
+&lt;li&gt;D5100&lt;/li&gt;
+&lt;li&gt;D5200&lt;/li&gt;
+&lt;li&gt;D5300&lt;/li&gt;
+&lt;li&gt;D5500&lt;/li&gt;
+&lt;li&gt;D5600&lt;/li&gt;
+&lt;li&gt;D7000&lt;/li&gt;
+&lt;li&gt;D7100&lt;/li&gt;
+&lt;li&gt;D7200&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;connection-troubleshooting&#34;&gt;Connection troubleshooting&lt;/h2&gt;
+
+&lt;h3 id=&#34;ensure-you-re-using-a-supported-camera&#34;&gt;Ensure you&amp;rsquo;re using a supported camera&lt;/h3&gt;
+
+&lt;p&gt;We support &lt;a href=&#34;#supported-cameras&#34;&gt;a variety of Canon and Nikon DSLRs&lt;/a&gt; connected over USB.&lt;/p&gt;
+
+&lt;h3 id=&#34;if-you-re-using-a-usb-adapter-make-sure-it-s-an-otg-adapter&#34;&gt;If you&amp;rsquo;re using a USB adapter, make sure it&amp;rsquo;s an OTG adapter&lt;/h3&gt;
+
+&lt;p&gt;If your tablet doesn&amp;rsquo;t have a full-size USB port, you&amp;rsquo;re probably using an adapter to convert the full-size USB connector to a mini, micro, or USB-C connector. Ensure you&amp;rsquo;re using an On-The-Go (OTG) cable/adapter, as this type of adapter ensures the signal is properly converted. Adapters that are not explicitly labeled as OTG may not work. &lt;a href=&#34;https://www.amazon.com/dp/B00LN3LQKQ/&#34;&gt;Here&amp;rsquo;s an example adapter cable&lt;/a&gt; that is known to work well.&lt;/p&gt;
+
+&lt;h3 id=&#34;disable-auto-play&#34;&gt;Disable auto-play&lt;/h3&gt;
+
+&lt;p&gt;Windows has a built-in feature that is often configured to auto-open its Photos (or another) application. This hijacks Flassh&amp;rsquo;s ability to control the camera when it is connected.&lt;/p&gt;
+
+&lt;p&gt;The easiest approach is to disable auto-play entirely, which you can see how to do &lt;a href=&#34;http://www.thewindowsclub.com/set-autoplay-defaults-windows-10&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;disable-wifi-on-wifi-enabled-cameras&#34;&gt;Disable WiFi on WiFi-enabled cameras&lt;/h3&gt;
+
+&lt;p&gt;The WiFi setting on cameras that have WiFi capability (such as the Canon 80D) &lt;em&gt;must&lt;/em&gt; be disabled. Canon disables USB functionality entirely when WiFi is enabled on the camera. Wifi can be disabled from the camera&amp;rsquo;s on-screen menu. Once WiFi is disabled, connect the camera to the tablet via USB and it should be detected.&lt;/p&gt;
 
 &lt;h2 id=&#34;camera-configuration&#34;&gt;Camera configuration&lt;/h2&gt;
 

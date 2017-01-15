@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <title>Flassh Booth - Flassh Docs</title>
-    <meta name="generator" content="Hugo 0.16" />
+    <meta name="generator" content="Hugo 0.18.1" />
 
     
     <link rel="canonical" href="http://docs.flassh.co/booth/">
@@ -273,7 +273,7 @@
 
 <h2 id="supported-cameras">Supported Cameras</h2>
 
-<p>At this time, we <strong>only</strong> support Canon DSLRs. Nikon, Sony, and other camera models are <strong>not supported</strong>.</p>
+<p>At this time, we <strong>only</strong> support the following Canon and Nikon DSLRs. Sony and other camera brands/models are <strong>not supported</strong>.</p>
 
 <h3 id="supported-canon-camera-models">Supported Canon camera models</h3>
 
@@ -302,6 +302,56 @@
 <li>EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss</li>
 <li>EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80</li>
 </ul>
+
+<h3 id="supported-nikon-camera-models">Supported Nikon camera models</h3>
+
+<ul>
+<li>D3</li>
+<li>D3S</li>
+<li>D3X</li>
+<li>D4</li>
+<li>D4S</li>
+<li>D5</li>
+<li>D90</li>
+<li>D300</li>
+<li>D300S</li>
+<li>D500</li>
+<li>D600</li>
+<li>D610</li>
+<li>D700</li>
+<li>D750</li>
+<li>D800</li>
+<li>D810</li>
+<li>D810A</li>
+<li>D5100</li>
+<li>D5200</li>
+<li>D5300</li>
+<li>D5500</li>
+<li>D5600</li>
+<li>D7000</li>
+<li>D7100</li>
+<li>D7200</li>
+</ul>
+
+<h2 id="connection-troubleshooting">Connection troubleshooting</h2>
+
+<h3 id="ensure-you-re-using-a-supported-camera">Ensure you&rsquo;re using a supported camera</h3>
+
+<p>We support <a href="#supported-cameras">a variety of Canon and Nikon DSLRs</a> connected over USB.</p>
+
+<h3 id="if-you-re-using-a-usb-adapter-make-sure-it-s-an-otg-adapter">If you&rsquo;re using a USB adapter, make sure it&rsquo;s an OTG adapter</h3>
+
+<p>If your tablet doesn&rsquo;t have a full-size USB port, you&rsquo;re probably using an adapter to convert the full-size USB connector to a mini, micro, or USB-C connector. Ensure you&rsquo;re using an On-The-Go (OTG) cable/adapter, as this type of adapter ensures the signal is properly converted. Adapters that are not explicitly labeled as OTG may not work. <a href="https://www.amazon.com/dp/B00LN3LQKQ/">Here&rsquo;s an example adapter cable</a> that is known to work well.</p>
+
+<h3 id="disable-auto-play">Disable auto-play</h3>
+
+<p>Windows has a built-in feature that is often configured to auto-open its Photos (or another) application. This hijacks Flassh&rsquo;s ability to control the camera when it is connected.</p>
+
+<p>The easiest approach is to disable auto-play entirely, which you can see how to do <a href="http://www.thewindowsclub.com/set-autoplay-defaults-windows-10">here</a>.</p>
+
+<h3 id="disable-wifi-on-wifi-enabled-cameras">Disable WiFi on WiFi-enabled cameras</h3>
+
+<p>The WiFi setting on cameras that have WiFi capability (such as the Canon 80D) <em>must</em> be disabled. Canon disables USB functionality entirely when WiFi is enabled on the camera. Wifi can be disabled from the camera&rsquo;s on-screen menu. Once WiFi is disabled, connect the camera to the tablet via USB and it should be detected.</p>
 
 <h2 id="camera-configuration">Camera configuration</h2>
 
@@ -387,7 +437,7 @@
 
 			<aside class="copyright" role="note">
 				
-				&copy; 2016 Flassh
+				&copy; 2017 Flassh
 				
 			</aside>
 
