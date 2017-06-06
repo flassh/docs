@@ -28,13 +28,28 @@
   </url>
   
   <url>
-    <loc>https://docs.flassh.co/booth/</loc>
-    <lastmod>2016-05-04T21:13:53+00:00</lastmod>
+    <loc>https://docs.flassh.co/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs.flassh.co/"
+                />
   </url>
   
   <url>
-    <loc>https://docs.flassh.co/categories/</loc>
+    <loc>https://docs.flassh.co/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://docs.flassh.co/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://docs.flassh.co/booth/</loc>
+    <lastmod>2016-05-04T21:13:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -53,11 +68,6 @@
   <url>
     <loc>https://docs.flassh.co/ios/</loc>
     <lastmod>2016-05-04T21:13:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.flassh.co/tags/</loc>
     <priority>0</priority>
   </url>
   
