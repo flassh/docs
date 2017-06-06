@@ -1,4 +1,4 @@
-baseurl = "http://docs.flassh.co/"
+baseurl = "https://docs.flassh.co/"
 languageCode = "en-us"
 title = "Flassh Docs"
 theme = "hugo-material-docs"
