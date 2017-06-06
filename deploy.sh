@@ -18,3 +18,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 git subtree push --prefix=public git@github.com:flassh/docs.git gh-pages
+aws s3 sync public/ s3://docs.flassh.co --acl public-read --region us-east-1 --profile flassh
