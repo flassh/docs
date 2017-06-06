@@ -2,631 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flassh Docs</title>
-    <link>http://docs.flassh.co/index.xml</link>
+    <link>https://docs.flassh.co/</link>
     <description>Recent content on Flassh Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Flassh</copyright>
     <lastBuildDate>Wed, 04 May 2016 21:13:53 +0000</lastBuildDate>
-    <atom:link href="http://docs.flassh.co/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://docs.flassh.co/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Events</title>
-      <link>http://docs.flassh.co/events/</link>
+      <link>https://docs.flassh.co/events/</link>
       <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
       
-      <guid>http://docs.flassh.co/events/</guid>
-      <description>
-
-&lt;p&gt;Events are core to the Flassh platform. Each collection of photos is stored in an event and each event has a number of settings that make it unique and customizable.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-event&#34;&gt;Create a new event&lt;/h2&gt;
-
-&lt;p&gt;Events can be created from the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;events tab&lt;/a&gt; in your account on the web, from the &lt;a href=&#34;http://docs.flassh.co/ios&#34;&gt;iOS app&lt;/a&gt;, and from &lt;a href=&#34;http://docs.flassh.co/booth&#34;&gt;Flassh Booth&lt;/a&gt;. Although you&amp;rsquo;re able to create an event from all platforms, not all settings are available on all platforms. Generally speaking, the iOS app has the most capabilities when it comes to event settings. We&amp;rsquo;re continually working to reach feature parity across all our apps.&lt;/p&gt;
-
-&lt;h2 id=&#34;event-settings&#34;&gt;Event settings&lt;/h2&gt;
-
-&lt;h3 id=&#34;name-required&#34;&gt;Name &lt;em&gt;(required)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;Give your event a short, friendly name that is recognizable and searchable by your guests.&lt;/p&gt;
-
-&lt;h3 id=&#34;date-required&#34;&gt;Date &lt;em&gt;(required)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;Specify the date that your event is running. Our applications will default to the current date.&lt;/p&gt;
-
-&lt;h3 id=&#34;hashtag-optional&#34;&gt;Hashtag &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;Optionally specify a hashtag that will automatically be added to the default status message when sharing photos with Facebook or Twitter.&lt;/p&gt;
-
-&lt;h3 id=&#34;password-optional&#34;&gt;Password &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;If you want to add a layer of security to your photos, specify a password that guests need to know in order to access event photos. This password requirement is enforced for guests browsing from the iOS app or web gallery.&lt;/p&gt;
-
-&lt;h3 id=&#34;hide-gallery-optional&#34;&gt;Hide gallery &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;If you want to run an event that is not searchable nor viewable publicly, enable the hidden gallery option. Only devices signed into your account can see the event. You can still &lt;a href=&#34;http://docs.flassh.co/ios/#kiosk-mode&#34;&gt;setup a kiosk&lt;/a&gt; and people using the kiosk can still share photos (via email) to themselves, but cannot pull up the event on their own device or browser.&lt;/p&gt;
-
-&lt;h3 id=&#34;editing-preset-optional&#34;&gt;Editing preset &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;By default, we do not apply any editing to the captured photos. They look exactly as they do straight out of the camera.&lt;/p&gt;
-
-&lt;p&gt;We provide editing presets you can choose to match the style of your event. &lt;strong&gt;All editing presets are completely non-destructive to your images. We retain the original image and generate additional file versions with the preset applied. Want to change or remove the preset later? No problem!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;none&#34;&gt;None&lt;/h4&gt;
-
-&lt;p&gt;This is the default. No enhancements are made to photos.&lt;/p&gt;
-
-&lt;h4 id=&#34;enhanced&#34;&gt;Enhanced&lt;/h4&gt;
-
-&lt;p&gt;Slightly increased contrast.&lt;/p&gt;
-
-&lt;h4 id=&#34;enhanced-black-white&#34;&gt;Enhanced (Black &amp;amp; White)&lt;/h4&gt;
-
-&lt;p&gt;Same as Enhanced, but bring saturation to zero.&lt;/p&gt;
-
-&lt;h4 id=&#34;film&#34;&gt;Film&lt;/h4&gt;
-
-&lt;p&gt;Trim blacks and whites on the tone curve, add some monochromatic noise, increase brightness, decrease saturation and hue.&lt;/p&gt;
-
-&lt;h4 id=&#34;film-black-white&#34;&gt;Film (Black &amp;amp; White)&lt;/h4&gt;
-
-&lt;p&gt;Same as Film, but bring saturation to zero.&lt;/p&gt;
-
-&lt;h3 id=&#34;watermark-optional&#34;&gt;Watermark &lt;em&gt;(optional)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;Before you can apply a watermark to an event, you need to &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;upload one to your account&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;From the event add/edit screen in the Style section, tap the Watermark field to load a list of available watermarks. Tap the watermark you want to apply (it will show marked as checked), tap the back button to return to the event add/edit screen and tap the &amp;ldquo;Save&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: applying/removing a watermark to/from is currently only available from the iOS app&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;photos-per-set-default-3&#34;&gt;Photos per set &lt;em&gt;(default: 3)&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;By default, the booth will countdown and capture 3 times per session. You can change this setting to any number between 1 and 10.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: specifying photos per set is currently only available from the iOS app&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://docs.flassh.co/events/</guid>
+      <description>Events are core to the Flassh platform. Each collection of photos is stored in an event and each event has a number of settings that make it unique and customizable.
+Create a new event Events can be created from the events tab in your account on the web, from the iOS app, and from Flassh Booth. Although you&amp;rsquo;re able to create an event from all platforms, not all settings are available on all platforms.</description>
     </item>
     
     <item>
       <title>Flassh Booth</title>
-      <link>http://docs.flassh.co/booth/</link>
+      <link>https://docs.flassh.co/booth/</link>
       <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
       
-      <guid>http://docs.flassh.co/booth/</guid>
-      <description>
-
-&lt;h2 id=&#34;system-requirements&#34;&gt;System requirements&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported.&lt;/li&gt;
-&lt;li&gt;2GB RAM&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;download-and-install&#34;&gt;Download and install&lt;/h2&gt;
-
-&lt;h3 id=&#34;flassh-connect&#34;&gt;Flassh Connect&lt;/h3&gt;
-
-&lt;p&gt;Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. &lt;a href=&#34;https://flassh.co/download/connect/windows/latest&#34;&gt;Download now&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;flassh-booth&#34;&gt;Flassh Booth&lt;/h3&gt;
-
-&lt;p&gt;Flassh Booth is the Windows-based application where your photo booth runs. It is the interface that guests interact with when taking photos at your event. &lt;a href=&#34;https://flassh.co/download/booth/windows/latest&#34;&gt;Download now&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;why-do-i-need-to-download-two-apps&#34;&gt;Why do I need to download two apps?&lt;/h4&gt;
-
-&lt;p&gt;We know it&amp;rsquo;s not ideal to need both, and we&amp;rsquo;re looking into the possibility of combining them into a single application. In the meantime, you&amp;rsquo;ll need both to run an event. Sorry!&lt;/p&gt;
-
-&lt;h2 id=&#34;sign-in&#34;&gt;Sign in&lt;/h2&gt;
-
-&lt;p&gt;In order to use Flassh Booth, you must sign into your account. If you don&amp;rsquo;t already have an account &lt;a href=&#34;https://flassh.co/signup&#34;&gt;create one here&lt;/a&gt;. When you open Flassh Booth for the first time, a login form will pop up. Enter your email address and password to login. Forgot your password? &lt;a href=&#34;https://flassh.co/passwords/new&#34;&gt;Reset it here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;supported-cameras&#34;&gt;Supported Cameras&lt;/h2&gt;
-
-&lt;p&gt;At this time, we &lt;strong&gt;only&lt;/strong&gt; support the following Canon and Nikon DSLRs. Sony and other camera brands/models are &lt;strong&gt;not supported&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;supported-canon-camera-models&#34;&gt;Supported Canon camera models&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;EOS-1D Mark III&lt;/li&gt;
-&lt;li&gt;EOS 40D&lt;/li&gt;
-&lt;li&gt;EOS-1Ds Mark III&lt;/li&gt;
-&lt;li&gt;EOS DIGITAL REBEL Xsi / 450D / Kiss X2 EOS DIGITAL REBEL XS / 1000D / KISS F EOS 50D&lt;/li&gt;
-&lt;li&gt;EOS 5D Mark II&lt;/li&gt;
-&lt;li&gt;EOS Kiss X3 / EOS REBEL T1i / EOS 500D&lt;/li&gt;
-&lt;li&gt;EOS 7D&lt;/li&gt;
-&lt;li&gt;EOS-1D Mark IV&lt;/li&gt;
-&lt;li&gt;EOS Kiss X4 / EOS REBEL T2i / EOS 550D&lt;/li&gt;
-&lt;li&gt;EOS 60D&lt;/li&gt;
-&lt;li&gt;EOS Kiss X5 / EOS REBEL T3i / EOS 600D&lt;/li&gt;
-&lt;li&gt;EOS Kiss X50 / EOS REBEL T3 / EOS 1100D&lt;/li&gt;
-&lt;li&gt;EOS 5D Mark III&lt;/li&gt;
-&lt;li&gt;EOS 1D X&lt;/li&gt;
-&lt;li&gt;EOS Kiss X6i / EOS 650D / EOS REBEL T4i&lt;/li&gt;
-&lt;li&gt;EOS 6D&lt;/li&gt;
-&lt;li&gt;EOS-1D C&lt;/li&gt;
-&lt;li&gt;EOS Kiss X7i / EOS 700D / EOS REBEL T5i&lt;/li&gt;
-&lt;li&gt;EOS Kiss X7 / EOS 100D / EOS REBEL SL1&lt;/li&gt;
-&lt;li&gt;EOS 70D&lt;/li&gt;
-&lt;li&gt;EOS Kiss X70 / EOS 1200D / EOS REBEL T5 / EOS Hi&lt;/li&gt;
-&lt;li&gt;EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss&lt;/li&gt;
-&lt;li&gt;EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;supported-nikon-camera-models&#34;&gt;Supported Nikon camera models&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;D3&lt;/li&gt;
-&lt;li&gt;D3S&lt;/li&gt;
-&lt;li&gt;D3X&lt;/li&gt;
-&lt;li&gt;D4&lt;/li&gt;
-&lt;li&gt;D4S&lt;/li&gt;
-&lt;li&gt;D5&lt;/li&gt;
-&lt;li&gt;D90&lt;/li&gt;
-&lt;li&gt;D300&lt;/li&gt;
-&lt;li&gt;D300S&lt;/li&gt;
-&lt;li&gt;D500&lt;/li&gt;
-&lt;li&gt;D600&lt;/li&gt;
-&lt;li&gt;D610&lt;/li&gt;
-&lt;li&gt;D700&lt;/li&gt;
-&lt;li&gt;D750&lt;/li&gt;
-&lt;li&gt;D800&lt;/li&gt;
-&lt;li&gt;D810&lt;/li&gt;
-&lt;li&gt;D810A&lt;/li&gt;
-&lt;li&gt;D5100&lt;/li&gt;
-&lt;li&gt;D5200&lt;/li&gt;
-&lt;li&gt;D5300&lt;/li&gt;
-&lt;li&gt;D5500&lt;/li&gt;
-&lt;li&gt;D5600&lt;/li&gt;
-&lt;li&gt;D7000&lt;/li&gt;
-&lt;li&gt;D7100&lt;/li&gt;
-&lt;li&gt;D7200&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;connection-troubleshooting&#34;&gt;Connection troubleshooting&lt;/h2&gt;
-
-&lt;h3 id=&#34;ensure-you-re-using-a-supported-camera&#34;&gt;Ensure you&amp;rsquo;re using a supported camera&lt;/h3&gt;
-
-&lt;p&gt;We support &lt;a href=&#34;#supported-cameras&#34;&gt;a variety of Canon and Nikon DSLRs&lt;/a&gt; connected over USB.&lt;/p&gt;
-
-&lt;h3 id=&#34;if-you-re-using-a-usb-adapter-make-sure-it-s-an-otg-adapter&#34;&gt;If you&amp;rsquo;re using a USB adapter, make sure it&amp;rsquo;s an OTG adapter&lt;/h3&gt;
-
-&lt;p&gt;If your tablet doesn&amp;rsquo;t have a full-size USB port, you&amp;rsquo;re probably using an adapter to convert the full-size USB connector to a mini, micro, or USB-C connector. Ensure you&amp;rsquo;re using an On-The-Go (OTG) cable/adapter, as this type of adapter ensures the signal is properly converted. Adapters that are not explicitly labeled as OTG may not work. &lt;a href=&#34;https://www.amazon.com/dp/B00LN3LQKQ/&#34;&gt;Here&amp;rsquo;s an example adapter cable&lt;/a&gt; that is known to work well.&lt;/p&gt;
-
-&lt;h3 id=&#34;disable-auto-play&#34;&gt;Disable auto-play&lt;/h3&gt;
-
-&lt;p&gt;Windows has a built-in feature that is often configured to auto-open its Photos (or another) application. This hijacks Flassh&amp;rsquo;s ability to control the camera when it is connected.&lt;/p&gt;
-
-&lt;p&gt;The easiest approach is to disable auto-play entirely, which you can see how to do &lt;a href=&#34;http://www.thewindowsclub.com/set-autoplay-defaults-windows-10&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;disable-wifi-on-wifi-enabled-cameras&#34;&gt;Disable WiFi on WiFi-enabled cameras&lt;/h3&gt;
-
-&lt;p&gt;The WiFi setting on cameras that have WiFi capability (such as the Canon 80D) &lt;em&gt;must&lt;/em&gt; be disabled. Canon disables USB functionality entirely when WiFi is enabled on the camera. Wifi can be disabled from the camera&amp;rsquo;s on-screen menu. Once WiFi is disabled, connect the camera to the tablet via USB and it should be detected.&lt;/p&gt;
-
-&lt;h2 id=&#34;camera-configuration&#34;&gt;Camera configuration&lt;/h2&gt;
-
-&lt;p&gt;We&amp;rsquo;ve found that to best way to run a photo booth is to use a flash. With a flash, you can achieve a more consistent image during the day or night. We recommend a small aperture (higher F stop), which will create a larger depth of field, making as much of the photo in focus as possible. Choose a shutter speed close to the sync speed of your flash (usually &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;160&lt;/sub&gt; of a second) to keep the image sharp when people are moving and will also minimize the amount of ambient light in the photos. For the flash settings, we recommend using a high-power setting to achieve a proper exposure since your image with out the flash will most likely be completely black. This method will also give you more consistent color and look whether inside or outside, day or night.&lt;/p&gt;
-
-&lt;p&gt;Example values to use as a starting point with the use of a flash:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aperture: F16&lt;/li&gt;
-&lt;li&gt;Shutter Speed: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;160&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;ISO: 400&lt;/li&gt;
-&lt;li&gt;Flash set on the higher end (more powerful)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For some situations, a flash might not be available, no problem! In this case you will need to change the camera settings to allow more available light in. You should set a larger aperture (lower F stop), and you may want to turn up your ISO (800-1600) for indoor events. Keep in mind that the higher the F stop, the larger the area that will be in focus in the image. the lower the F stop, the more blurring you&amp;rsquo;ll see when objects move out of your in-focus point.&lt;/p&gt;
-
-&lt;p&gt;Ambient Light (indoor) Example Settings:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aperture: F4&lt;/li&gt;
-&lt;li&gt;Shutter: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;ISO: 800-1600&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ambient Light (outdoor) Example Settings:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aperture: F10&lt;/li&gt;
-&lt;li&gt;Shutter: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;200&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;ISO: 200&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.&lt;/p&gt;
-
-&lt;p&gt;We highly recommend you &lt;strong&gt;do not rely on auto-focus during your event&lt;/strong&gt;. Use auto or manual focus to get things in focus before the event begins, then &lt;strong&gt;switch it to manual focus&lt;/strong&gt;. If you use auto-focus for each photo taken (especially when using a high-powered flash), there may not be enough light for the camera to auto-focus at all, which will cause the capture to timeout and an error to display on-screen. Even if it is able to focus successfully, it can take up to a second to do so, which will throw off the timing of the booth countdown.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: when Flassh fetches photos from the camera, photos are resized to 2560px wide prior to upload to our servers. This ensures fast, consistent upload and photo processing speeds with a high enough resolution for most uses. If you need higher resolution images, they are always available on the SD card in the camera.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;camera-date-and-time&#34;&gt;Camera date and time&lt;/h3&gt;
-
-&lt;p&gt;Make sure your camera&amp;rsquo;s date and time are correct and that the time matches the current time in your organization&amp;rsquo;s timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo&amp;rsquo;s EXIF metadata. &lt;a href=&#34;http://docs.flassh.co/web/#change-timezone&#34;&gt;Learn more about changing your account&amp;rsquo;s timezone&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re using multiple booths (multiple cameras) in a single event, make sure the cameras are synced as close to the second as possible. If they&amp;rsquo;re not the same (or very close), photos will not appear in their expected sequence in the app and online galleries.&lt;/p&gt;
-
-&lt;h2 id=&#34;connect-your-camera&#34;&gt;Connect your camera&lt;/h2&gt;
-
-&lt;p&gt;With Flassh Connect open in the background, Flassh Booth open in the foreground, and your &lt;a href=&#34;#supported-cameras&#34;&gt;supported Canon DSLR&lt;/a&gt; powered on and connected, you&amp;rsquo;ll see camera info at the top of your screen (vendor, model, as well as aperture, shutter speed, and ISO). If you&amp;rsquo;ve gotten to this point, you&amp;rsquo;re ready to run an event!&lt;/p&gt;
-
-&lt;h2 id=&#34;create-new-event&#34;&gt;Create New Event&lt;/h2&gt;
-
-&lt;p&gt;Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.&lt;/p&gt;
-
-&lt;p&gt;To create a new event, tap the &amp;ldquo;+ Create new event&amp;rdquo; button at the top of the screen. An event name and date are required, all other fields are optional. &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;Learn more about event settings&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;run-an-event&#34;&gt;Run an event&lt;/h2&gt;
-
-&lt;p&gt;To start your event, ensure the event you want to run is selected in the left pane and tap the &amp;ldquo;RUN&amp;rdquo; button in the upper right. Unless your event is currently live, you&amp;rsquo;re prompted to do one of two things &amp;ldquo;Convert To Live&amp;rdquo; or &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Every event you create is a &amp;ldquo;Test&amp;rdquo; event by default. See our &lt;a href=&#34;http://docs.flassh.co/#understanding-pricing&#34;&gt;pricing info&lt;/a&gt; for more information about the difference between Test and Live events.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re ready to begin your live event and have a paid credit deducted from your account, choose &amp;ldquo;Convert To Live&amp;rdquo;. Otherwise, tap &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Regardless of your selection above, you&amp;rsquo;ll be taken to the &amp;ldquo;Touch Screen To Begin&amp;rdquo; screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;configurable in event settings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;As photos are taken, they&amp;rsquo;re automatically uploaded to our servers and made immediately available for viewing and sharing. Enjoy your event!&lt;/p&gt;
-
-&lt;h2 id=&#34;exit-a-running-event&#34;&gt;Exit a running event&lt;/h2&gt;
-
-&lt;p&gt;Once you&amp;rsquo;re running an event, the tablet goes into full-screen mode and there is no obvious way to exit (this is by design). Guests shouldn&amp;rsquo;t be able to exit, but you&amp;rsquo;ll need to.&lt;/p&gt;
-
-&lt;p&gt;Each of the four corners of the screen accept a single-finger long-press gesture that will allow you to exit the event and return to your event management screen.&lt;/p&gt;
-
-&lt;h2 id=&#34;internet-requirement&#34;&gt;Internet requirement&lt;/h2&gt;
-
-&lt;p&gt;Flassh is a live, online, instant-sharing platform. &lt;strong&gt;To run events effectively, an Internet connection is required&lt;/strong&gt;. Some features may work without an Internet connection, but most of our applications operate under the assumption that a stable connection is available.&lt;/p&gt;
-
-&lt;p&gt;If a WiFi or wired Internet connection is not available at your event&amp;rsquo;s location, we recommend using a cellular hotspot (mifi) or the tethered data feature of your phone or tablet.&lt;/p&gt;
-
-&lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
-
-&lt;p&gt;We have built-in support for thousands of AirPrint-enabled printers, allowing you to &lt;a href=&#34;http://docs.flassh.co/ios/#printing&#34;&gt;print from our iOS application&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://docs.flassh.co/booth/</guid>
+      <description>System requirements  Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported. 2GB RAM  Download and install Flassh Connect Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. Download now
+Flassh Booth Flassh Booth is the Windows-based application where your photo booth runs.</description>
     </item>
     
     <item>
       <title>Flassh Web Galleries / Admin Area</title>
-      <link>http://docs.flassh.co/web/</link>
+      <link>https://docs.flassh.co/web/</link>
       <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
       
-      <guid>http://docs.flassh.co/web/</guid>
-      <description>
-
-&lt;h2 id=&#34;change-organization-name&#34;&gt;Change organization name&lt;/h2&gt;
-
-&lt;p&gt;Your organization name is the name that is shown as the owner of your events and is visible to anyone browsing your galleries on the web or on their own devices. When someone shares one or more photos via email, the &amp;ldquo;From&amp;rdquo; name of that email will be the name you set here.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re a solo photographer, it may make sense for this to be your full name so people can find your events. If you are a company, you&amp;rsquo;ll want to use your company&amp;rsquo;s name here.&lt;/p&gt;
-
-&lt;p&gt;To change your account&amp;rsquo;s timezone, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Organization Settings&amp;rdquo; section and tap the &amp;ldquo;Edit Organization&amp;rdquo; button. Enter your organization&amp;rsquo;s name and tap the &amp;ldquo;Save Organization Info&amp;rdquo; button.&lt;/p&gt;
-
-&lt;h2 id=&#34;change-name-or-email-address&#34;&gt;Change name or email address&lt;/h2&gt;
-
-&lt;p&gt;The name and email you use is private within your organization. We use them to communicate you for support tickets and billing, but no one else sees these, and they will never be shown in any event information. This lays the groundwork for allowing multiple users and logins within a single organization (which is not yet available).&lt;/p&gt;
-
-&lt;p&gt;To change your name or email, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;My Info&amp;rdquo; section and tap the &amp;ldquo;Edit My Info&amp;rdquo; button. Modify your name and/or email and hit the &amp;ldquo;Save My Info&amp;rdquo; button. It&amp;rsquo;s important that your email is valid, as this is how we contact you.&lt;/p&gt;
-
-&lt;h2 id=&#34;change-password&#34;&gt;Change password&lt;/h2&gt;
-
-&lt;p&gt;Make sure you choose a strong password! Your email and password combination allow complete, read/write access to all events, photos, and settings in your account. You can change your password at any time.&lt;/p&gt;
-
-&lt;p&gt;If you have access to your account and need to change your password, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Password Settings&amp;rdquo; section and tap the &amp;ldquo;Change Password&amp;rdquo; button. Enter your old password and a new password (with a confirmation) and tap the &amp;ldquo;Update Password&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;If you forgot your password, you can reset your password via email on our &lt;a href=&#34;https://flassh.co/passwords/new&#34;&gt;password reset page&lt;/a&gt;. We&amp;rsquo;ll email you a message containing a link that will allow you to reset your password.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; changing your password does not revoke access on your other signed in devices.&lt;/p&gt;
-
-&lt;h2 id=&#34;change-timezone&#34;&gt;Change timezone&lt;/h2&gt;
-
-&lt;p&gt;It&amp;rsquo;s important that your timezone lines up with the time you have set on your camera. If you travel, we recommend maintaining a consistent timezone in your account and always using that timezone&amp;rsquo;s time when configuring the date/time on your camera.&lt;/p&gt;
-
-&lt;p&gt;To change your account&amp;rsquo;s timezone, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Organization Settings&amp;rdquo; section and tap the &amp;ldquo;Edit Organization&amp;rdquo; button. Select your timezone and tap the &amp;ldquo;Save Organization Info&amp;rdquo; button.&lt;/p&gt;
-
-&lt;h2 id=&#34;configure-a-gallery-subdomain&#34;&gt;Configure a gallery subdomain&lt;/h2&gt;
-
-&lt;p&gt;Each account is configured with a web gallery that contains all events owned by that organization. By default each account is assigned a random subdomain, one that is likely not memorable and is not representative of your organization&amp;rsquo;s name or brand. To change it, go to the &lt;a href=&#34;https://flassh.co/account/profile&#34;&gt;Profile tab&lt;/a&gt; in your account. Find the &amp;ldquo;Public Gallery&amp;rdquo; section and tap the &amp;ldquo;Edit Gallery URL&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;re prompted to specify a subdomain. Choose a subdomain that is 6 characters or more, starts with a letter, and only contains numbers and letters. For example, specifying &amp;ldquo;photos&amp;rdquo; will give you a public gallery URL of &lt;a href=&#34;https://photos.flassh.co&#34;&gt;https://photos.flassh.co&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Note, when you change this subdomain, any existing links to your web galleries will break, and the new URLs will take effect immediately.&lt;/p&gt;
-
-&lt;p&gt;Fully custom domains (photobooth.yourdomain.com) are not currently supported.&lt;/p&gt;
-
-&lt;h2 id=&#34;manage-events&#34;&gt;Manage events&lt;/h2&gt;
-
-&lt;p&gt;You can manage events in each of our apps &amp;ndash; from the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; on the web, from Flassh Booth, and from iOS. This section of the docs applies to event management from the web.&lt;/p&gt;
-
-&lt;h3 id=&#34;create-a-new-event&#34;&gt;Create a new event&lt;/h3&gt;
-
-&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the &amp;ldquo;Create Event&amp;rdquo; button at the top right.&lt;/p&gt;
-
-&lt;p&gt;Enter your event details, then click the &amp;ldquo;Create Test Event&amp;rdquo; at the bottom of the form. &lt;a href=&#34;http://docs.flassh.co/booth/#supported-cameras&#34;&gt;Learn more about test events vs. live events&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;make-changes-to-an-existing-event&#34;&gt;Make changes to an existing event&lt;/h3&gt;
-
-&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the event you&amp;rsquo;d like to edit. Specify any details you&amp;rsquo;d like to change and click the &amp;ldquo;Save Event&amp;rdquo; button at the bottom of the form.&lt;/p&gt;
-
-&lt;h3 id=&#34;delete-an-event&#34;&gt;Delete an event&lt;/h3&gt;
-
-&lt;p&gt;Open the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt; in any browser and click the event you&amp;rsquo;d like to delete. At the bottom of the form, click the &amp;ldquo;Delete&amp;rdquo; button and continue through the confirmation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: it is not possible to restore deleted events. All event info and all photos will be permanently deleted.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;watermarking&#34;&gt;Watermarking&lt;/h2&gt;
-
-&lt;p&gt;Many events are associated with a one or more companies/brands you may want to promote in your photos. From the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermark tab&lt;/a&gt; you can upload an unlimited number of watermarks to your account for use in your events.&lt;/p&gt;
-
-&lt;h3 id=&#34;preparing-watermarks&#34;&gt;Preparing watermarks&lt;/h3&gt;
-
-&lt;p&gt;A watermark file is typically a semi-transparent PNG containing your mark. If you&amp;rsquo;re making a watermark that will occupy a single corner of the screen, we recommend an image size that is at least 1200px wide by 800px tall. It&amp;rsquo;s better to make a mark that&amp;rsquo;s too big, because once you upload it you can always scale it down. You cannot, however, scale it up above its 100% size.&lt;/p&gt;
-
-&lt;p&gt;There are no limitations on how you can design your watermarks. Be careful though, you don&amp;rsquo;t want to cover people&amp;rsquo;s faces! It&amp;rsquo;s best to stick to the bottom left and right edges. If the mark is small enough, you can get by putting them in the top left/right as well, but the top of people&amp;rsquo;s heads may get covered.&lt;/p&gt;
-
-&lt;h3 id=&#34;uploading-watermarks&#34;&gt;Uploading watermarks&lt;/h3&gt;
-
-&lt;p&gt;Head to the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermarks tab&lt;/a&gt; and either drag and drop your watermark file created above or tap the &amp;ldquo;+ Add New&amp;rdquo; button and browse to the properly-sized PNG file on your computer.&lt;/p&gt;
-
-&lt;p&gt;If you see a preview of your watermark, you&amp;rsquo;re all set. If you receive an error message, check your file format (PNG) and ensure your image is less than 2MB.&lt;/p&gt;
-
-&lt;h3 id=&#34;previewing-watermarks&#34;&gt;Previewing watermarks&lt;/h3&gt;
-
-&lt;p&gt;On the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermarks tab&lt;/a&gt; there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.&lt;/p&gt;
-
-&lt;p&gt;Tap the &amp;ldquo;Dark&amp;rdquo; button (default) to see what the mark will look like on an event with a dark background, &amp;ldquo;Light&amp;rdquo; to see it on a bright, nearly-white background, and &amp;ldquo;Color&amp;rdquo; to see it on a vibrant, busy, colored background.&lt;/p&gt;
-
-&lt;h3 id=&#34;editing-watermarks&#34;&gt;Editing watermarks&lt;/h3&gt;
-
-&lt;p&gt;On the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermarks tab&lt;/a&gt;, choose the watermark you&amp;rsquo;d like to edit. We offer the ability to adjust the size (image scale from 1-100%), the alignment (corner or edge to stick the watermark to), the offset (horizontal and vertical distance from the aligned corner or edge), and opacity (allows you to make the mark semi-transparent).&lt;/p&gt;
-
-&lt;p&gt;Adjust the values to your liking. Changes will preview immediately as you adjust the values, but won&amp;rsquo;t be saved until you click the Save button.&lt;/p&gt;
-
-&lt;h3 id=&#34;apply-a-watermark-to-an-event&#34;&gt;Apply a watermark to an event&lt;/h3&gt;
-
-&lt;p&gt;From the &lt;a href=&#34;https://flassh.co/account/events&#34;&gt;Events tab&lt;/a&gt;, choose the event that you&amp;rsquo;d like watermarked (or &lt;a href=&#34;https://flassh.co/account/events/new&#34;&gt;create a new event&lt;/a&gt;). Down near the bottom of the form, there&amp;rsquo;s a &amp;ldquo;Choose A Watermark&amp;rdquo; button that will present all the available watermarks. Select the one you&amp;rsquo;d like and save the event.&lt;/p&gt;
-
-&lt;h3 id=&#34;delete-a-watermark&#34;&gt;Delete a watermark&lt;/h3&gt;
-
-&lt;p&gt;From the &lt;a href=&#34;https://flassh.co/account/watermarks&#34;&gt;Watermarks tab&lt;/a&gt;, click the watermark you would like to delete. At the bottom left of the watermark edit screen, there&amp;rsquo;s a delete button.&lt;/p&gt;
-
-&lt;p&gt;Note that any events already using that watermark will no longer have that watermark applied if you delete it.&lt;/p&gt;
-
-&lt;h2 id=&#34;credit-card-billing&#34;&gt;Credit card &amp;amp; billing&lt;/h2&gt;
-
-&lt;p&gt;Once you&amp;rsquo;re ready to run live events, you&amp;rsquo;ll need to enter your credit card information and purchase event credits. There&amp;rsquo;s no pressure to do so and no expiration on your test events, so if you want to keep your free account and continue using test events, you&amp;rsquo;re more than welcome to do so.&lt;/p&gt;
-
-&lt;h3 id=&#34;add-credit-card&#34;&gt;Add credit card&lt;/h3&gt;
-
-&lt;p&gt;To add a new credit card, go to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account and tap the &amp;ldquo;Add Your Card&amp;rdquo; button. If you already have a card on file, the &amp;ldquo;Add Your Card&amp;rdquo; button will not be available. Instead, you&amp;rsquo;ll see a &amp;ldquo;Edit Card&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;We accept Visa, MasterCard, American Express, JCB, Discover, and Diners Club cards.&lt;/p&gt;
-
-&lt;p&gt;A valid card number, expiration and the CVC (3-4 digits on the back of the card) are required. After you&amp;rsquo;ve entered your card info, tap the &amp;ldquo;Save Credit Card&amp;rdquo; button.&lt;/p&gt;
-
-&lt;h3 id=&#34;update-credit-card&#34;&gt;Update credit card&lt;/h3&gt;
-
-&lt;p&gt;To update your credit card or switch to a different one, go to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; and tap the &amp;ldquo;Edit Card&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;After you&amp;rsquo;ve entered your updated card info, tap the &amp;ldquo;Save Credit Card&amp;rdquo; button. All future charges will be made to this newly specified credit card.&lt;/p&gt;
-
-&lt;h3 id=&#34;credit-card-security&#34;&gt;Credit card security&lt;/h3&gt;
-
-&lt;p&gt;Any time you enter payment information (such as a credit card or debit card), it&amp;rsquo;s sent over an encrypted connection from your web browser directly to &lt;a href=&#34;https://stripe.com/&#34;&gt;Stripe&lt;/a&gt; - one of the largest, most advanced payment processors in the world. They handle payment processing for services like Kickstarter, Lyft, Shopify, Pinterest, Twitter, Heroku, SurveyMonkey, and many other companies. Once Stripe receives valid payment information, they then issue us an encrypted &amp;ldquo;token.&amp;rdquo; We use these tokens to create charges against those credit cards and bank accounts - even though we can&amp;rsquo;t access the full details of those payment methods. We can only fetch the basic information such as the last 4 digits, they type of payment method, its expiration date, and the customer&amp;rsquo;s name. The full account number or CVC number isn&amp;rsquo;t released to us.&lt;/p&gt;
-
-&lt;h2 id=&#34;managing-event-credits&#34;&gt;Managing event credits&lt;/h2&gt;
-
-&lt;p&gt;On the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account, you can always see your current event credit balance. If you have one or more credits, you&amp;rsquo;ll be able to convert events to live. If you have zero credits, you&amp;rsquo;ll only be able to create test events.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: credits must be pre-paid. You cannot convert an event to live without any credits in your account.&lt;/strong&gt; We highly recommend configuring billing and adding one or more credits to your account before you head out to your event.&lt;/p&gt;
-
-&lt;h3 id=&#34;buy-event-credits&#34;&gt;Buy event credits&lt;/h3&gt;
-
-&lt;p&gt;You can purchase as many credits as you need from the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your account. &lt;a href=&#34;http://docs.flassh.co/#understanding-pricing&#34;&gt;Learn more about pricing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Before you can add credits, you must &lt;a href=&#34;#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Add Credits&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;You are prompted to enter the number of credits you would like to buy. Enter a number and tap the &amp;ldquo;Buy Now&amp;rdquo; button to continue, you&amp;rsquo;ll be prompted once more to confirm your purchase. If your card is charged successfully, event credits are added to your account immediately.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: event credit purchases are non-refundable&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;manage-monthly-subscription&#34;&gt;Manage monthly subscription&lt;/h2&gt;
-
-&lt;p&gt;An alternative billing option we offer is unlimited live events and photos for $99 per month.&lt;/p&gt;
-
-&lt;p&gt;You either have an on-demand account or a subscription account. You cannot buy event credits while on an active subscription, and if you subscribe to the monthly plan while you still have credits in your account, we&amp;rsquo;ll convert those credits to a balance and apply them to your subscription payment, reducing the cost of your initial month.&lt;/p&gt;
-
-&lt;h3 id=&#34;subscribe-to-the-monthly-unlimited-plan&#34;&gt;Subscribe to the monthly unlimited plan&lt;/h3&gt;
-
-&lt;p&gt;Open to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your browser.&lt;/p&gt;
-
-&lt;p&gt;Before you can subscribe, you must &lt;a href=&#34;#credit-card-billing&#34;&gt;add a credit card&lt;/a&gt; to your account. Once you have a credit card on file, tap the &amp;ldquo;Manage Subscription&amp;rdquo; button.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: subscription purchases are non-refundable.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;cancel-the-monthly-unlimited-plan&#34;&gt;Cancel the monthly unlimited plan&lt;/h3&gt;
-
-&lt;p&gt;Open to the &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;Billing tab&lt;/a&gt; in your browser.&lt;/p&gt;
-
-&lt;p&gt;Click the &amp;ldquo;Manage Subscription&amp;rdquo; button. If you&amp;rsquo;re sure you&amp;rsquo;d like to cancel, click the &amp;ldquo;Cancel Subscription&amp;rdquo; button and continue through the confirmation.&lt;/p&gt;
-
-&lt;p&gt;Canceling your subscription will keep it active until the end of your current billing cycle, after that time it will not renew.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: we do not offer refunds for partial month cancelations. You must cancel your subscription prior to the end of the current billing cycle to avoid being charged again.&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <guid>https://docs.flassh.co/web/</guid>
+      <description>Change organization name Your organization name is the name that is shown as the owner of your events and is visible to anyone browsing your galleries on the web or on their own devices. When someone shares one or more photos via email, the &amp;ldquo;From&amp;rdquo; name of that email will be the name you set here.
+If you&amp;rsquo;re a solo photographer, it may make sense for this to be your full name so people can find your events.</description>
     </item>
     
     <item>
       <title>Flassh iOS</title>
-      <link>http://docs.flassh.co/ios/</link>
+      <link>https://docs.flassh.co/ios/</link>
       <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
       
-      <guid>http://docs.flassh.co/ios/</guid>
-      <description>
-
-&lt;p&gt;Flassh iOS is the preferred way to view and share photos taken with Flassh Booth. Not only can account owners login and manage their events and photos with this app, they can also send guests to download and install this app on their own devices. Guests can then instantly view and share photos from their own iPhone or iPad.&lt;/p&gt;
-
-&lt;p&gt;This app can also act as a &lt;a href=&#34;#kiosk-mode&#34;&gt;public kiosk&lt;/a&gt; for your events.&lt;/p&gt;
-
-&lt;h2 id=&#34;download-and-install&#34;&gt;Download and install&lt;/h2&gt;
-
-&lt;p&gt;Grab our iOS app &lt;a href=&#34;https://itunes.apple.com/us/app/flassh/id997489106?mt=8&#34;&gt;free on the App Store&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;sign-into-your-flassh-account&#34;&gt;Sign into your Flassh account&lt;/h2&gt;
-
-&lt;h2 id=&#34;kiosk-mode&#34;&gt;Kiosk mode&lt;/h2&gt;
-
-&lt;p&gt;Open the app and make sure you&amp;rsquo;re signed in, then open the event so you&amp;rsquo;re looking at the listing of photos within that event. Then, you can do a single-finger long-press on the top navigation bar to enable kiosk mode, which does a few things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;It prevents backing out of the current event, so guests are forced to stay in the context of the current event.&lt;/li&gt;
-&lt;li&gt;It removes all sharing options except for email, since none of the other sharing options make sense on a public device.&lt;/li&gt;
-&lt;li&gt;It hides the event edit button as well as the trash can icon so guests cannot edit event details or delete photos.&lt;/li&gt;
-&lt;li&gt;It disables &lt;a href=&#34;#single-photo-actions&#34;&gt;the menu available from a long-press gesture&lt;/a&gt; available on individual photos&lt;/li&gt;
-&lt;li&gt;It ensures the iPad/iPhone does not go to sleep (screen will stay bright and it won&amp;rsquo;t lock). Combine this with Guided Access mode provided by iOS and you can completely prevent people from exiting the kiosk.&lt;/li&gt;
-&lt;li&gt;It disables printing by default. Take a look at &lt;a href=&#34;#configure-printing-in-kiosk-mode&#34;&gt;configuring printing in kiosk mode&lt;/a&gt; to enable it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Do a single-finger long-press on the top navigation bar again to exit kiosk mode, where you&amp;rsquo;ll be prompted to enter your password.&lt;/p&gt;
-
-&lt;h3 id=&#34;configure-printing-in-kiosk-mode&#34;&gt;Configure printing in kiosk mode&lt;/h3&gt;
-
-&lt;p&gt;When running in &lt;a href=&#34;#kiosk-mode&#34;&gt;kiosk mode&lt;/a&gt;, you want to provide a seamless experience for your guests. They should not need to choose the target printer when selecting a photo to print.&lt;/p&gt;
-
-&lt;p&gt;By default, printing is disabled in kiosk mode. To configure printing for the kiosk, ensure you are signed into your account and viewing the relevant event with kiosk mode disabled. Tap the triple-dot edit button on the right side of the screen and choose the &amp;ldquo;Edit kiosk settings&amp;rdquo; option in the menu.&lt;/p&gt;
-
-&lt;p&gt;To enable kiosk printing and expose the other available options, flip the &amp;ldquo;Kiosk printing&amp;rdquo; switch to on. Choose a nearby AirPrint-enabled printer. We&amp;rsquo;ll scan your network for available printers and present them in a list, tap the printer that should be used for kiosk prints.&lt;/p&gt;
-
-&lt;p&gt;If your event has a watermark, you have the option to include it on all kiosk prints. Flip the switch to on if you&amp;rsquo;d like the watermark visible on prints. If your event does not contain a watermark, this option has no effect.&lt;/p&gt;
-
-&lt;p&gt;Press the back button at the top left to return to your event. Then &lt;a href=&#34;#kiosk-mode&#34;&gt;enable kiosk mode&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;prevent-exiting-the-app-with-guided-access&#34;&gt;Prevent exiting the app with Guided Access&lt;/h3&gt;
-
-&lt;p&gt;iOS ships with a feature called Guided Access that can temporarily restrict your iOS device to a single application. Tapping the home button or the power button will keep the application open, preventing kiosk guests from exiting to the home screen or opening other applications. &lt;a href=&#34;https://support.apple.com/en-us/HT202612&#34;&gt;Learn more about Guided Access&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;single-photo-actions&#34;&gt;Single photo actions&lt;/h2&gt;
-
-&lt;p&gt;As an account owner, you have full access to and control over your photos. If you tap to open an event that you own and have photos a collection of photos listed, you can perform a single-finger long-press on any photo to reveal a menu of options:&lt;/p&gt;
-
-&lt;h3 id=&#34;set-the-cover-photo&#34;&gt;Set the cover photo&lt;/h3&gt;
-
-&lt;p&gt;By default the cover photo is the first photo in your event. Instead, you can feature your favorite photo so it shows as the cover photo in the event listing and in the header of the event when looking at the collection of photos.&lt;/p&gt;
-
-&lt;h3 id=&#34;download-photo&#34;&gt;Download photo&lt;/h3&gt;
-
-&lt;p&gt;Save any size of the selected photo to your camera roll.&lt;/p&gt;
-
-&lt;h3 id=&#34;copy-photo-url&#34;&gt;Copy photo URL&lt;/h3&gt;
-
-&lt;p&gt;Copy a web URL of any size of the selected photo.&lt;/p&gt;
-
-&lt;h3 id=&#34;delete-photo&#34;&gt;Delete photo&lt;/h3&gt;
-
-&lt;p&gt;Permanently delete the selected photo from the event. Deleted photos are not recoverable.&lt;/p&gt;
-
-&lt;h2 id=&#34;multiple-photo-actions&#34;&gt;Multiple photo actions&lt;/h2&gt;
-
-&lt;p&gt;Tap the &amp;ldquo;Select&amp;rdquo; button at the top right of the screen and select any number of photos to reveal a drawer at the bottom of the screen providing the following options:&lt;/p&gt;
-
-&lt;h3 id=&#34;save-photos&#34;&gt;Save photos&lt;/h3&gt;
-
-&lt;h4 id=&#34;save-to-camera-roll&#34;&gt;Save to camera roll&lt;/h4&gt;
-
-&lt;p&gt;Download all selected photos to the camera roll on your iOS device.&lt;/p&gt;
-
-&lt;h4 id=&#34;send-via-email&#34;&gt;Send via email&lt;/h4&gt;
-
-&lt;p&gt;Send all selected photos via email (from our servers) to the specified email address.&lt;/p&gt;
-
-&lt;h3 id=&#34;generate-animated-gif&#34;&gt;Generate animated GIF&lt;/h3&gt;
-
-&lt;p&gt;Compile the selected images into an auto-looping GIF file and save it to the camera roll.&lt;/p&gt;
-
-&lt;h3 id=&#34;generate-video-mp4&#34;&gt;Generate video (MP4)&lt;/h3&gt;
-
-&lt;p&gt;Compile the selected images into a video file (MP4 format) and save it to the camera roll. The video is roughly 15 seconds in length.&lt;/p&gt;
-
-&lt;h3 id=&#34;delete-photos&#34;&gt;Delete photos&lt;/h3&gt;
-
-&lt;p&gt;If you are signed in and are viewing an event that you own, tapping the &amp;ldquo;Select&amp;rdquo; button at the top right and selecting any number of photos will reveal a trash can icon in the top left of the screen. Tapping the trash can icon and the confirming the following dialog will permanently delete the selected photos. Deleted photos are not recoverable.&lt;/p&gt;
-
-&lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
-
-&lt;p&gt;Printing on iOS is supported via &lt;a href=&#34;https://support.apple.com/en-us/HT201311&#34;&gt;AirPrint&lt;/a&gt;, allowing iPad, iPhone, and iPod touch users to print wirelessly to any AirPrint-enabled printer that is connected to the same local wireless network.&lt;/p&gt;
-
-&lt;p&gt;Anyone who can view the photos in an event can print photos individually. To print a photo, open the relevant event and tap on the desired photo to bring it up in zoomed mode. Then tap the &amp;ldquo;Print Photo&amp;rdquo; button in the bottom bar and follow the steps to select your AirPrint printer and submit the print job.&lt;/p&gt;
-
-&lt;p&gt;In &lt;a href=&#34;#kiosk-mode&#34;&gt;kiosk mode&lt;/a&gt;, printing is disabled by default. You can configure kiosk settings to pre-select a printer to use for the kiosk mode and enable printing if you&amp;rsquo;d like. If your event has a watermark applied, you can also enable or disable including the watermark in kiosk prints. &lt;a href=&#34;#configure-printing-in-kiosk-mode&#34;&gt;Learn more&lt;/a&gt; about printing in kiosk mode.&lt;/p&gt;
-</description>
+      <guid>https://docs.flassh.co/ios/</guid>
+      <description>Flassh iOS is the preferred way to view and share photos taken with Flassh Booth. Not only can account owners login and manage their events and photos with this app, they can also send guests to download and install this app on their own devices. Guests can then instantly view and share photos from their own iPhone or iPad.
+This app can also act as a public kiosk for your events.</description>
     </item>
     
     <item>
       <title>Getting Started with Flassh</title>
-      <link>http://docs.flassh.co/</link>
+      <link>https://docs.flassh.co/</link>
       <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
       
-      <guid>http://docs.flassh.co/</guid>
-      <description>
-
-&lt;h2 id=&#34;how-flassh-works&#34;&gt;How Flassh works&lt;/h2&gt;
-
-&lt;p&gt;Flassh allows you to take your DSLR camera and tablet, connect them together, and create a fun, good-looking, instant-sharing photo booth experience.&lt;/p&gt;
-
-&lt;p&gt;Our software is always free to download and install, and you can install it on any number of devices.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-an-account&#34;&gt;Create an account&lt;/h2&gt;
-
-&lt;p&gt;Signing up for a new account is free and only takes a minute. &lt;a href=&#34;https://flassh.co/signup&#34;&gt;Create an account&lt;/a&gt; now!&lt;/p&gt;
-
-&lt;h2 id=&#34;devices-needed&#34;&gt;Devices needed&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported.&lt;/li&gt;
-&lt;li&gt;Canon DSLR Camera &lt;a href=&#34;http://docs.flassh.co/booth/#supported-cameras&#34;&gt;see supported cameras&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;iPhone or iPad with iOS 9 or newer (optional)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;understanding-pricing&#34;&gt;Understanding pricing&lt;/h2&gt;
-
-&lt;p&gt;We offer 2 pricing options depending on your needs: &lt;strong&gt;on-demand&lt;/strong&gt; and &lt;strong&gt;unlimited subscription&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You can choose either method and can switch between the options as needed.&lt;/p&gt;
-
-&lt;p&gt;Regardless of your pricing selection, when you create a new event, it starts out as a test event. &lt;strong&gt;You can create as many events as you want&lt;/strong&gt; and you won&amp;rsquo;t ever be charged for them. Test events are completely free and never expire.&lt;/p&gt;
-
-&lt;h3 id=&#34;on-demand-pricing&#34;&gt;On-demand pricing&lt;/h3&gt;
-
-&lt;p&gt;How much does it cost? &lt;strong&gt;$29 per live event&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can buy as many credits as you need from your &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;billing page&lt;/a&gt;. Event credits never expire and are non-refundable.&lt;/p&gt;
-
-&lt;h3 id=&#34;unlimited-subscription-pricing&#34;&gt;Unlimited subscription pricing&lt;/h3&gt;
-
-&lt;p&gt;Our unlimited subscription allows you to run an unlimited number of live events each month with an unlimited number of photos for $99 per month.&lt;/p&gt;
-
-&lt;p&gt;Manage your subscription from your &lt;a href=&#34;https://flassh.co/account/billing&#34;&gt;billing page&lt;/a&gt;. You can also &lt;a href=&#34;http://docs.flassh.co/web/#manage-monthly-subscription&#34;&gt;learn more about subscriptions and get help setting it up&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;test-event-limitations&#34;&gt;Test event limitations&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can capture and upload up to 25 photos&lt;/li&gt;
-&lt;li&gt;Only devices signed into your account can see a test event and its photos, it is not publicly searchable in the apps or client gallery&lt;/li&gt;
-&lt;li&gt;If you&amp;rsquo;re not finished testing but hit the test limit, &lt;a href=&#34;http://docs.flassh.co/ios/#multiple-photo-actions&#34;&gt;delete some photos&lt;/a&gt; from the event and you can upload again until you hit the 25 limit again. Alternatively, create another test event. If your account is filling up with test events filled with photos you don&amp;rsquo;t want, you can always &lt;a href=&#34;http://docs.flassh.co/web/#delete-an-event&#34;&gt;delete those events&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;converting-to-a-live-event&#34;&gt;Converting to a live event&lt;/h3&gt;
-
-&lt;p&gt;When you&amp;rsquo;re ready to run your live event, convert it and we&amp;rsquo;ll deduct a pre-paid event credit from your account.&lt;/p&gt;
-
-&lt;p&gt;When you tap the &amp;ldquo;Run&amp;rdquo; button from Flassh Booth, you&amp;rsquo;re prompted to &amp;ldquo;Convert To Live&amp;rdquo; or &amp;ldquo;Continue Testing&amp;rdquo;. Choosing &amp;ldquo;Convert To Live&amp;rdquo; will instantly make the event live, removing all test event limitations. At that point, you can capture and upload unlimited photos to that event for 24 hours. After the 24-hour &amp;ldquo;live&amp;rdquo; period, you will not be able to take and upload any additional photos in that event. However, the online gallery for live events remains available online for viewing and sharing indefinitely.&lt;/p&gt;
-
-&lt;p&gt;Once an event is live, it is publicly searchable and viewable from any device. Want to run a private live event? &lt;a href=&#34;http://docs.flassh.co/booth/&#34;&gt;Learn more about event settings&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;renewing-an-expired-event&#34;&gt;Renewing an expired event&lt;/h3&gt;
-
-&lt;p&gt;Planning an event that spans multiple days (more than 24 hours)? When an event is expired, Flassh Booth will give you the option to renew the event, which will deduct an additional event credit from your account.&lt;/p&gt;
-</description>
+      <guid>https://docs.flassh.co/</guid>
+      <description>How Flassh works Flassh allows you to take your DSLR camera and tablet, connect them together, and create a fun, good-looking, instant-sharing photo booth experience.
+Our software is always free to download and install, and you can install it on any number of devices.
+Create an account Signing up for a new account is free and only takes a minute. Create an account now!
+Devices needed  Windows touch-screen tablet running a full version of Windows 10 (Windows 8.</description>
     </item>
     
   </channel>

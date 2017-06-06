@@ -2,210 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Booths on Flassh Docs</title>
-    <link>http://docs.flassh.co/booth/index.xml</link>
+    <link>https://docs.flassh.co/booth/</link>
     <description>Recent content in Booths on Flassh Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Flassh</copyright>
     <lastBuildDate>Wed, 04 May 2016 21:13:53 +0000</lastBuildDate>
-    <atom:link href="http://docs.flassh.co/booth/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://docs.flassh.co/booth/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Flassh Booth</title>
-      <link>http://docs.flassh.co/booth/</link>
+      <link>https://docs.flassh.co/booth/</link>
       <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
       
-      <guid>http://docs.flassh.co/booth/</guid>
-      <description>
-
-&lt;h2 id=&#34;system-requirements&#34;&gt;System requirements&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported.&lt;/li&gt;
-&lt;li&gt;2GB RAM&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;download-and-install&#34;&gt;Download and install&lt;/h2&gt;
-
-&lt;h3 id=&#34;flassh-connect&#34;&gt;Flassh Connect&lt;/h3&gt;
-
-&lt;p&gt;Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. &lt;a href=&#34;https://flassh.co/download/connect/windows/latest&#34;&gt;Download now&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;flassh-booth&#34;&gt;Flassh Booth&lt;/h3&gt;
-
-&lt;p&gt;Flassh Booth is the Windows-based application where your photo booth runs. It is the interface that guests interact with when taking photos at your event. &lt;a href=&#34;https://flassh.co/download/booth/windows/latest&#34;&gt;Download now&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;why-do-i-need-to-download-two-apps&#34;&gt;Why do I need to download two apps?&lt;/h4&gt;
-
-&lt;p&gt;We know it&amp;rsquo;s not ideal to need both, and we&amp;rsquo;re looking into the possibility of combining them into a single application. In the meantime, you&amp;rsquo;ll need both to run an event. Sorry!&lt;/p&gt;
-
-&lt;h2 id=&#34;sign-in&#34;&gt;Sign in&lt;/h2&gt;
-
-&lt;p&gt;In order to use Flassh Booth, you must sign into your account. If you don&amp;rsquo;t already have an account &lt;a href=&#34;https://flassh.co/signup&#34;&gt;create one here&lt;/a&gt;. When you open Flassh Booth for the first time, a login form will pop up. Enter your email address and password to login. Forgot your password? &lt;a href=&#34;https://flassh.co/passwords/new&#34;&gt;Reset it here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;supported-cameras&#34;&gt;Supported Cameras&lt;/h2&gt;
-
-&lt;p&gt;At this time, we &lt;strong&gt;only&lt;/strong&gt; support the following Canon and Nikon DSLRs. Sony and other camera brands/models are &lt;strong&gt;not supported&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;supported-canon-camera-models&#34;&gt;Supported Canon camera models&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;EOS-1D Mark III&lt;/li&gt;
-&lt;li&gt;EOS 40D&lt;/li&gt;
-&lt;li&gt;EOS-1Ds Mark III&lt;/li&gt;
-&lt;li&gt;EOS DIGITAL REBEL Xsi / 450D / Kiss X2 EOS DIGITAL REBEL XS / 1000D / KISS F EOS 50D&lt;/li&gt;
-&lt;li&gt;EOS 5D Mark II&lt;/li&gt;
-&lt;li&gt;EOS Kiss X3 / EOS REBEL T1i / EOS 500D&lt;/li&gt;
-&lt;li&gt;EOS 7D&lt;/li&gt;
-&lt;li&gt;EOS-1D Mark IV&lt;/li&gt;
-&lt;li&gt;EOS Kiss X4 / EOS REBEL T2i / EOS 550D&lt;/li&gt;
-&lt;li&gt;EOS 60D&lt;/li&gt;
-&lt;li&gt;EOS Kiss X5 / EOS REBEL T3i / EOS 600D&lt;/li&gt;
-&lt;li&gt;EOS Kiss X50 / EOS REBEL T3 / EOS 1100D&lt;/li&gt;
-&lt;li&gt;EOS 5D Mark III&lt;/li&gt;
-&lt;li&gt;EOS 1D X&lt;/li&gt;
-&lt;li&gt;EOS Kiss X6i / EOS 650D / EOS REBEL T4i&lt;/li&gt;
-&lt;li&gt;EOS 6D&lt;/li&gt;
-&lt;li&gt;EOS-1D C&lt;/li&gt;
-&lt;li&gt;EOS Kiss X7i / EOS 700D / EOS REBEL T5i&lt;/li&gt;
-&lt;li&gt;EOS Kiss X7 / EOS 100D / EOS REBEL SL1&lt;/li&gt;
-&lt;li&gt;EOS 70D&lt;/li&gt;
-&lt;li&gt;EOS Kiss X70 / EOS 1200D / EOS REBEL T5 / EOS Hi&lt;/li&gt;
-&lt;li&gt;EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss&lt;/li&gt;
-&lt;li&gt;EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;supported-nikon-camera-models&#34;&gt;Supported Nikon camera models&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;D3&lt;/li&gt;
-&lt;li&gt;D3S&lt;/li&gt;
-&lt;li&gt;D3X&lt;/li&gt;
-&lt;li&gt;D4&lt;/li&gt;
-&lt;li&gt;D4S&lt;/li&gt;
-&lt;li&gt;D5&lt;/li&gt;
-&lt;li&gt;D90&lt;/li&gt;
-&lt;li&gt;D300&lt;/li&gt;
-&lt;li&gt;D300S&lt;/li&gt;
-&lt;li&gt;D500&lt;/li&gt;
-&lt;li&gt;D600&lt;/li&gt;
-&lt;li&gt;D610&lt;/li&gt;
-&lt;li&gt;D700&lt;/li&gt;
-&lt;li&gt;D750&lt;/li&gt;
-&lt;li&gt;D800&lt;/li&gt;
-&lt;li&gt;D810&lt;/li&gt;
-&lt;li&gt;D810A&lt;/li&gt;
-&lt;li&gt;D5100&lt;/li&gt;
-&lt;li&gt;D5200&lt;/li&gt;
-&lt;li&gt;D5300&lt;/li&gt;
-&lt;li&gt;D5500&lt;/li&gt;
-&lt;li&gt;D5600&lt;/li&gt;
-&lt;li&gt;D7000&lt;/li&gt;
-&lt;li&gt;D7100&lt;/li&gt;
-&lt;li&gt;D7200&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;connection-troubleshooting&#34;&gt;Connection troubleshooting&lt;/h2&gt;
-
-&lt;h3 id=&#34;ensure-you-re-using-a-supported-camera&#34;&gt;Ensure you&amp;rsquo;re using a supported camera&lt;/h3&gt;
-
-&lt;p&gt;We support &lt;a href=&#34;#supported-cameras&#34;&gt;a variety of Canon and Nikon DSLRs&lt;/a&gt; connected over USB.&lt;/p&gt;
-
-&lt;h3 id=&#34;if-you-re-using-a-usb-adapter-make-sure-it-s-an-otg-adapter&#34;&gt;If you&amp;rsquo;re using a USB adapter, make sure it&amp;rsquo;s an OTG adapter&lt;/h3&gt;
-
-&lt;p&gt;If your tablet doesn&amp;rsquo;t have a full-size USB port, you&amp;rsquo;re probably using an adapter to convert the full-size USB connector to a mini, micro, or USB-C connector. Ensure you&amp;rsquo;re using an On-The-Go (OTG) cable/adapter, as this type of adapter ensures the signal is properly converted. Adapters that are not explicitly labeled as OTG may not work. &lt;a href=&#34;https://www.amazon.com/dp/B00LN3LQKQ/&#34;&gt;Here&amp;rsquo;s an example adapter cable&lt;/a&gt; that is known to work well.&lt;/p&gt;
-
-&lt;h3 id=&#34;disable-auto-play&#34;&gt;Disable auto-play&lt;/h3&gt;
-
-&lt;p&gt;Windows has a built-in feature that is often configured to auto-open its Photos (or another) application. This hijacks Flassh&amp;rsquo;s ability to control the camera when it is connected.&lt;/p&gt;
-
-&lt;p&gt;The easiest approach is to disable auto-play entirely, which you can see how to do &lt;a href=&#34;http://www.thewindowsclub.com/set-autoplay-defaults-windows-10&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;disable-wifi-on-wifi-enabled-cameras&#34;&gt;Disable WiFi on WiFi-enabled cameras&lt;/h3&gt;
-
-&lt;p&gt;The WiFi setting on cameras that have WiFi capability (such as the Canon 80D) &lt;em&gt;must&lt;/em&gt; be disabled. Canon disables USB functionality entirely when WiFi is enabled on the camera. Wifi can be disabled from the camera&amp;rsquo;s on-screen menu. Once WiFi is disabled, connect the camera to the tablet via USB and it should be detected.&lt;/p&gt;
-
-&lt;h2 id=&#34;camera-configuration&#34;&gt;Camera configuration&lt;/h2&gt;
-
-&lt;p&gt;We&amp;rsquo;ve found that to best way to run a photo booth is to use a flash. With a flash, you can achieve a more consistent image during the day or night. We recommend a small aperture (higher F stop), which will create a larger depth of field, making as much of the photo in focus as possible. Choose a shutter speed close to the sync speed of your flash (usually &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;160&lt;/sub&gt; of a second) to keep the image sharp when people are moving and will also minimize the amount of ambient light in the photos. For the flash settings, we recommend using a high-power setting to achieve a proper exposure since your image with out the flash will most likely be completely black. This method will also give you more consistent color and look whether inside or outside, day or night.&lt;/p&gt;
-
-&lt;p&gt;Example values to use as a starting point with the use of a flash:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aperture: F16&lt;/li&gt;
-&lt;li&gt;Shutter Speed: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;160&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;ISO: 400&lt;/li&gt;
-&lt;li&gt;Flash set on the higher end (more powerful)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For some situations, a flash might not be available, no problem! In this case you will need to change the camera settings to allow more available light in. You should set a larger aperture (lower F stop), and you may want to turn up your ISO (800-1600) for indoor events. Keep in mind that the higher the F stop, the larger the area that will be in focus in the image. the lower the F stop, the more blurring you&amp;rsquo;ll see when objects move out of your in-focus point.&lt;/p&gt;
-
-&lt;p&gt;Ambient Light (indoor) Example Settings:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aperture: F4&lt;/li&gt;
-&lt;li&gt;Shutter: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;ISO: 800-1600&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ambient Light (outdoor) Example Settings:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aperture: F10&lt;/li&gt;
-&lt;li&gt;Shutter: &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;200&lt;/sub&gt;&lt;/li&gt;
-&lt;li&gt;ISO: 200&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.&lt;/p&gt;
-
-&lt;p&gt;We highly recommend you &lt;strong&gt;do not rely on auto-focus during your event&lt;/strong&gt;. Use auto or manual focus to get things in focus before the event begins, then &lt;strong&gt;switch it to manual focus&lt;/strong&gt;. If you use auto-focus for each photo taken (especially when using a high-powered flash), there may not be enough light for the camera to auto-focus at all, which will cause the capture to timeout and an error to display on-screen. Even if it is able to focus successfully, it can take up to a second to do so, which will throw off the timing of the booth countdown.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: when Flassh fetches photos from the camera, photos are resized to 2560px wide prior to upload to our servers. This ensures fast, consistent upload and photo processing speeds with a high enough resolution for most uses. If you need higher resolution images, they are always available on the SD card in the camera.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;camera-date-and-time&#34;&gt;Camera date and time&lt;/h3&gt;
-
-&lt;p&gt;Make sure your camera&amp;rsquo;s date and time are correct and that the time matches the current time in your organization&amp;rsquo;s timezone. Mismatched organization timezone and camera settings can cause odd behavior as we rely on the date/time in each photo&amp;rsquo;s EXIF metadata. &lt;a href=&#34;http://docs.flassh.co/web/#change-timezone&#34;&gt;Learn more about changing your account&amp;rsquo;s timezone&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re using multiple booths (multiple cameras) in a single event, make sure the cameras are synced as close to the second as possible. If they&amp;rsquo;re not the same (or very close), photos will not appear in their expected sequence in the app and online galleries.&lt;/p&gt;
-
-&lt;h2 id=&#34;connect-your-camera&#34;&gt;Connect your camera&lt;/h2&gt;
-
-&lt;p&gt;With Flassh Connect open in the background, Flassh Booth open in the foreground, and your &lt;a href=&#34;#supported-cameras&#34;&gt;supported Canon DSLR&lt;/a&gt; powered on and connected, you&amp;rsquo;ll see camera info at the top of your screen (vendor, model, as well as aperture, shutter speed, and ISO). If you&amp;rsquo;ve gotten to this point, you&amp;rsquo;re ready to run an event!&lt;/p&gt;
-
-&lt;h2 id=&#34;create-new-event&#34;&gt;Create New Event&lt;/h2&gt;
-
-&lt;p&gt;Before you can run the booth, you must create an event. An event is a named and dated collection of photos that you own in your account. Your account can contain an unlimited number of events.&lt;/p&gt;
-
-&lt;p&gt;To create a new event, tap the &amp;ldquo;+ Create new event&amp;rdquo; button at the top of the screen. An event name and date are required, all other fields are optional. &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;Learn more about event settings&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;run-an-event&#34;&gt;Run an event&lt;/h2&gt;
-
-&lt;p&gt;To start your event, ensure the event you want to run is selected in the left pane and tap the &amp;ldquo;RUN&amp;rdquo; button in the upper right. Unless your event is currently live, you&amp;rsquo;re prompted to do one of two things &amp;ldquo;Convert To Live&amp;rdquo; or &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Every event you create is a &amp;ldquo;Test&amp;rdquo; event by default. See our &lt;a href=&#34;http://docs.flassh.co/#understanding-pricing&#34;&gt;pricing info&lt;/a&gt; for more information about the difference between Test and Live events.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re ready to begin your live event and have a paid credit deducted from your account, choose &amp;ldquo;Convert To Live&amp;rdquo;. Otherwise, tap &amp;ldquo;Continue Testing&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Regardless of your selection above, you&amp;rsquo;ll be taken to the &amp;ldquo;Touch Screen To Begin&amp;rdquo; screen in full-screen mode. Tapping anywhere on the screen will initiate a 3-second countdown, which will trigger the camera, preview the photo, then start another countdown. By default, there are 3 photos taken (3 countdowns) per session. This number is &lt;a href=&#34;http://docs.flassh.co/events/#event-settings&#34;&gt;configurable in event settings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;As photos are taken, they&amp;rsquo;re automatically uploaded to our servers and made immediately available for viewing and sharing. Enjoy your event!&lt;/p&gt;
-
-&lt;h2 id=&#34;exit-a-running-event&#34;&gt;Exit a running event&lt;/h2&gt;
-
-&lt;p&gt;Once you&amp;rsquo;re running an event, the tablet goes into full-screen mode and there is no obvious way to exit (this is by design). Guests shouldn&amp;rsquo;t be able to exit, but you&amp;rsquo;ll need to.&lt;/p&gt;
-
-&lt;p&gt;Each of the four corners of the screen accept a single-finger long-press gesture that will allow you to exit the event and return to your event management screen.&lt;/p&gt;
-
-&lt;h2 id=&#34;internet-requirement&#34;&gt;Internet requirement&lt;/h2&gt;
-
-&lt;p&gt;Flassh is a live, online, instant-sharing platform. &lt;strong&gt;To run events effectively, an Internet connection is required&lt;/strong&gt;. Some features may work without an Internet connection, but most of our applications operate under the assumption that a stable connection is available.&lt;/p&gt;
-
-&lt;p&gt;If a WiFi or wired Internet connection is not available at your event&amp;rsquo;s location, we recommend using a cellular hotspot (mifi) or the tethered data feature of your phone or tablet.&lt;/p&gt;
-
-&lt;h2 id=&#34;printing&#34;&gt;Printing&lt;/h2&gt;
-
-&lt;p&gt;We have built-in support for thousands of AirPrint-enabled printers, allowing you to &lt;a href=&#34;http://docs.flassh.co/ios/#printing&#34;&gt;print from our iOS application&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://docs.flassh.co/booth/</guid>
+      <description>System requirements  Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported. 2GB RAM  Download and install Flassh Connect Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. Download now
+Flassh Booth Flassh Booth is the Windows-based application where your photo booth runs.</description>
     </item>
     
   </channel>
