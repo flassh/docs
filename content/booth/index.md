@@ -5,7 +5,7 @@ title: Flassh Booth
 
 ## System requirements
 
-* Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported.
+* Windows touch-screen tablet running a full version of Windows 10. Windows RT-based tablets are not supported.
 * 2GB RAM
 
 ## Download and install
@@ -55,6 +55,9 @@ At this time, we **only** support the following Canon and Nikon DSLRs. Sony and 
 * EOS Kiss X70 / EOS 1200D / EOS REBEL T5 / EOS Hi
 * EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss
 * EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80
+* EOS 5D Mark IV
+* EOS Kiss X9i / EOS Rebel T7i / EOS 800D / EOS 9000D / EOS 77D
+* EOS 6D Mark II / EOS Kiss X9 / EOS Rebel SL2 / EOS 200D
 
 ### Supported Nikon camera models
 
