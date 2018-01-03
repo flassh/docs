@@ -39,7 +39,7 @@ We provide editing presets you can choose to match the style of your event. **Al
 
 #### None
 
-This is the default. No enhancements are made to photos.
+This is the default. Photos are kept as-is straight out of the camera. No enhancements are made.
 
 #### Enhanced
 
@@ -63,10 +63,18 @@ Before you can apply a watermark to an event, you need to [upload one to your ac
 
 From the event add/edit screen in the Style section, tap the Watermark field to load a list of available watermarks. Tap the watermark you want to apply (it will show marked as checked), tap the back button to return to the event add/edit screen and tap the "Save" button.
 
-_Note: applying/removing a watermark to/from is currently only available from the iOS app_
+### Prompt Screen Text
 
-### Photos per set _(default: 3)_
+By default, the phrase shown to people using the booth is "Touch Screen To Begin". You can customize this with any text in any language on a per-event basis. Keep it short though so it fits on the screen!
+
+### Photos per session _(default: 3)_
 
 By default, the booth will countdown and capture 3 times per session. You can change this setting to any number between 1 and 10.
 
-_Note: specifying photos per set is currently only available from the iOS app_
+### Seconds to count down _(default: 3)_
+
+By default, the booth will count down from 3 before capturing each photo in a session. You can change this setting to any number between 1 and 10.
+
+### Seconds to show preview _(default: 3)_
+
+By default, the booth will show a horizontally inverted preview (mirror image) of the just-taken photo on screen for 3 seconds so people can see what they looked like and adjust ahead of the next photo. You can change this setting to any number between 1 and 10.

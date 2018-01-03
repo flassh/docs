@@ -105,7 +105,7 @@ The easiest approach is to disable auto-play entirely, which you can see how to 
 
 ### Disable WiFi on WiFi-enabled cameras
 
-The WiFi setting on cameras that have WiFi capability (such as the Canon 80D) _must_ be disabled. Canon disables USB functionality entirely when WiFi is enabled on the camera. Wifi can be disabled from the camera's on-screen menu. Once WiFi is disabled, connect the camera to the tablet via USB and it should be detected.
+The WiFi setting on cameras that have WiFi capability (such as the Canon 80D) _must_ be disabled. Canon disables USB functionality entirely when WiFi is enabled on the camera. WiFi can be disabled from the camera's on-screen menu. Once WiFi is disabled, connect the camera to the tablet via USB and it should be detected.
 
 ## Camera configuration
 
