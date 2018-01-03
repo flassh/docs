@@ -3,8 +3,7 @@
 ### Get em running locally
 
 ```
-brew install hugo
-hugo server
+./bin/hugo server
 ```
 
 Point your browser at [http://localhost:1313](http://localhost:1313/).
