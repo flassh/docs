@@ -16,13 +16,13 @@ Signing up for a new account is free and only takes a minute. [Create an account
 
 ## Devices needed
 
-* Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported.
+* Windows touch-screen tablet running a full version of Windows 10. Windows RT-based tablets are not supported.
 * Canon DSLR Camera [see supported cameras]({{< relref "booth/index.md#supported-cameras" >}})
 * iPhone or iPad with iOS 9 or newer (optional)
 
 ## Understanding pricing
 
-We offer 2 pricing options depending on your needs: **On-demand** and **Pro**
+We offer 2 pricing options depending on your needs: **On-demand** and **Pro**.
 
 You can choose either method and can switch between the options as needed.
 
