@@ -7,62 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Flassh</copyright>
-    <lastBuildDate>Wed, 04 May 2016 21:13:53 +0000</lastBuildDate>
     
 	<atom:link href="https://docs.flassh.co/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Events</title>
-      <link>https://docs.flassh.co/events/</link>
-      <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
-      
-      <guid>https://docs.flassh.co/events/</guid>
-      <description>Events are core to the Flassh platform. Each collection of photos is stored in an event and each event has a number of settings that make it unique and customizable.
-Create a new event Events can be created from the events tab in your account on the web, from the iOS app, and from Flassh Booth. Although you&amp;rsquo;re able to create an event from all platforms, not all settings are available on all platforms.</description>
-    </item>
-    
-    <item>
-      <title>Flassh Booth</title>
-      <link>https://docs.flassh.co/booth/</link>
-      <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
-      
-      <guid>https://docs.flassh.co/booth/</guid>
-      <description>System requirements  Windows touch-screen tablet running a full version of Windows 10 (Windows 8.1 is also supported for a limited time). Windows RT-based tablets are not supported. 2GB RAM  Download and install Flassh Connect Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. Download now
-Flassh Booth Flassh Booth is the Windows-based application where your photo booth runs.</description>
-    </item>
-    
-    <item>
-      <title>Flassh Web Galleries / Admin Area</title>
-      <link>https://docs.flassh.co/web/</link>
-      <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
-      
-      <guid>https://docs.flassh.co/web/</guid>
-      <description>Change organization name Your organization name is the name that is shown as the owner of your events and is visible to anyone browsing your galleries on the web or on their own devices. When someone shares one or more photos via email, the &amp;ldquo;From&amp;rdquo; name of that email will be the name you set here.
-If you&amp;rsquo;re a solo photographer, it may make sense for this to be your full name so people can find your events.</description>
-    </item>
-    
-    <item>
-      <title>Flassh iOS</title>
-      <link>https://docs.flassh.co/ios/</link>
-      <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
-      
-      <guid>https://docs.flassh.co/ios/</guid>
-      <description>Flassh iOS is the preferred way to view and share photos taken with Flassh Booth. Not only can account owners login and manage their events and photos with this app, they can also send guests to download and install this app on their own devices. Guests can then instantly view and share photos from their own iPhone or iPad.
-This app can also act as a public kiosk for your events.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Flassh</title>
-      <link>https://docs.flassh.co/</link>
-      <pubDate>Wed, 04 May 2016 21:13:53 +0000</pubDate>
-      
-      <guid>https://docs.flassh.co/</guid>
-      <description>How Flassh works Flassh allows you to take your DSLR camera and tablet, connect them together, and create a fun, good-looking, instant-sharing photo booth experience.
-Our software is always free to download and install, and you can install it on any number of devices.
-Create an account Signing up for a new account is free and only takes a minute. Create an account now!
-Devices needed  Windows touch-screen tablet running a full version of Windows 10 (Windows 8.</description>
-    </item>
     
   </channel>
 </rss>
