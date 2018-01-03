@@ -9,21 +9,21 @@ Your organization name is the name that is shown as the owner of your events and
 
 If you're a solo photographer, it may make sense for this to be your full name so people can find your events. If you are a company, you'll want to use your company's name here.
 
-To change your account's timezone, go to the [Profile tab](https://flassh.co/account/profile) in your account. Find the "Organization Settings" section and tap the "Edit Organization" button. Enter your organization's name and tap the "Save Organization Info" button.
+To change your account's timezone, go to the [Profile tab](https://www.flassh.co/account/profile) in your account. Find the "Organization Settings" section and tap the "Edit Organization" button. Enter your organization's name and tap the "Save Organization Info" button.
 
 ## Change name or email address
 
 The name and email you use is private within your organization. We use them to communicate you for support tickets and billing, but no one else sees these, and they will never be shown in any event information. This lays the groundwork for allowing multiple users and logins within a single organization (which is not yet available).
 
-To change your name or email, go to the [Profile tab](https://flassh.co/account/profile) in your account. Find the "My Info" section and tap the "Edit My Info" button. Modify your name and/or email and hit the "Save My Info" button. It's important that your email is valid, as this is how we contact you.
+To change your name or email, go to the [Profile tab](https://www.flassh.co/account/profile) in your account. Find the "My Info" section and tap the "Edit My Info" button. Modify your name and/or email and hit the "Save My Info" button. It's important that your email is valid, as this is how we contact you.
 
 ## Change password
 
 Make sure you choose a strong password! Your email and password combination allow complete, read/write access to all events, photos, and settings in your account. You can change your password at any time.
 
-If you have access to your account and need to change your password, go to the [Profile tab](https://flassh.co/account/profile) in your account. Find the "Password Settings" section and tap the "Change Password" button. Enter your old password and a new password (with a confirmation) and tap the "Update Password" button.
+If you have access to your account and need to change your password, go to the [Profile tab](https://www.flassh.co/account/profile) in your account. Find the "Password Settings" section and tap the "Change Password" button. Enter your old password and a new password (with a confirmation) and tap the "Update Password" button.
 
-If you forgot your password, you can reset your password via email on our [password reset page](https://flassh.co/passwords/new). We'll email you a message containing a link that will allow you to reset your password.
+If you forgot your password, you can reset your password via email on our [password reset page](https://www.flassh.co/passwords/new). We'll email you a message containing a link that will allow you to reset your password.
 
 **Note:** changing your password does not revoke access on your other signed in devices.
 
@@ -31,41 +31,45 @@ If you forgot your password, you can reset your password via email on our [passw
 
 It's important that your timezone lines up with the time you have set on your camera. If you travel, we recommend maintaining a consistent timezone in your account and always using that timezone's time when configuring the date/time on your camera.
 
-To change your account's timezone, go to the [Profile tab](https://flassh.co/account/profile) in your account. Find the "Organization Settings" section and tap the "Edit Organization" button. Select your timezone and tap the "Save Organization Info" button.
+To change your account's timezone, go to the [Profile tab](https://www.flassh.co/account/profile) in your account. Find the "Organization Settings" section and tap the "Edit Organization" button. Select your timezone and tap the "Save Organization Info" button.
 
 ## Configure a gallery subdomain
 
-Each account is configured with a web gallery that contains all events owned by that organization. By default each account is assigned a random subdomain, one that is likely not memorable and is not representative of your organization's name or brand. To change it, go to the [Profile tab](https://flassh.co/account/profile) in your account. Find the "Public Gallery" section and tap the "Edit Gallery URL" button.
+Each account is configured with a web gallery that contains all events owned by that organization. By default each account is assigned a random subdomain, one that is likely not memorable and is not representative of your organization's name or brand. To change it, go to the [Profile tab](https://www.flassh.co/account/profile) in your account. Find the "Public Gallery" section and tap the "Edit Gallery URL" button.
 
 You're prompted to specify a subdomain. Choose a subdomain that is 6 characters or more, starts with a letter, and only contains numbers and letters. For example, specifying "photos" will give you a public gallery URL of https://photos.flassh.co.
 
 Note, when you change this subdomain, any existing links to your web galleries will break, and the new URLs will take effect immediately.
 
-Fully custom domains (photobooth.yourdomain.com) are not currently supported.
+## Custom Domains
+
+You can configure Flassh to serve your web gallery from a domain you own and control, keeping your brand in front of your customers at all times. All accounts include web galleries hosted on the flassh.co domain whereas custom domains (photobooth.yourdomain.com) are supported in Pro accounts only.
+
+Once you've upgraded to a Pro account, you'll first need to [configure a gallery subdomain](#configure-a-gallery-subdomain).
 
 ## Manage events
 
-You can manage events in each of our apps -- from the [Events tab](https://flassh.co/account/events) on the web, from Flassh Booth, and from iOS. This section of the docs applies to event management from the web.
+You can manage events in each of our apps -- from the [Events tab](https://www.flassh.co/account/events) on the web, from Flassh Booth, and from iOS. This section of the docs applies to event management from the web.
 
 ### Create a new event
 
-Open the [Events tab](https://flassh.co/account/events) in any browser and click the "Create Event" button at the top right.
+Open the [Events tab](https://www.flassh.co/account/events) in any browser and click the "Create Event" button at the top right.
 
 Enter your event details, then click the "Create Test Event" at the bottom of the form. [Learn more about test events vs. live events]({{< relref "booth/index.md#supported-cameras" >}})
 
 ### Make changes to an existing event
 
-Open the [Events tab](https://flassh.co/account/events) in any browser and click the event you'd like to edit. Specify any details you'd like to change and click the "Save Event" button at the bottom of the form.
+Open the [Events tab](https://www.flassh.co/account/events) in any browser and click the event you'd like to edit. Specify any details you'd like to change and click the "Save Event" button at the bottom of the form.
 
 ### Delete an event
 
-Open the [Events tab](https://flassh.co/account/events) in any browser and click the event you'd like to delete. At the bottom of the form, click the "Delete" button and continue through the confirmation.
+Open the [Events tab](https://www.flassh.co/account/events) in any browser and click the event you'd like to delete. At the bottom of the form, click the "Delete" button and continue through the confirmation.
 
 **Note: it is not possible to restore deleted events. All event info and all photos will be permanently deleted.**
 
 ## Watermarking
 
-Many events are associated with a one or more companies/brands you may want to promote in your photos. From the [Watermark tab](https://flassh.co/account/watermarks) you can upload an unlimited number of watermarks to your account for use in your events.
+Many events are associated with a one or more companies/brands you may want to promote in your photos. From the [Watermark tab](https://www.flassh.co/account/watermarks) you can upload an unlimited number of watermarks to your account for use in your events.
 
 ### Preparing watermarks
 
@@ -75,29 +79,29 @@ There are no limitations on how you can design your watermarks. Be careful thoug
 
 ### Uploading watermarks
 
-Head to the [Watermarks tab](https://flassh.co/account/watermarks) and either drag and drop your watermark file created above or tap the "+ Add New" button and browse to the properly-sized PNG file on your computer.
+Head to the [Watermarks tab](https://www.flassh.co/account/watermarks) and either drag and drop your watermark file created above or tap the "+ Add New" button and browse to the properly-sized PNG file on your computer.
 
 If you see a preview of your watermark, you're all set. If you receive an error message, check your file format (PNG) and ensure your image is less than 2MB.
 
 ### Previewing watermarks
 
-On the [Watermarks tab](https://flassh.co/account/watermarks) there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.
+On the [Watermarks tab](https://www.flassh.co/account/watermarks) there are options for previewing your watermark on 3 different background types to help you visualize how it will look for your event.
 
 Tap the "Dark" button (default) to see what the mark will look like on an event with a dark background, "Light" to see it on a bright, nearly-white background, and "Color" to see it on a vibrant, busy, colored background.
 
 ### Editing watermarks
 
-On the [Watermarks tab](https://flassh.co/account/watermarks), choose the watermark you'd like to edit. We offer the ability to adjust the size (image scale from 1-100%), the alignment (corner or edge to stick the watermark to), the offset (horizontal and vertical distance from the aligned corner or edge), and opacity (allows you to make the mark semi-transparent).
+On the [Watermarks tab](https://www.flassh.co/account/watermarks), choose the watermark you'd like to edit. We offer the ability to adjust the size (image scale from 1-100%), the alignment (corner or edge to stick the watermark to), the offset (horizontal and vertical distance from the aligned corner or edge), and opacity (allows you to make the mark semi-transparent).
 
 Adjust the values to your liking. Changes will preview immediately as you adjust the values, but won't be saved until you click the Save button.
 
 ### Apply a watermark to an event
 
-From the [Events tab](https://flassh.co/account/events), choose the event that you'd like watermarked (or [create a new event](https://flassh.co/account/events/new)). Down near the bottom of the form, there's a "Choose A Watermark" button that will present all the available watermarks. Select the one you'd like and save the event.
+From the [Events tab](https://www.flassh.co/account/events), choose the event that you'd like watermarked (or [create a new event](https://www.flassh.co/account/events/new)). Down near the bottom of the form, there's a "Choose A Watermark" button that will present all the available watermarks. Select the one you'd like and save the event.
 
 ### Delete a watermark
 
-From the [Watermarks tab](https://flassh.co/account/watermarks), click the watermark you would like to delete. At the bottom left of the watermark edit screen, there's a delete button.
+From the [Watermarks tab](https://www.flassh.co/account/watermarks), click the watermark you would like to delete. At the bottom left of the watermark edit screen, there's a delete button.
 
 Note that any events already using that watermark will no longer have that watermark applied if you delete it.
 
@@ -107,7 +111,7 @@ Once you're ready to run live events, you'll need to enter your credit card info
 
 ### Add credit card
 
-To add a new credit card, go to the [Billing tab](https://flassh.co/account/billing) in your account and tap the "Add Your Card" button. If you already have a card on file, the "Add Your Card" button will not be available. Instead, you'll see a "Edit Card" button.
+To add a new credit card, go to the [Billing tab](https://www.flassh.co/account/billing) in your account and tap the "Add Your Card" button. If you already have a card on file, the "Add Your Card" button will not be available. Instead, you'll see a "Edit Card" button.
 
 We accept Visa, MasterCard, American Express, JCB, Discover, and Diners Club cards.
 
@@ -115,7 +119,7 @@ A valid card number, expiration and the CVC (3-4 digits on the back of the card)
 
 ### Update credit card
 
-To update your credit card or switch to a different one, go to the [Billing tab](https://flassh.co/account/billing) and tap the "Edit Card" button.
+To update your credit card or switch to a different one, go to the [Billing tab](https://www.flassh.co/account/billing) and tap the "Edit Card" button.
 
 After you've entered your updated card info, tap the "Save Credit Card" button. All future charges will be made to this newly specified credit card.
 
@@ -125,13 +129,13 @@ Any time you enter payment information (such as a credit card or debit card), it
 
 ## Managing event credits
 
-On the [Billing tab](https://flassh.co/account/billing) in your account, you can always see your current event credit balance. If you have one or more credits, you'll be able to convert events to live. If you have zero credits, you'll only be able to create test events.
+On the [Billing tab](https://www.flassh.co/account/billing) in your account, you can always see your current event credit balance. If you have one or more credits, you'll be able to convert events to live. If you have zero credits, you'll only be able to create test events.
 
 **Note: credits must be pre-paid. You cannot convert an event to live without any credits in your account.** We highly recommend configuring billing and adding one or more credits to your account before you head out to your event.
 
 ### Buy event credits
 
-You can purchase as many credits as you need from the [Billing tab](https://flassh.co/account/billing) in your account. [Learn more about pricing](/#understanding-pricing)
+You can purchase as many credits as you need from the [Billing tab](https://www.flassh.co/account/billing) in your account. [Learn more about pricing](/#understanding-pricing)
 
 Before you can add credits, you must [add a credit card](#credit-card-billing) to your account. Once you have a credit card on file, tap the "Add Credits" button.
 
@@ -147,7 +151,7 @@ You either have an on-demand account or a subscription account. You cannot buy e
 
 ### Subscribe to the monthly unlimited plan
 
-Open to the [Billing tab](https://flassh.co/account/billing) in your browser.
+Open to the [Billing tab](https://www.flassh.co/account/billing) in your browser.
 
 Before you can subscribe, you must [add a credit card](#credit-card-billing) to your account. Once you have a credit card on file, tap the "Manage Subscription" button.
 
@@ -155,7 +159,7 @@ Before you can subscribe, you must [add a credit card](#credit-card-billing) to 
 
 ### Cancel the monthly unlimited plan
 
-Open to the [Billing tab](https://flassh.co/account/billing) in your browser.
+Open to the [Billing tab](https://www.flassh.co/account/billing) in your browser.
 
 Click the "Manage Subscription" button. If you're sure you'd like to cancel, click the "Cancel Subscription" button and continue through the confirmation.
 

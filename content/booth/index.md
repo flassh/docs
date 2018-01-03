@@ -12,11 +12,11 @@ title: Flassh Booth
 
 ### Flassh Connect
 
-Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. [Download now](https://flassh.co/download/connect/windows/latest)
+Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. [Download now](https://www.flassh.co/download/connect/windows/latest)
 
 ### Flassh Booth
 
-Flassh Booth is the Windows-based application where your photo booth runs. It is the interface that guests interact with when taking photos at your event. [Download now](https://flassh.co/download/booth/windows/latest)
+Flassh Booth is the Windows-based application where your photo booth runs. It is the interface that guests interact with when taking photos at your event. [Download now](https://www.flassh.co/download/booth/windows/latest)
 
 #### Why do I need to download two apps?
 
@@ -24,7 +24,7 @@ We know it's not ideal to need both, and we're looking into the possibility of c
 
 ## Sign in
 
-In order to use Flassh Booth, you must sign into your account. If you don't already have an account [create one here](https://flassh.co/signup). When you open Flassh Booth for the first time, a login form will pop up. Enter your email address and password to login. Forgot your password? [Reset it here](https://flassh.co/passwords/new).
+In order to use Flassh Booth, you must sign into your account. If you don't already have an account [create one here](https://www.flassh.co/signup). When you open Flassh Booth for the first time, a login form will pop up. Enter your email address and password to login. Forgot your password? [Reset it here](https://www.flassh.co/passwords/new).
 
 ## Supported Cameras
 

@@ -7,7 +7,7 @@ Events are core to the Flassh platform. Each collection of photos is stored in a
 
 ## Create a new event
 
-Events can be created from the [events tab](https://flassh.co/account/events) in your account on the web, from the [iOS app](/ios), and from [Flassh Booth](/booth). Although you're able to create an event from all platforms, not all settings are available on all platforms. Generally speaking, the iOS app has the most capabilities when it comes to event settings. We're continually working to reach feature parity across all our apps.
+Events can be created from the [events tab](https://www.flassh.co/account/events) in your account on the web, from the [iOS app](/ios), and from [Flassh Booth](/booth). Although you're able to create an event from all platforms, not all settings are available on all platforms. Generally speaking, the iOS app has the most capabilities when it comes to event settings. We're continually working to reach feature parity across all our apps.
 
 ## Event settings
 
@@ -59,7 +59,7 @@ Same as Film, but bring saturation to zero.
 
 ### Watermark _(optional)_
 
-Before you can apply a watermark to an event, you need to [upload one to your account](https://flassh.co/account/watermarks).
+Before you can apply a watermark to an event, you need to [upload one to your account](https://www.flassh.co/account/watermarks).
 
 From the event add/edit screen in the Style section, tap the Watermark field to load a list of available watermarks. Tap the watermark you want to apply (it will show marked as checked), tap the back button to return to the event add/edit screen and tap the "Save" button.
 
