@@ -5,14 +5,14 @@ title: Flassh Booth
 
 ## System requirements
 
-* Windows touch-screen tablet running a full version of Windows 10. Windows RT-based tablets are not supported.
-* 2GB RAM
+- Windows touch-screen tablet running a full version of Windows 10. Windows RT-based tablets are not supported.
+- 2GB RAM
 
 ## Download and install
 
 ### Flassh Connect
 
-Flassh Connect is bridge software between your Canon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. [Download now](https://www.flassh.co/download/connect/windows/latest)
+Flassh Connect is bridge software between your Canon or Nikon DSLR camera and the Flassh Booth software. It handles all interactions with the camera hardware. [Download now](https://www.flassh.co/download/connect/windows/latest)
 
 ### Flassh Booth
 
@@ -32,60 +32,61 @@ At this time, we **only** support the following Canon and Nikon DSLRs. Sony and 
 
 ### Supported Canon camera models
 
-* EOS-1D Mark III
-* EOS 40D
-* EOS-1Ds Mark III
-* EOS DIGITAL REBEL Xsi / 450D / Kiss X2 EOS DIGITAL REBEL XS / 1000D / KISS F EOS 50D
-* EOS 5D Mark II
-* EOS Kiss X3 / EOS REBEL T1i / EOS 500D
-* EOS 7D
-* EOS-1D Mark IV
-* EOS Kiss X4 / EOS REBEL T2i / EOS 550D
-* EOS 60D
-* EOS Kiss X5 / EOS REBEL T3i / EOS 600D
-* EOS Kiss X50 / EOS REBEL T3 / EOS 1100D
-* EOS 5D Mark III
-* EOS 1D X
-* EOS Kiss X6i / EOS 650D / EOS REBEL T4i
-* EOS 6D
-* EOS-1D C
-* EOS Kiss X7i / EOS 700D / EOS REBEL T5i
-* EOS Kiss X7 / EOS 100D / EOS REBEL SL1
-* EOS 70D
-* EOS Kiss X70 / EOS 1200D / EOS REBEL T5 / EOS Hi
-* EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss
-* EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80
-* EOS 5D Mark IV
-* EOS Kiss X9i / EOS Rebel T7i / EOS 800D / EOS 9000D / EOS 77D
-* EOS 6D Mark II / EOS Kiss X9 / EOS Rebel SL2 / EOS 200D
+- EOS-1D Mark III
+- EOS 40D
+- EOS-1Ds Mark III
+- EOS DIGITAL REBEL Xsi / 450D / Kiss X2 EOS DIGITAL REBEL XS / 1000D / KISS F EOS 50D
+- EOS 5D Mark II
+- EOS Kiss X3 / EOS REBEL T1i / EOS 500D
+- EOS 7D
+- EOS-1D Mark IV
+- EOS Kiss X4 / EOS REBEL T2i / EOS 550D
+- EOS 60D
+- EOS Kiss X5 / EOS REBEL T3i / EOS 600D
+- EOS Kiss X50 / EOS REBEL T3 / EOS 1100D
+- EOS 5D Mark III
+- EOS 1D X
+- EOS Kiss X6i / EOS 650D / EOS REBEL T4i
+- EOS 6D
+- EOS-1D C
+- EOS Kiss X7i / EOS 700D / EOS REBEL T5i
+- EOS Kiss X7 / EOS 100D / EOS REBEL SL1
+- EOS 70D
+- EOS Kiss X70 / EOS 1200D / EOS REBEL T5 / EOS Hi
+- EOS 5DS / EOS 5DS R / EOS REBEL T6s / EOS 760D / EOS 8000D / EOS REBEL T6i / EOS 750D / EOS Kiss
+- EOS-1D X Mark II / EOS 80D / EOS Rebel T6 / EOS 1300D / EOS Kiss X80
+- EOS 5D Mark IV
+- EOS Kiss X9i / EOS Rebel T7i / EOS 800D / EOS 9000D / EOS 77D
+- EOS 6D Mark II / EOS Kiss X9 / EOS Rebel SL2 / EOS 200D
+- EOS EOS Kiss X90 / EOS REBEL T7 / EOS 2000D / EOS REBEL T100 / EOS 4000D
 
 ### Supported Nikon camera models
 
-* D3
-* D3S
-* D3X
-* D4
-* D4S
-* D5
-* D90
-* D300
-* D300S
-* D500
-* D600
-* D610
-* D700
-* D750
-* D800
-* D810
-* D810A
-* D5100
-* D5200
-* D5300
-* D5500
-* D5600
-* D7000
-* D7100
-* D7200
+- D3
+- D3S
+- D3X
+- D4
+- D4S
+- D5
+- D90
+- D300
+- D300S
+- D500
+- D600
+- D610
+- D700
+- D750
+- D800
+- D810
+- D810A
+- D5100
+- D5200
+- D5300
+- D5500
+- D5600
+- D7000
+- D7100
+- D7200
 
 ## Connection troubleshooting
 
@@ -113,24 +114,24 @@ We've found that to best way to run a photo booth is to use a flash. With a flas
 
 Example values to use as a starting point with the use of a flash:
 
-* Aperture: F16
-* Shutter Speed: 1/160
-* ISO: 400
-* Flash set on the higher end (more powerful)
+- Aperture: F16
+- Shutter Speed: 1/160
+- ISO: 400
+- Flash set on the higher end (more powerful)
 
 For some situations, a flash might not be available, no problem! In this case you will need to change the camera settings to allow more available light in. You should set a larger aperture (lower F stop), and you may want to turn up your ISO (800-1600) for indoor events. Keep in mind that the higher the F stop, the larger the area that will be in focus in the image. the lower the F stop, the more blurring you'll see when objects move out of your in-focus point.
 
 Ambient Light (indoor) Example Settings:
 
-* Aperture: F4
-* Shutter: 1/100
-* ISO: 800-1600
+- Aperture: F4
+- Shutter: 1/100
+- ISO: 800-1600
 
 Ambient Light (outdoor) Example Settings:
 
-* Aperture: F10
-* Shutter: 1/200
-* ISO: 200
+- Aperture: F10
+- Shutter: 1/200
+- ISO: 200
 
 For photo quality, we support any JPEG-only setting. We do not support RAW capture and you must not choose a JPEG+RAW setting. You may notice that the larger the JPEG setting, the longer it takes to fetch the image from the camera to display the preview. Choose a size that makes the most sense for you and your clients.
 
@@ -146,7 +147,7 @@ If you're using multiple booths (multiple cameras) in a single event, make sure 
 
 ## Connect your camera
 
-With Flassh Connect open in the background, Flassh Booth open in the foreground, and your [supported Canon DSLR](#supported-cameras) powered on and connected, you'll see camera info at the top of your screen (vendor, model, as well as aperture, shutter speed, and ISO). If you've gotten to this point, you're ready to run an event!
+With Flassh Connect open in the background, Flassh Booth open in the foreground, and your [supported Canon or Nikon DSLR](#supported-cameras) powered on and connected, you'll see camera info at the top of your screen (vendor, model, as well as aperture, shutter speed, and ISO). If you've gotten to this point, you're ready to run an event!
 
 ## Create New Event
 
