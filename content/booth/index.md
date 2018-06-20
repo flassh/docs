@@ -58,7 +58,7 @@ At this time, we **only** support the following Canon and Nikon DSLRs. Sony and 
 - EOS 5D Mark IV
 - EOS Kiss X9i / EOS Rebel T7i / EOS 800D / EOS 9000D / EOS 77D
 - EOS 6D Mark II / EOS Kiss X9 / EOS Rebel SL2 / EOS 200D
-- EOS EOS Kiss X90 / EOS REBEL T7 / EOS 2000D / EOS REBEL T100 / EOS 4000D
+- EOS M50 / EOS Kiss X90 / EOS REBEL T7 / EOS 2000D / EOS REBEL T100 / EOS 4000D
 
 ### Supported Nikon camera models
 
