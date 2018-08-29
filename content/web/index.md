@@ -105,6 +105,41 @@ From the [Watermarks tab](https://www.flassh.co/account/watermarks), click the w
 
 Note that any events already using that watermark will no longer have that watermark applied if you delete it.
 
+## Dropbox Integration
+
+You can connect your Flassh account to your [Dropbox](https://www.dropbox.com) account to enable real-time sync of captured photos to a Dropbox folder on any computer, anywhere. As each photo is captured, we'll copy all sizes of it (with edits and watermarks if enabled) to a folder in your Dropbox.
+
+There are a number of use cases for this folder. You may want to [share it](https://www.dropbox.com/help/files-folders) with your client when you create the event so they have instant access to all the photos. You may want to use it as a "watch" folder for local printing or some other custom action. Connect it with something like [Zapier](https://zapier.com/apps/dropbox/integrations) and send photos directly to Facebook, Google Cloud Print, or another service. We're looking forward to seeing the other use cases you come up with for this integration!
+
+### Connect your account
+
+We need your approval to add content to your Dropbox folder. This authorization process **only** grants us access to a "Flassh" folder that we control, **we do not have access** to the rest of your Dropbox.
+
+To connect your Flassh account to Dropbox, sign into Flassh and open the [Integrations tab](https://www.flassh.co/account/integrations). Click the "Connect to Dropbox" button and click the "Allow" button when prompted on the Dropbox site. You'll immediately be sent back to Flassh, a folder will be created in your Dropbox, and you're all set!
+
+### Enable and disable Dropbox syncing
+
+Dropbox syncing can be enabled on a per-event basis. When you create or edit an event, you'll see an option for "Dropbox Sync". Upon saving the event with Dropbox sync enabled, we'll instantly create the folder structure in your Dropbox so you can hook up anything you need to the folder before photos are added.
+
+Note that if you change the name or date of your event, new folders with the new name and date will be created (the old folders will remain untouched).
+
+### Deleting events and photos
+
+If you delete an event with Dropbox Sync enabled on that event, we'll attempt to delete the event and its photos from Dropbox. If you delete photos within an event, we'll attempt to delete those deleted photos from Dropbox as well.
+
+If you want to prevent deleting files in Dropbox when deleting in Flassh, you have 2 options:
+
+- Disable the "Dropbox Sync" option and update the event in Flassh prior to deleting the event or photo(s).
+- Move/copy the files in Dropbox somewhere else (in Dropbox or on your computer) before deleting the event or photo(s).
+
+When we delete items from Dropbox, know that Dropbox retains all deleted files for a period of time and allows you to restore them on-demand.
+
+### Bandwidth considerations
+
+We know that excessive bandwidth usage is often a concern at events, especially when using a cellular connection or a weak WiFi signal. We copy all sizes of your photos to your Dropbox to give you the most flexibility, but you may not want to incur the bandwidth hit of downloading all these sizes if using this integration for something like local printing.
+
+We recommend using Dropbox's [Selective Sync](https://www.dropbox.com/help/syncing-uploads/selective-sync-overview) feature, which allows you to choose folders that sync down to a given computer, leaving other folders in your Dropbox stored in the cloud. You could, for example, selectively sync the "x1600" folder (1600px on its largest side and the largest size that can include a watermark). When new photos are taken, we'll add all the photos to your Dropbox but that computer will only download the x1600 version.
+
 ## Credit card & billing
 
 Once you're ready to run live events, you'll need to enter your credit card information and purchase event credits. There's no pressure to do so and no expiration on your test events, so if you want to keep your free account and continue using test events, you're more than welcome to do so.
