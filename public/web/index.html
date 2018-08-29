@@ -356,6 +356,43 @@
 
 <p>Note that any events already using that watermark will no longer have that watermark applied if you delete it.</p>
 
+<h2 id="dropbox-integration">Dropbox Integration</h2>
+
+<p>You can connect your Flassh account to your <a href="https://www.dropbox.com">Dropbox</a> account to enable real-time sync of captured photos to a Dropbox folder on any computer, anywhere. As each photo is captured, we&rsquo;ll copy all sizes of it (with edits and watermarks if enabled) to a folder in your Dropbox.</p>
+
+<p>There are a number of use cases for this folder. You may want to <a href="https://www.dropbox.com/help/files-folders">share it</a> with your client when you create the event so they have instant access to all the photos. You may want to use it as a &ldquo;watch&rdquo; folder for local printing or some other custom action. Connect it with something like <a href="https://zapier.com/apps/dropbox/integrations">Zapier</a> and send photos directly to Facebook, Google Cloud Print, or another service. We&rsquo;re looking forward to seeing the other use cases you come up with for this integration!</p>
+
+<h3 id="connect-your-account">Connect your account</h3>
+
+<p>We need your approval to add content to your Dropbox folder. This authorization process <strong>only</strong> grants us access to a &ldquo;Flassh&rdquo; folder that we control, <strong>we do not have access</strong> to the rest of your Dropbox.</p>
+
+<p>To connect your Flassh account to Dropbox, sign into Flassh and open the <a href="https://www.flassh.co/account/integrations">Integrations tab</a>. Click the &ldquo;Connect to Dropbox&rdquo; button and click the &ldquo;Allow&rdquo; button when prompted on the Dropbox site. You&rsquo;ll immediately be sent back to Flassh, a folder will be created in your Dropbox, and you&rsquo;re all set!</p>
+
+<h3 id="enable-and-disable-dropbox-syncing">Enable and disable Dropbox syncing</h3>
+
+<p>Dropbox syncing can be enabled on a per-event basis. When you create or edit an event, you&rsquo;ll see an option for &ldquo;Dropbox Sync&rdquo;. Upon saving the event with Dropbox sync enabled, we&rsquo;ll instantly create the folder structure in your Dropbox so you can hook up anything you need to the folder before photos are added.</p>
+
+<p>Note that if you change the name or date of your event, new folders with the new name and date will be created (the old folders will remain untouched).</p>
+
+<h3 id="deleting-events-and-photos">Deleting events and photos</h3>
+
+<p>If you delete an event with Dropbox Sync enabled on that event, we&rsquo;ll attempt to delete the event and its photos from Dropbox. If you delete photos within an event, we&rsquo;ll attempt to delete those deleted photos from Dropbox as well.</p>
+
+<p>If you want to prevent deleting files in Dropbox when deleting in Flassh, you have 2 options:</p>
+
+<ul>
+<li>Disable the &ldquo;Dropbox Sync&rdquo; option and update the event in Flassh prior to deleting the event or photo(s).</li>
+<li>Move/copy the files in Dropbox somewhere else (in Dropbox or on your computer) before deleting the event or photo(s).</li>
+</ul>
+
+<p>When we delete items from Dropbox, know that Dropbox retains all deleted files for a period of time and allows you to restore them on-demand.</p>
+
+<h3 id="bandwidth-considerations">Bandwidth considerations</h3>
+
+<p>We know that excessive bandwidth usage is often a concern at events, especially when using a cellular connection or a weak WiFi signal. We copy all sizes of your photos to your Dropbox to give you the most flexibility, but you may not want to incur the bandwidth hit of downloading all these sizes if using this integration for something like local printing.</p>
+
+<p>We recommend using Dropbox&rsquo;s <a href="https://www.dropbox.com/help/syncing-uploads/selective-sync-overview">Selective Sync</a> feature, which allows you to choose folders that sync down to a given computer, leaving other folders in your Dropbox stored in the cloud. You could, for example, selectively sync the &ldquo;x1600&rdquo; folder (1600px on its largest side and the largest size that can include a watermark). When new photos are taken, we&rsquo;ll add all the photos to your Dropbox but that computer will only download the x1600 version.</p>
+
 <h2 id="credit-card-billing">Credit card &amp; billing</h2>
 
 <p>Once you&rsquo;re ready to run live events, you&rsquo;ll need to enter your credit card information and purchase event credits. There&rsquo;s no pressure to do so and no expiration on your test events, so if you want to keep your free account and continue using test events, you&rsquo;re more than welcome to do so.</p>
